@@ -1,0 +1,1001 @@
+Animal_ID,Named,DateTime_Intake,Found_Location,Intake_Type,Intake_Condition,Animal_Type,Sex_upon_Intake,Age_upon_Intake,Breed,Color,DateTime_Outcome,Sex_upon_Outcome,Age_upon_Outcome,binary_outcome,Length_of_Stay,Wild,Younger_than_1_Intake
+A815848,N,2020-03-27 18:54:00,Austin (TX),Wildlife,Normal,Bat,Unknown,1.0,Other,Brown,2020-03-27 19:00:00,Unknown,1.0,1.0,0,Y,N
+A815835,N,2020-03-27 14:10:00,Austin (TX),Wildlife,Normal,Bat,Unknown,2.0,Other,Brown,2020-03-27 15:12:00,Unknown,2.0,1.0,0,Y,N
+A815834,N,2020-03-27 13:48:00,Austin (TX),Wildlife,Normal,Bat,Unknown,2.0,Other,Brown,2020-03-27 15:12:00,Unknown,2.0,1.0,0,Y,N
+A815821,N,2020-03-26 23:45:00,Austin (TX),Wildlife,Normal,Bat,Unknown,2.0,Other,Brown,2020-03-27 09:08:00,Unknown,2.0,1.0,0,Y,N
+A815816,N,2020-03-26 23:21:00,Austin (TX),Wildlife,Normal,Bat,Unknown,2.0,Other,Brown,2020-03-27 09:05:00,Unknown,2.0,1.0,0,Y,N
+A815814,N,2020-03-26 23:05:00,Austin (TX),Wildlife,Normal,Bat,Unknown,2.0,Other,Brown,2020-03-27 08:16:00,Unknown,2.0,1.0,0,Y,N
+A815813,N,2020-03-26 16:54:00,Austin (TX),Abandoned,Normal,Dog,Intact Male,3.0,Labrador Retriever Mix,Black,2020-03-26 17:04:00,Intact Male,3.0,0.0,0,N,N
+A815799,Y,2020-03-26 14:01:00,Austin (TX),Stray,Injured,Cat,Intact Male,2.0,Domestic Medium Hair,Other,2020-03-27 13:16:00,Intact Male,2.0,0.0,0,N,N
+A815792,N,2020-03-26 12:45:00,Austin (TX),Wildlife,Normal,Bat,Unknown,1.0,Other,Brown,2020-03-26 14:16:00,Unknown,1.0,1.0,0,Y,N
+A815791,N,2020-03-26 12:03:00,Austin (TX),Wildlife,Normal,Bat,Unknown,2.0,Other,Brown,2020-03-26 14:14:00,Unknown,2.0,1.0,0,Y,N
+A815789,Y,2020-03-26 10:43:00,Austin (TX),Stray,Normal,Dog,Spayed Female,1.0,Other,Black/White,2020-03-26 13:05:00,Spayed Female,1.0,0.0,0,N,N
+A815787,N,2020-03-26 10:04:00,Austin (TX),Wildlife,Normal,Bat,Unknown,0.4166666666666667,Other,Other,2020-03-27 08:58:00,Unknown,0.5,1.0,0,Y,Y
+A815779,N,2020-03-26 01:30:00,Austin (TX),Wildlife,Normal,Bat,Unknown,2.0,Other,Brown,2020-03-26 08:17:00,Unknown,2.0,1.0,0,Y,N
+A815776,N,2020-03-25 22:47:00,Austin (TX),Wildlife,Normal,Bat,Unknown,2.0,Other,Brown,2020-03-26 09:02:00,Unknown,2.0,1.0,0,Y,N
+A815773,N,2020-03-25 17:18:00,Lakeway (TX),Wildlife,Normal,Bat,Unknown,1.0,Other,Brown,2020-03-25 17:40:00,Unknown,1.0,1.0,0,Y,N
+A815771,N,2020-03-25 23:19:00,Austin (TX),Wildlife,Normal,Bat,Unknown,2.0,Other,Brown,2020-03-26 08:16:00,Unknown,2.0,1.0,0,Y,N
+A815768,N,2020-03-25 15:08:00,Austin (TX),Wildlife,Normal,Bat,Unknown,2.0,Other,Black/Brown,2020-03-25 15:20:00,Unknown,2.0,1.0,0,Y,N
+A815767,N,2020-03-25 14:46:00,Austin (TX),Wildlife,Sick,Bat,Unknown,2.0,Other,Brown,2020-03-25 15:03:00,Unknown,2.0,1.0,0,Y,N
+A815765,N,2020-03-25 13:30:00,Austin (TX),Stray,Injured,Cat,Intact Male,2.0,Domestic Shorthair,Brown Tabby,2020-03-27 09:52:00,Intact Male,2.0,1.0,1,N,N
+A815763,N,2020-03-25 13:10:00,Travis (TX),Stray,Sick,Dog,Intact Female,2.0,Chihuahua Shorthair,White/Tan,2020-03-26 17:44:00,Intact Female,2.0,0.0,1,N,N
+A815762,N,2020-03-25 11:24:00,Austin (TX),Wildlife,Sick,Fox,Unknown,1.0,Other,Brown,2020-03-25 11:51:00,Unknown,1.0,1.0,0,Y,N
+A815754,N,2020-03-24 21:02:00,Austin (TX),Wildlife,Normal,Bat,Unknown,1.0,Other,Brown,2020-03-25 07:52:00,Unknown,1.0,1.0,0,Y,N
+A815753,N,2020-03-24 21:00:00,Austin (TX),Wildlife,Normal,Bat,Unknown,1.0,Other,Brown,2020-03-25 07:50:00,Unknown,1.0,1.0,0,Y,N
+A815750,N,2020-03-24 17:55:00,Austin (TX),Wildlife,Sick,Raccoon,Unknown,1.0,Other,Black/Brown,2020-03-24 18:54:00,Unknown,1.0,1.0,0,Y,N
+A815749,N,2020-03-24 17:45:00,Austin (TX),Wildlife,Injured,Bat,Unknown,1.0,Other,Brown,2020-03-24 18:52:00,Unknown,1.0,1.0,0,Y,N
+A815748,N,2020-03-24 17:13:00,Travis (TX),Stray,Injured,Cat,Intact Male,0.01643835616438356,Domestic Shorthair,Brown Tabby,2020-03-24 18:32:00,Intact Male,0.01643835616438356,1.0,0,N,Y
+A815747,N,2020-03-24 17:13:00,Travis (TX),Stray,Injured,Cat,Intact Male,0.01643835616438356,Domestic Shorthair,Brown Tabby,2020-03-24 18:31:00,Intact Male,0.01643835616438356,1.0,0,N,Y
+A815746,N,2020-03-24 17:13:00,Travis (TX),Stray,Injured,Cat,Intact Male,0.019230769230769232,Domestic Shorthair,Orange Tabby,2020-03-24 18:31:00,Intact Male,0.019230769230769232,0.0,0,N,Y
+A815745,N,2020-03-24 17:13:00,Travis (TX),Stray,Injured,Cat,Intact Female,0.019230769230769232,Domestic Shorthair,Brown Tabby,2020-03-24 18:30:00,Intact Female,0.019230769230769232,0.0,0,N,Y
+A815739,Y,2020-03-24 15:43:00,Austin (TX),Owner Surrender,Normal,Dog,Intact Female,5.0,German Shepherd,Black/Brown,2020-03-26 11:14:00,Intact Female,5.0,0.0,1,N,N
+A815735,N,2020-03-24 13:45:00,Austin (TX),Wildlife,Sick,Bat,Unknown,1.0,Other,Black,2020-03-24 14:07:00,Unknown,1.0,1.0,0,Y,N
+A815729,N,2020-03-24 12:22:00,Austin (TX),Wildlife,Sick,Raccoon,Unknown,2.0,Other,Other,2020-03-24 13:44:00,Unknown,2.0,1.0,0,Y,N
+A815721,N,2020-03-23 23:57:00,Austin (TX),Wildlife,Normal,Bat,Unknown,1.0,Other,Brown,2020-03-24 09:17:00,Unknown,1.0,1.0,0,Y,N
+A815716,N,2020-03-23 21:35:00,Austin (TX),Stray,Injured,Cat,Intact Male,3.0,Domestic Longhair,Other,2020-03-24 09:21:00,Intact Male,3.0,1.0,0,N,N
+A815715,N,2020-03-23 19:13:00,Austin (TX),Stray,Nursing,Cat,Intact Male,0.038461538461538464,Domestic Shorthair,Other,2020-03-24 11:22:00,Intact Male,0.038461538461538464,0.0,0,N,Y
+A815714,N,2020-03-23 19:13:00,Austin (TX),Stray,Nursing,Cat,Intact Female,0.038461538461538464,Domestic Shorthair,Other,2020-03-24 11:22:00,Intact Female,0.038461538461538464,0.0,0,N,Y
+A815708,N,2020-03-23 16:35:00,Austin (TX),Stray,Normal,Dog,Intact Female,0.75,Other,Brown,2020-03-27 15:05:00,Intact Female,0.75,0.0,3,N,Y
+A815688,Y,2020-03-23 12:21:00,Austin (TX),Stray,Normal,Dog,Spayed Female,4.0,Other,Black/Brown,2020-03-24 14:55:00,Spayed Female,4.0,0.0,1,N,N
+A815686,Y,2020-03-23 12:21:00,Austin (TX),Stray,Normal,Dog,Neutered Male,5.0,Other,Black/Brown,2020-03-24 14:53:00,Neutered Male,5.0,0.0,1,N,N
+A815679,N,2020-03-23 10:05:00,Austin (TX),Stray,Normal,Cat,Intact Female,0.00821917808219178,Domestic Shorthair,Other,2020-03-23 18:56:00,Intact Female,0.00821917808219178,0.0,0,N,Y
+A815676,N,2020-03-23 08:26:00,Austin (TX),Wildlife,Normal,Bat,Unknown,2.0,Other,Brown,2020-03-23 10:11:00,Unknown,2.0,1.0,0,Y,N
+A815673,N,2020-03-22 18:30:00,Travis (TX),Wildlife,Normal,Bat,Unknown,1.0,Other,Brown,2020-03-23 10:15:00,Unknown,1.0,1.0,0,Y,N
+A815662,Y,2020-03-22 14:48:00,Austin (TX),Stray,Normal,Dog,Intact Female,2.0,Other,Black/Brown,2020-03-24 14:55:00,Intact Female,2.0,0.0,2,N,N
+A815658,N,2020-03-22 13:27:00,Travis (TX),Wildlife,Normal,Bat,Intact Male,2.0,Other,Black,2020-03-22 16:15:00,Intact Male,2.0,1.0,0,Y,N
+A815650,N,2020-03-22 10:42:00,Austin (TX),Stray,Nursing,Cat,Intact Female,0.0136986301369863,Domestic Shorthair,Black/White,2020-03-22 10:44:00,Intact Female,0.0136986301369863,0.0,0,N,Y
+A815640,N,2020-03-21 17:09:00,Austin (TX),Wildlife,Sick,Skunk,Unknown,2.0,Other,Black/White,2020-03-22 07:48:00,Unknown,2.0,1.0,0,Y,N
+A815629,Y,2020-03-21 12:40:00,Austin (TX),Public Assist,Normal,Dog,Neutered Male,0.5833333333333334,Labrador Retriever,Black,2020-03-22 17:35:00,Neutered Male,0.5833333333333334,0.0,1,N,Y
+A815621,N,2020-03-21 09:07:00,Austin (TX),Stray,Injured,Cat,Intact Female,2.0,Domestic Shorthair,Black/White,2020-03-21 13:53:00,Intact Female,2.0,1.0,0,N,N
+A815619,N,2020-03-20 20:17:00,Austin (TX),Wildlife,Normal,Bat,Unknown,2.0,Other,Brown,2020-03-22 07:47:00,Unknown,2.0,1.0,1,Y,N
+A815618,N,2020-03-20 17:33:00,Austin (TX),Abandoned,Normal,Dog,Intact Female,0.9166666666666666,Other,Red/White,2020-03-24 09:55:00,Intact Female,1.0,0.0,3,N,Y
+A815616,N,2020-03-20 17:33:00,Austin (TX),Abandoned,Normal,Dog,Intact Male,0.3333333333333333,Other,Red/White,2020-03-24 09:56:00,Intact Male,0.3333333333333333,0.0,3,N,Y
+A815615,N,2020-03-20 17:33:00,Austin (TX),Abandoned,Normal,Dog,Intact Female,0.16666666666666666,Other,Red/White,2020-03-24 09:56:00,Intact Female,0.25,0.0,3,N,Y
+A815614,N,2020-03-20 17:33:00,Austin (TX),Abandoned,Normal,Dog,Intact Female,0.16666666666666666,Other,Other,2020-03-24 09:55:00,Intact Female,0.25,0.0,3,N,Y
+A815611,Y,2020-03-20 17:17:00,Austin (TX),Stray,Injured,Dog,Spayed Female,2.0,Dachshund,Other,2020-03-23 18:49:00,Spayed Female,2.0,0.0,3,N,N
+A815586,N,2020-03-20 12:02:00,Austin (TX),Stray,Sick,Dog,Intact Female,0.16666666666666666,Chihuahua Shorthair,Black/Brown,2020-03-23 17:25:00,Intact Female,0.16666666666666666,0.0,3,N,Y
+A815575,N,2020-03-19 16:18:00,Austin (TX),Wildlife,Normal,Bat,Unknown,2.0,Other,Brown,2020-03-19 17:54:00,Unknown,2.0,1.0,0,Y,N
+A815572,N,2020-03-12 13:17:00,Austin (TX),Public Assist,Nursing,Dog,Unknown,0.0,Labrador Retriever,Blue/White,2020-03-24 15:04:00,Unknown,0.019230769230769232,0.0,12,N,Y
+A815571,N,2020-03-12 13:17:00,Austin (TX),Public Assist,Nursing,Dog,Unknown,0.0,Labrador Retriever,Blue/White,2020-03-24 15:03:00,Unknown,0.019230769230769232,0.0,12,N,Y
+A815568,N,2020-03-19 13:24:00,Austin (TX),Wildlife,Sick,Bat,Unknown,2.0,Other,Brown,2020-03-23 09:06:00,Unknown,2.0,1.0,3,Y,N
+A815565,Y,2020-03-19 08:42:00,Travis (TX),Stray,Injured,Dog,Spayed Female,14.0,Other,Black/Brown,2020-03-19 14:21:00,Spayed Female,14.0,0.0,0,N,N
+A815562,N,2020-03-19 01:24:00,Austin (TX),Wildlife,Normal,Bat,Unknown,1.0,Other,Brown,2020-03-19 09:27:00,Unknown,1.0,1.0,0,Y,N
+A815561,N,2020-03-18 20:56:00,Travis (TX),Wildlife,Injured,Bat,Unknown,1.0,Other,Brown,2020-03-19 09:27:00,Unknown,1.0,1.0,0,Y,N
+A815558,N,2020-03-18 20:43:00,Austin (TX),Wildlife,Injured,Bat,Unknown,1.0,Other,Brown,2020-03-23 09:07:00,Unknown,1.0,1.0,4,Y,N
+A815553,N,2020-03-18 17:38:00,Austin (TX),Wildlife,Sick,Bat,Unknown,2.0,Other,Brown,2020-03-18 18:30:00,Unknown,2.0,1.0,0,Y,N
+A815548,N,2020-03-18 16:38:00,Austin (TX),Stray,Injured,Dog,Intact Male,1.0,Other,Tricolor,2020-03-22 13:46:00,Intact Male,1.0,1.0,3,N,N
+A815547,N,2020-03-18 16:35:00,Austin (TX),Wildlife,Sick,Bat,Unknown,2.0,Other,Brown,2020-03-18 17:09:00,Unknown,2.0,1.0,0,Y,N
+A815540,N,2020-03-18 13:28:00,Austin (TX),Abandoned,Normal,Guinea Pig,Unknown,1.0,Other,Red/White,2020-03-20 11:55:00,Unknown,1.0,0.0,1,N,N
+A815539,N,2020-03-18 13:28:00,Austin (TX),Abandoned,Normal,Guinea Pig,Unknown,1.0,Other,Red/White,2020-03-20 11:53:00,Unknown,1.0,0.0,1,N,N
+A815536,Y,2020-03-18 12:13:00,Austin (TX),Public Assist,Normal,Dog,Intact Male,0.9166666666666666,Pit Bull,Brown,2020-03-24 11:49:00,Intact Male,0.9166666666666666,0.0,5,N,Y
+A815533,Y,2020-03-18 09:40:00,Austin (TX),Owner Surrender,Normal,Cat,Intact Female,0.0,Domestic Shorthair,Brown Tabby,2020-03-18 13:37:00,Intact Female,0.0,0.0,0,N,Y
+A815532,Y,2020-03-18 09:40:00,Austin (TX),Owner Surrender,Normal,Cat,Intact Female,0.0,Domestic Shorthair,Other,2020-03-18 13:37:00,Intact Female,0.0,0.0,0,N,Y
+A815531,Y,2020-03-18 09:40:00,Austin (TX),Owner Surrender,Normal,Cat,Intact Male,0.0,Domestic Shorthair,Other,2020-03-18 13:36:00,Intact Male,0.0,0.0,0,N,Y
+A815530,Y,2020-03-18 09:40:00,Austin (TX),Owner Surrender,Normal,Cat,Intact Male,0.0,Domestic Shorthair,Orange Tabby,2020-03-18 13:36:00,Intact Male,0.0,0.0,0,N,Y
+A815529,Y,2020-03-18 09:40:00,Austin (TX),Owner Surrender,Normal,Cat,Intact Male,0.0,Domestic Shorthair,Orange Tabby,2020-03-18 13:36:00,Intact Male,0.0,0.0,0,N,Y
+A815525,Y,2020-03-17 21:45:00,Austin (TX),Abandoned,Normal,Cat,Spayed Female,2.0,Domestic Shorthair,Black,2020-03-20 00:00:00,Spayed Female,2.0,0.0,2,N,N
+A815514,Y,2020-03-19 14:48:00,Austin (TX),Public Assist,Normal,Cat,Intact Male,0.9166666666666666,Domestic Shorthair,Black,2020-03-20 13:24:00,Intact Male,0.9166666666666666,0.0,0,N,Y
+A815510,N,2020-03-17 15:51:00,Austin (TX),Stray,Normal,Dog,Intact Male,0.16666666666666666,Other,Brown/White,2020-03-20 11:16:00,Intact Male,0.16666666666666666,0.0,2,N,Y
+A815505,Y,2020-03-17 14:45:00,Austin (TX),Stray,Normal,Dog,Neutered Male,5.0,Labrador Retriever Mix,White/Tan,2020-03-17 16:28:00,Neutered Male,5.0,0.0,0,N,N
+A815500,N,2020-03-17 12:04:00,Austin (TX),Wildlife,Normal,Bat,Unknown,2.0,Other,Brown,2020-03-17 12:49:00,Unknown,2.0,1.0,0,Y,N
+A815499,N,2020-03-17 10:36:00,Austin (TX),Wildlife,Injured,Opossum,Intact Male,2.0,Other,White,2020-03-17 16:26:00,Intact Male,2.0,1.0,0,Y,N
+A815492,N,2020-03-16 22:48:00,Austin (TX),Wildlife,Normal,Bat,Unknown,1.0,Other,Brown,2020-03-18 10:55:00,Unknown,1.0,1.0,1,Y,N
+A815488,N,2020-03-16 18:34:00,Austin (TX),Abandoned,Normal,Cat,Intact Female,2.0,Domestic Shorthair,Other,2020-03-18 13:45:00,Intact Female,2.0,0.0,1,N,N
+A815481,N,2020-03-16 16:48:00,Austin (TX),Wildlife,Normal,Bat,Unknown,2.0,Other,Black/Brown,2020-03-17 08:51:00,Unknown,2.0,1.0,0,Y,N
+A815478,N,2020-03-16 16:16:00,Austin (TX),Wildlife,Sick,Raccoon,Unknown,1.0,Other,Black/Brown,2020-03-16 16:46:00,Unknown,1.0,1.0,0,Y,N
+A815470,Y,2020-03-16 12:28:00,Austin (TX),Stray,Normal,Dog,Intact Male,2.0,Other,Brown,2020-03-17 19:13:00,Intact Male,2.0,0.0,1,N,N
+A815469,Y,2020-03-16 12:28:00,Austin (TX),Stray,Normal,Dog,Intact Male,1.0,Other,Black/Brown,2020-03-17 19:14:00,Intact Male,1.0,0.0,1,N,N
+A815467,Y,2020-03-16 10:59:00,Austin (TX),Stray,Normal,Dog,Neutered Male,7.0,Other,Other,2020-03-16 12:24:00,Neutered Male,7.0,0.0,0,N,N
+A815466,Y,2020-03-16 10:14:00,Austin (TX),Public Assist,Normal,Dog,Intact Female,2.0,Other,Other,2020-03-16 14:34:00,Intact Female,2.0,0.0,0,N,N
+A815463,N,2020-03-16 08:22:00,Austin (TX),Stray,Nursing,Cat,Intact Female,0.019230769230769232,Domestic Shorthair,Calico,2020-03-18 13:45:00,Intact Female,0.038461538461538464,0.0,2,N,Y
+A815462,N,2020-03-16 08:22:00,Austin (TX),Stray,Nursing,Cat,Intact Female,0.019230769230769232,Domestic Shorthair,Other,2020-03-18 13:44:00,Intact Female,0.038461538461538464,0.0,2,N,Y
+A815461,N,2020-03-16 08:22:00,Austin (TX),Stray,Nursing,Cat,Intact Female,0.019230769230769232,Domestic Shorthair,Other,2020-03-18 13:44:00,Intact Female,0.038461538461538464,0.0,2,N,Y
+A815460,N,2020-03-16 08:22:00,Austin (TX),Stray,Nursing,Cat,Intact Male,0.019230769230769232,Domestic Shorthair,Brown Tabby/White,2020-03-18 13:43:00,Intact Male,0.038461538461538464,0.0,2,N,Y
+A815459,N,2020-03-16 08:22:00,Austin (TX),Stray,Nursing,Cat,Intact Female,0.019230769230769232,Domestic Shorthair,Calico,2020-03-18 13:43:00,Intact Female,0.038461538461538464,0.0,2,N,Y
+A815458,N,2020-03-16 08:22:00,Austin (TX),Stray,Nursing,Cat,Intact Female,3.0,Domestic Shorthair,Calico,2020-03-18 13:43:00,Intact Female,3.0,0.0,2,N,N
+A815457,Y,2020-03-16 08:01:00,Austin (TX),Stray,Injured,Cat,Intact Female,0.25,Domestic Shorthair,Other,2020-03-21 13:38:00,Spayed Female,0.3333333333333333,0.0,5,N,Y
+A815441,N,2020-03-15 16:45:00,Austin (TX),Stray,Nursing,Cat,Intact Male,0.00821917808219178,Domestic Shorthair,Brown Tabby,2020-03-15 18:33:00,Intact Male,0.00821917808219178,0.0,0,N,Y
+A815440,N,2020-03-15 16:45:00,Austin (TX),Stray,Nursing,Cat,Intact Male,0.00821917808219178,Domestic Shorthair,Brown Tabby,2020-03-15 18:33:00,Intact Male,0.00821917808219178,0.0,0,N,Y
+A815439,N,2020-03-15 16:45:00,Austin (TX),Stray,Nursing,Cat,Intact Male,0.00821917808219178,Domestic Shorthair,Brown Tabby,2020-03-15 18:30:00,Intact Male,0.00821917808219178,0.0,0,N,Y
+A815438,N,2020-03-15 16:45:00,Austin (TX),Stray,Nursing,Cat,Intact Female,0.00821917808219178,Domestic Shorthair,Brown Tabby,2020-03-15 18:28:00,Intact Female,0.00821917808219178,0.0,0,N,Y
+A815435,Y,2020-03-15 16:10:00,Austin (TX),Stray,Normal,Dog,Intact Female,0.9166666666666666,Dachshund,Red/White,2020-03-25 07:25:00,Spayed Female,1.0,0.0,9,N,Y
+A815429,Y,2020-03-15 16:02:00,Austin (TX),Stray,Normal,Dog,Neutered Male,6.0,Other,Brown/White,2020-03-24 14:05:00,Neutered Male,6.0,0.0,8,N,N
+A815427,Y,2020-03-15 15:50:00,Austin (TX),Owner Surrender,Normal,Cat,Intact Female,2.0,Domestic Shorthair,Tortie,2020-03-18 13:36:00,Intact Female,2.0,0.0,2,N,N
+A815424,N,2020-03-15 15:01:00,Austin (TX),Owner Surrender,Normal,Dog,Intact Female,0.08333333333333333,Chihuahua Shorthair,Tricolor,2020-03-16 16:28:00,Intact Female,0.08333333333333333,0.0,1,N,Y
+A815423,N,2020-03-15 15:01:00,Austin (TX),Owner Surrender,Normal,Dog,Intact Male,0.08333333333333333,Chihuahua Shorthair,Tricolor,2020-03-16 18:12:00,Intact Male,0.08333333333333333,0.0,1,N,Y
+A815419,N,2020-03-15 12:53:00,Austin (TX),Stray,Normal,Dog,Intact Female,1.0,Other,Tan,2020-03-20 13:48:00,Intact Female,1.0,0.0,5,N,N
+A815418,N,2020-03-15 12:53:00,Austin (TX),Stray,Normal,Dog,Intact Female,1.0,Chihuahua Shorthair,White/Tan,2020-03-20 13:48:00,Intact Female,1.0,0.0,5,N,N
+A815417,N,2020-03-15 12:45:00,Travis (TX),Stray,Normal,Dog,Intact Female,0.08333333333333333,Chihuahua Shorthair,Black,2020-03-20 11:19:00,Intact Female,0.08333333333333333,0.0,4,N,Y
+A815416,N,2020-03-15 12:45:00,Travis (TX),Stray,Normal,Dog,Intact Female,0.08333333333333333,Chihuahua Shorthair,Black/Brown,2020-03-20 11:19:00,Intact Female,0.08333333333333333,0.0,4,N,Y
+A815415,N,2020-03-15 12:45:00,Travis (TX),Stray,Normal,Dog,Intact Female,0.08333333333333333,Chihuahua Shorthair,Black/White,2020-03-20 11:19:00,Intact Female,0.08333333333333333,0.0,4,N,Y
+A815414,Y,2020-03-15 12:45:00,Travis (TX),Stray,Normal,Dog,Intact Female,5.0,Chihuahua Shorthair,White/Tan,2020-03-24 16:31:00,Spayed Female,5.0,0.0,9,N,N
+A815412,Y,2020-03-15 12:45:00,Travis (TX),Stray,Normal,Dog,Intact Female,5.0,Chihuahua Shorthair,White/Tan,2020-03-24 16:31:00,Spayed Female,5.0,0.0,9,N,N
+A815411,N,2020-03-15 12:41:00,Austin (TX),Stray,Normal,Cat,Intact Female,2.0,Domestic Medium Hair,Calico,2020-03-27 14:40:00,Intact Female,2.0,0.0,12,N,N
+A815409,Y,2020-03-15 12:24:00,Austin (TX),Stray,Normal,Cat,Neutered Male,10.0,Domestic Shorthair,Orange Tabby,2020-03-15 17:44:00,Neutered Male,10.0,0.0,0,N,N
+A815408,N,2020-03-15 12:02:00,Austin (TX),Stray,Normal,Cat,Unknown,2.0,Domestic Medium Hair,Other,2020-03-22 12:59:00,Unknown,2.0,0.0,7,N,N
+A815407,Y,2020-03-15 12:02:00,Austin (TX),Stray,Injured,Dog,Intact Male,3.0,Chihuahua Shorthair,Tan,2020-03-20 13:27:00,Intact Male,3.0,0.0,5,N,N
+A815406,N,2020-03-15 11:47:00,Austin (TX),Owner Surrender,Normal,Dog,Intact Female,0.16666666666666666,Labrador Retriever Mix,Black,2020-03-16 16:32:00,Spayed Female,0.16666666666666666,0.0,1,N,Y
+A815405,N,2020-03-15 11:47:00,Austin (TX),Owner Surrender,Normal,Dog,Intact Male,0.16666666666666666,Labrador Retriever Mix,Black/White,2020-03-26 12:06:00,Neutered Male,0.16666666666666666,0.0,11,N,Y
+A815403,N,2020-03-15 11:47:00,Austin (TX),Owner Surrender,Normal,Dog,Intact Female,0.16666666666666666,Labrador Retriever Mix,Black/Brown,2020-03-16 16:32:00,Spayed Female,0.16666666666666666,0.0,1,N,Y
+A815402,Y,2020-03-15 11:53:00,Austin (TX),Stray,Normal,Dog,Spayed Female,5.0,Pit Bull,Black/White,2020-03-17 17:19:00,Spayed Female,5.0,0.0,2,N,N
+A815401,Y,2020-03-15 11:15:00,Vista (TX),Owner Surrender,Normal,Bird,Unknown,1.0,Other,White,2020-03-27 06:59:00,Unknown,1.0,0.0,11,N,N
+A815400,Y,2020-03-15 11:15:00,Vista (TX),Owner Surrender,Normal,Bird,Unknown,1.0,Other,Other,2020-03-27 06:57:00,Unknown,1.0,0.0,11,N,N
+A815398,N,2020-03-15 10:21:00,Austin (TX),Public Assist,Normal,Cat,Neutered Male,1.0,Domestic Shorthair,White/Orange Tabby,2020-03-15 13:14:00,Neutered Male,1.0,0.0,0,N,N
+A815397,Y,2020-03-15 09:54:00,Austin (TX),Stray,Normal,Dog,Intact Male,0.8333333333333334,Other,Black/White,2020-03-18 11:25:00,Intact Male,0.8333333333333334,0.0,3,N,Y
+A815390,N,2020-03-14 17:22:00,Austin (TX),Stray,Nursing,Cat,Unknown,0.019230769230769232,Domestic Shorthair,Black,2020-03-15 15:13:00,Unknown,0.019230769230769232,0.0,0,N,Y
+A815388,N,2020-03-14 17:18:00,Austin (TX),Wildlife,Sick,Skunk,Unknown,2.0,Other,Black/White,2020-03-16 10:29:00,Unknown,2.0,1.0,1,Y,N
+A815378,Y,2020-03-15 11:16:00,Austin (TX),Public Assist,Normal,Dog,Neutered Male,2.0,Other,Black/Tan,2020-03-24 13:47:00,Neutered Male,2.0,0.0,9,N,N
+A815377,Y,2020-03-16 18:09:00,Austin (TX),Public Assist,Normal,Dog,Spayed Female,2.0,Chihuahua Shorthair,Red/White,2020-03-23 17:06:00,Spayed Female,2.0,0.0,6,N,N
+A815374,N,2020-03-14 15:59:00,Austin (TX),Wildlife,Sick,Bat,Unknown,2.0,Other,Brown,2020-03-14 16:18:00,Unknown,2.0,1.0,0,Y,N
+A815373,N,2020-03-14 15:45:00,Austin (TX),Stray,Normal,Cat,Intact Male,1.0,Domestic Shorthair,Black/White,2020-03-17 18:30:00,Intact Male,1.0,0.0,3,N,N
+A815372,N,2020-03-14 15:45:00,Austin (TX),Stray,Normal,Cat,Intact Male,1.0,Domestic Shorthair,Black/White,2020-03-17 18:30:00,Intact Male,1.0,0.0,3,N,N
+A815371,N,2020-03-14 15:45:00,Austin (TX),Stray,Normal,Cat,Intact Male,1.0,Domestic Shorthair,Black/White,2020-03-17 18:30:00,Intact Male,1.0,0.0,3,N,N
+A815370,N,2020-03-14 14:59:00,Austin (TX),Stray,Normal,Dog,Intact Female,0.08333333333333333,Other,Tan,2020-03-18 13:36:00,Intact Female,0.16666666666666666,0.0,3,N,Y
+A815369,Y,2020-03-14 15:22:00,Austin (TX),Owner Surrender,Normal,Dog,Intact Male,0.16666666666666666,Other,Black/Brown,2020-03-16 16:19:00,Neutered Male,0.16666666666666666,0.0,2,N,Y
+A815368,Y,2020-03-14 14:56:00,Austin (TX),Stray,Normal,Dog,Neutered Male,1.0,Labrador Retriever,Black/White,2020-03-14 16:57:00,Neutered Male,1.0,0.0,0,N,N
+A815367,Y,2020-03-14 14:56:00,Austin (TX),Stray,Normal,Dog,Neutered Male,1.0,Labrador Retriever,Black/White,2020-03-14 16:56:00,Neutered Male,1.0,0.0,0,N,N
+A815359,Y,2020-03-14 13:55:00,Austin (TX),Stray,Normal,Dog,Spayed Female,1.0,Other,Red,2020-03-14 15:11:00,Spayed Female,1.0,0.0,0,N,N
+A815358,Y,2020-03-14 13:40:00,Austin (TX),Stray,Normal,Dog,Spayed Female,10.0,Australian Cattle Dog,Black,2020-03-17 13:15:00,Spayed Female,10.0,0.0,2,N,N
+A815357,Y,2020-03-14 13:11:00,Austin (TX),Stray,Normal,Dog,Intact Male,10.0,Other,Brown/White,2020-03-16 12:02:00,Intact Male,10.0,0.0,1,N,N
+A815356,Y,2020-03-14 13:08:00,Austin (TX),Owner Surrender,Normal,Cat,Intact Male,0.4166666666666667,Other,Other,2020-03-15 17:37:00,Neutered Male,0.5,0.0,1,N,Y
+A815352,N,2020-03-14 13:10:00,Austin (TX),Wildlife,Sick,Skunk,Unknown,2.0,Other,Black/White,2020-03-16 10:28:00,Unknown,2.0,1.0,1,Y,N
+A815351,Y,2020-03-14 12:57:00,Austin (TX),Stray,Injured,Cat,Neutered Male,8.0,Domestic Shorthair,White/Orange Tabby,2020-03-15 11:11:00,Neutered Male,8.0,0.0,0,N,N
+A815346,N,2020-03-14 11:54:00,Austin (TX),Wildlife,Normal,Bat,Unknown,2.0,Other,Brown,2020-03-16 10:26:00,Unknown,2.0,1.0,1,Y,N
+A815345,Y,2020-03-14 11:22:00,Austin (TX),Owner Surrender,Normal,Dog,Intact Female,4.0,Shih Tzu,Black/White,2020-03-17 11:34:00,Intact Female,4.0,0.0,3,N,N
+A815338,Y,2020-03-14 08:12:00,Travis (TX),Stray,Injured,Cat,Neutered Male,3.0,Domestic Shorthair,Orange Tabby,2020-03-18 15:11:00,Neutered Male,3.0,1.0,4,N,N
+A815334,N,2020-03-14 00:11:00,Austin (TX),Wildlife,Normal,Bat,Unknown,2.0,Other,Brown,2020-03-15 10:46:00,Unknown,2.0,1.0,1,Y,N
+A815333,N,2020-03-13 23:46:00,Austin (TX),Wildlife,Normal,Bat,Unknown,2.0,Other,Brown,2020-03-15 10:43:00,Unknown,2.0,1.0,1,Y,N
+A815331,Y,2020-03-14 16:44:00,Austin (TX),Stray,Normal,Dog,Intact Female,0.08333333333333333,Labrador Retriever Mix,Black/White,2020-03-20 11:18:00,Spayed Female,0.16666666666666666,0.0,5,N,Y
+A815330,Y,2020-03-14 16:44:00,Austin (TX),Stray,Normal,Dog,Intact Female,0.08333333333333333,Labrador Retriever Mix,Black/White,2020-03-20 11:18:00,Spayed Female,0.16666666666666666,0.0,5,N,Y
+A815321,N,2020-03-13 18:29:00,Austin (TX),Stray,Injured,Cat,Intact Male,1.0,Domestic Shorthair,Blue/White,2020-03-24 13:37:00,Intact Male,1.0,0.0,10,N,N
+A815318,N,2020-03-13 17:48:00,Austin (TX),Wildlife,Normal,Bat,Unknown,1.0,Other,Brown,2020-03-16 10:58:00,Unknown,1.0,1.0,2,Y,N
+A815316,N,2020-03-13 17:17:00,Travis (TX),Owner Surrender,Normal,Dog,Intact Female,0.16666666666666666,Labrador Retriever/Pit Bull,Black/White,2020-03-15 17:22:00,Spayed Female,0.16666666666666666,0.0,2,N,Y
+A815315,N,2020-03-13 17:17:00,Travis (TX),Owner Surrender,Normal,Dog,Intact Male,0.16666666666666666,Labrador Retriever/Pit Bull,Black/White,2020-03-15 17:55:00,Neutered Male,0.16666666666666666,0.0,2,N,Y
+A815314,N,2020-03-13 17:17:00,Travis (TX),Owner Surrender,Normal,Dog,Intact Male,0.16666666666666666,Labrador Retriever/Pit Bull,Black/White,2020-03-15 16:16:00,Neutered Male,0.16666666666666666,0.0,1,N,Y
+A815313,N,2020-03-13 17:17:00,Travis (TX),Owner Surrender,Normal,Dog,Intact Female,0.16666666666666666,Labrador Retriever/Pit Bull,Brown/White,2020-03-15 18:13:00,Spayed Female,0.16666666666666666,0.0,2,N,Y
+A815311,N,2020-03-13 16:58:00,Austin (TX),Stray,Normal,Dog,Intact Male,0.16666666666666666,Other,Red/White,2020-03-17 17:12:00,Neutered Male,0.16666666666666666,0.0,4,N,Y
+A815310,N,2020-03-13 16:58:00,Austin (TX),Stray,Normal,Dog,Intact Male,0.16666666666666666,Maltese,Brown/White,2020-03-17 16:02:00,Neutered Male,0.16666666666666666,0.0,3,N,Y
+A815309,N,2020-03-13 16:58:00,Austin (TX),Stray,Normal,Dog,Intact Male,0.16666666666666666,Maltese,White,2020-03-17 16:02:00,Neutered Male,0.16666666666666666,0.0,3,N,Y
+A815308,N,2020-03-13 16:48:00,Austin (TX),Wildlife,Sick,Raccoon,Unknown,2.0,Other,Other,2020-03-15 10:42:00,Unknown,2.0,1.0,1,Y,N
+A815302,N,2020-03-13 15:55:00,Austin (TX),Stray,Normal,Cat,Unknown,1.0,Domestic Shorthair,Other,2020-03-17 11:45:00,Unknown,1.0,0.0,3,N,N
+A815301,N,2020-03-13 15:54:00,Austin (TX),Wildlife,Sick,Bat,Unknown,2.0,Other,Brown,2020-03-17 08:52:00,Unknown,2.0,1.0,3,Y,N
+A815298,N,2020-03-13 13:32:00,Austin (TX),Owner Surrender,Normal,Cat,Intact Male,0.0576923076923077,Domestic Shorthair,Orange Tabby,2020-03-13 19:25:00,Intact Male,0.0576923076923077,0.0,0,N,Y
+A815297,N,2020-03-13 13:32:00,Austin (TX),Owner Surrender,Normal,Cat,Intact Male,0.0576923076923077,Domestic Shorthair,Orange Tabby,2020-03-13 19:25:00,Intact Male,0.0576923076923077,0.0,0,N,Y
+A815296,N,2020-03-13 13:32:00,Austin (TX),Owner Surrender,Normal,Cat,Intact Female,0.0576923076923077,Domestic Shorthair,Tortie,2020-03-13 19:25:00,Intact Female,0.0576923076923077,0.0,0,N,Y
+A815295,N,2020-03-13 13:32:00,Austin (TX),Owner Surrender,Normal,Cat,Intact Female,0.0576923076923077,Domestic Shorthair,Tortie,2020-03-13 19:25:00,Intact Female,0.0576923076923077,0.0,0,N,Y
+A815294,Y,2020-03-13 14:19:00,Austin (TX),Owner Surrender,Normal,Dog,Neutered Male,5.0,Other,White/Chocolate,2020-03-26 16:52:00,Neutered Male,5.0,0.0,13,N,N
+A815293,Y,2020-03-13 14:19:00,Austin (TX),Owner Surrender,Normal,Dog,Spayed Female,7.0,Other,Other,2020-03-19 15:26:00,Spayed Female,7.0,0.0,6,N,N
+A815289,N,2020-03-13 14:10:00,Austin (TX),Wildlife,Sick,Bat,Unknown,1.0,Other,Black,2020-03-15 10:41:00,Unknown,1.0,1.0,1,Y,N
+A815287,N,2020-03-13 13:43:00,Austin (TX),Wildlife,Normal,Bat,Unknown,1.0,Other,Brown,2020-03-16 10:58:00,Unknown,1.0,1.0,2,Y,N
+A815286,N,2020-03-13 13:32:00,Austin (TX),Stray,Normal,Dog,Intact Male,1.0,Other,Other,2020-03-18 13:36:00,Neutered Male,1.0,0.0,5,N,N
+A815285,N,2020-03-13 13:32:00,Austin (TX),Stray,Normal,Dog,Intact Male,1.0,Chihuahua Shorthair,White/Tan,2020-03-18 13:36:00,Neutered Male,1.0,0.0,5,N,N
+A815283,Y,2020-03-13 13:06:00,Austin (TX),Public Assist,Normal,Dog,Intact Male,3.0,Other,Brown/White,2020-03-23 17:24:00,Intact Male,3.0,0.0,10,N,N
+A815274,Y,2020-03-13 12:29:00,Austin (TX),Stray,Normal,Dog,Neutered Male,1.0,Other,Black/White,2020-03-13 18:10:00,Neutered Male,1.0,0.0,0,N,N
+A815272,N,2020-03-13 11:56:00,Austin (TX),Stray,Normal,Cat,Intact Female,0.038461538461538464,Domestic Shorthair,Other,2020-03-14 05:55:00,Intact Female,0.038461538461538464,0.0,0,N,Y
+A815271,N,2020-03-13 11:56:00,Austin (TX),Stray,Normal,Cat,Intact Female,0.038461538461538464,Domestic Shorthair,Other,2020-03-14 05:54:00,Intact Female,0.038461538461538464,0.0,0,N,Y
+A815270,N,2020-03-13 11:56:00,Austin (TX),Stray,Normal,Cat,Intact Male,0.038461538461538464,Other,Other,2020-03-14 05:54:00,Intact Male,0.038461538461538464,0.0,0,N,Y
+A815269,N,2020-03-13 11:56:00,Austin (TX),Stray,Normal,Cat,Intact Female,0.038461538461538464,Other,Other,2020-03-14 05:54:00,Intact Female,0.038461538461538464,0.0,0,N,Y
+A815268,N,2020-03-12 13:17:00,Austin (TX),Public Assist,Nursing,Dog,Intact Female,0.0,Labrador Retriever,Blue/White,2020-03-24 15:02:00,Intact Female,0.019230769230769232,0.0,12,N,Y
+A815267,N,2020-03-12 13:17:00,Austin (TX),Public Assist,Nursing,Dog,Intact Male,0.0,Labrador Retriever,Brown/White,2020-03-24 15:03:00,Intact Male,0.019230769230769232,0.0,12,N,Y
+A815266,N,2020-03-12 13:17:00,Austin (TX),Public Assist,Nursing,Dog,Intact Female,0.0,Labrador Retriever,Brown Brindle/White,2020-03-24 15:04:00,Intact Female,0.019230769230769232,0.0,12,N,Y
+A815265,N,2020-03-12 13:17:00,Austin (TX),Public Assist,Nursing,Dog,Intact Male,0.0,Labrador Retriever,Black/White,2020-03-24 15:04:00,Intact Male,0.019230769230769232,0.0,12,N,Y
+A815264,N,2020-03-12 13:17:00,Austin (TX),Public Assist,Nursing,Dog,Intact Male,0.0,Labrador Retriever,Brown/White,2020-03-24 15:03:00,Intact Male,0.019230769230769232,0.0,12,N,Y
+A815263,N,2020-03-12 13:17:00,Austin (TX),Public Assist,Nursing,Dog,Intact Female,0.0,Labrador Retriever,Blue/White,2020-03-24 15:02:00,Intact Female,0.019230769230769232,0.0,12,N,Y
+A815262,Y,2020-03-13 10:30:00,Austin (TX),Public Assist,Normal,Dog,Neutered Male,1.0,Other,Black/White,2020-03-13 11:18:00,Neutered Male,1.0,0.0,0,N,N
+A815261,Y,2020-03-13 10:30:00,Austin (TX),Public Assist,Normal,Dog,Intact Male,1.0,German Shepherd,Other,2020-03-13 11:17:00,Intact Male,1.0,0.0,0,N,N
+A815258,N,2020-03-13 09:45:00,Austin (TX),Stray,Normal,Dog,Intact Female,3.0,Other,White,2020-03-19 12:06:00,Spayed Female,3.0,0.0,6,N,N
+A815255,N,2020-03-13 07:09:00,Austin (TX),Stray,Injured,Cat,Intact Male,2.0,Domestic Shorthair,Orange Tabby,2020-03-13 13:02:00,Intact Male,2.0,1.0,0,N,N
+A815253,Y,2020-03-12 19:02:00,Austin (TX),Stray,Normal,Dog,Neutered Male,12.0,Pit Bull,Red,2020-03-13 17:00:00,Neutered Male,12.0,0.0,0,N,N
+A815252,Y,2020-03-12 18:50:00,Austin (TX),Stray,Injured,Cat,Intact Male,3.0,Domestic Shorthair,Orange Tabby,2020-03-13 12:54:00,Intact Male,3.0,1.0,0,N,N
+A815250,Y,2020-03-12 18:28:00,Austin (TX),Owner Surrender,Normal,Dog,Intact Male,0.16666666666666666,Pit Bull Mix,Blue/White,2020-03-14 13:03:00,Intact Male,0.16666666666666666,0.0,1,N,Y
+A815248,Y,2020-03-12 17:07:00,Austin (TX),Owner Surrender,Normal,Dog,Neutered Male,4.0,Other,Black,2020-03-16 13:09:00,Neutered Male,4.0,0.0,3,N,N
+A815238,N,2020-03-12 16:29:00,Austin (TX),Wildlife,Normal,Bat,Unknown,2.0,Other,Brown,2020-03-12 16:32:00,Unknown,2.0,1.0,0,Y,N
+A815236,Y,2020-03-13 11:39:00,Austin (TX),Owner Surrender,Sick,Dog,Neutered Male,9.0,Other,Other,2020-03-13 16:26:00,Neutered Male,9.0,1.0,0,N,N
+A815231,N,2020-03-12 15:05:00,Austin (TX),Stray,Normal,Rabbit Sh,Unknown,1.0,Other,Other,2020-03-19 18:00:00,Unknown,1.0,0.0,7,N,N
+A815229,Y,2020-03-12 13:17:00,Austin (TX),Public Assist,Normal,Dog,Intact Female,1.0,Labrador Retriever,Black/White,2020-03-24 15:02:00,Intact Female,1.0,0.0,12,N,N
+A815227,N,2020-03-12 13:52:00,Austin (TX),Stray,Normal,Dog,Intact Female,0.08333333333333333,Other,Other,2020-03-13 14:50:00,Intact Female,0.08333333333333333,0.0,1,N,Y
+A815226,N,2020-03-12 13:17:00,Austin (TX),Public Assist,Normal,Dog,Intact Male,0.019230769230769232,Labrador Retriever,Blue/White,2020-03-24 15:00:00,Intact Male,0.0576923076923077,0.0,12,N,Y
+A815225,N,2020-03-12 13:17:00,Austin (TX),Public Assist,Normal,Dog,Intact Male,0.019230769230769232,Labrador Retriever,Blue/White,2020-03-24 15:01:00,Intact Male,0.0576923076923077,0.0,12,N,Y
+A815224,N,2020-03-12 13:17:00,Austin (TX),Public Assist,Normal,Dog,Intact Female,0.019230769230769232,Labrador Retriever,Other,2020-03-24 15:01:00,Intact Female,0.0576923076923077,0.0,12,N,Y
+A815221,N,2020-03-12 13:17:00,Austin (TX),Public Assist,Normal,Dog,Intact Male,0.019230769230769232,Labrador Retriever,Blue/White,2020-03-24 15:01:00,Intact Male,0.0576923076923077,0.0,12,N,Y
+A815220,N,2020-03-12 13:17:00,Austin (TX),Public Assist,Normal,Dog,Intact Male,0.019230769230769232,Labrador Retriever,Black/White,2020-03-24 15:00:00,Intact Male,0.0576923076923077,0.0,12,N,Y
+A815219,N,2020-03-12 13:17:00,Austin (TX),Public Assist,Normal,Dog,Intact Female,0.019230769230769232,Labrador Retriever,Other,2020-03-24 15:00:00,Intact Female,0.0576923076923077,0.0,12,N,Y
+A815218,N,2020-03-12 13:17:00,Austin (TX),Public Assist,Normal,Dog,Intact Female,0.019230769230769232,Labrador Retriever,Black,2020-03-24 14:59:00,Intact Female,0.0576923076923077,0.0,12,N,Y
+A815217,Y,2020-03-12 13:32:00,Austin (TX),Stray,Normal,Dog,Intact Male,0.9166666666666666,Pit Bull Mix,Brown/White,2020-03-26 14:55:00,Neutered Male,0.9166666666666666,0.0,14,N,Y
+A815216,Y,2020-03-12 13:17:00,Austin (TX),Public Assist,Normal,Dog,Intact Female,3.0,Labrador Retriever,Black,2020-03-24 15:01:00,Intact Female,3.0,0.0,12,N,N
+A815215,N,2020-03-12 13:11:00,Austin (TX),Stray,Normal,Cat,Intact Male,7.0,Domestic Shorthair,Black,2020-03-17 11:45:00,Intact Male,7.0,0.0,4,N,N
+A815214,N,2020-03-12 12:53:00,Creedmoor (TX),Stray,Normal,Dog,Intact Male,1.0,Other,Brown,2020-03-16 16:42:00,Neutered Male,1.0,0.0,4,N,N
+A815212,N,2020-03-12 12:33:00,Austin (TX),Abandoned,Normal,Dog,Intact Female,0.07692307692307693,Other,White/Tan,2020-03-15 17:28:00,Intact Female,0.07692307692307693,1.0,3,N,Y
+A815210,N,2020-03-12 12:31:00,Travis (TX),Stray,Normal,Dog,Intact Female,0.16666666666666666,Other,Other,2020-03-16 17:30:00,Spayed Female,0.25,0.0,4,N,Y
+A815207,N,2020-03-12 12:17:00,Austin (TX),Stray,Normal,Lizard,Unknown,1.0,Other,Brown,2020-03-16 17:33:00,Unknown,1.0,0.0,4,N,N
+A815204,Y,2020-03-12 11:45:00,Austin (TX),Stray,Normal,Dog,Intact Female,1.0,Other,White/Chocolate,2020-03-17 15:57:00,Spayed Female,1.0,0.0,5,N,N
+A815203,Y,2020-03-12 11:32:00,Travis (TX),Public Assist,Pregnant,Dog,Intact Female,2.0,Other,Black/Brown,2020-03-24 13:36:00,Intact Female,2.0,0.0,12,N,N
+A815200,Y,2020-03-12 11:32:00,Travis (TX),Public Assist,Pregnant,Dog,Intact Female,2.0,Labrador Retriever,Other,2020-03-24 13:36:00,Intact Female,2.0,0.0,12,N,N
+A815193,Y,2020-03-12 09:37:00,Austin (TX),Stray,Normal,Dog,Neutered Male,0.9166666666666666,Pit Bull,Other,2020-03-15 15:23:00,Neutered Male,0.9166666666666666,0.0,3,N,Y
+A815191,N,2020-03-12 07:43:00,Austin (TX),Stray,Injured,Dog,Unknown,2.0,Other,Black/White,2020-03-12 16:26:00,Unknown,2.0,1.0,0,N,N
+A815187,N,2020-03-11 22:14:00,Austin (TX),Wildlife,Normal,Bat,Unknown,2.0,Other,Brown,2020-03-12 18:42:00,Unknown,2.0,1.0,0,Y,N
+A815185,N,2020-03-11 18:51:00,Austin (TX),Stray,Normal,Cat,Unknown,1.0,Domestic Medium Hair,Orange Tabby,2020-03-15 10:03:00,Unknown,1.0,0.0,3,N,N
+A815184,N,2020-03-11 20:39:00,Austin (TX),Wildlife,Normal,Bat,Unknown,1.0,Other,Brown,2020-03-12 18:43:00,Unknown,1.0,1.0,0,Y,N
+A815183,N,2020-03-11 17:52:00,Austin (TX),Stray,Normal,Dog,Neutered Male,7.0,Other,Brown,2020-03-15 14:17:00,Neutered Male,7.0,0.0,3,N,N
+A815182,N,2020-03-11 17:21:00,Austin (TX),Stray,Normal,Dog,Intact Female,0.16666666666666666,Other,White/Chocolate,2020-03-15 13:14:00,Spayed Female,0.16666666666666666,0.0,3,N,Y
+A815179,Y,2020-03-11 16:50:00,Austin (TX),Stray,Normal,Dog,Intact Male,4.0,Pit Bull,White,2020-03-11 20:56:00,Intact Male,4.0,0.0,0,N,N
+A815176,Y,2020-03-11 16:03:00,Austin (TX),Stray,Medical,Dog,Intact Male,0.08333333333333333,Other,White,2020-03-16 11:26:00,Intact Male,0.16666666666666666,0.0,4,N,Y
+A815174,Y,2020-03-11 15:25:00,Travis (TX),Stray,Normal,Dog,Intact Female,1.0,Chihuahua Shorthair,White/Tan,2020-03-13 17:24:00,Intact Female,1.0,0.0,2,N,N
+A815172,N,2020-03-11 15:09:00,Austin (TX),Wildlife,Normal,Bat,Unknown,2.0,Other,Brown,2020-03-12 18:43:00,Unknown,2.0,1.0,1,Y,N
+A815171,N,2020-03-11 14:44:00,Austin (TX),Stray,Normal,Dog,Intact Male,0.08333333333333333,Pit Bull,Other,2020-03-15 17:19:00,Neutered Male,0.08333333333333333,0.0,4,N,Y
+A815166,N,2020-03-11 14:44:00,Austin (TX),Stray,Normal,Dog,Intact Female,0.08333333333333333,Labrador Retriever Mix,White/Tan,2020-03-21 14:54:00,Spayed Female,0.16666666666666666,0.0,10,N,Y
+A815165,N,2020-03-11 14:44:00,Austin (TX),Stray,Normal,Dog,Intact Male,0.08333333333333333,Pit Bull,Brown Brindle/White,2020-03-15 16:58:00,Neutered Male,0.08333333333333333,0.0,4,N,Y
+A815164,N,2020-03-11 14:55:00,Austin (TX),Wildlife,Sick,Bat,Unknown,2.0,Other,Brown,2020-03-12 09:44:00,Unknown,2.0,1.0,0,Y,N
+A815163,Y,2020-03-11 14:41:00,Travis (TX),Owner Surrender,Normal,Dog,Intact Male,0.4166666666666667,Pit Bull,Other,2020-03-14 13:56:00,Neutered Male,0.5,0.0,2,N,Y
+A815162,N,2020-03-11 14:44:00,Austin (TX),Stray,Normal,Dog,Intact Male,0.08333333333333333,Pit Bull,Brown Brindle/White,2020-03-15 16:58:00,Neutered Male,0.08333333333333333,0.0,4,N,Y
+A815160,N,2020-03-11 14:43:00,Austin (TX),Stray,Sick,Cat,Intact Male,5.0,Domestic Shorthair,Other,2020-03-15 16:25:00,Intact Male,5.0,1.0,4,N,N
+A815159,N,2020-03-11 14:22:00,Travis (TX),Stray,Normal,Cat,Intact Male,1.0,Domestic Shorthair,Orange Tabby,2020-03-12 12:23:00,Intact Male,1.0,1.0,0,N,N
+A815158,Y,2020-03-11 14:25:00,Austin (TX),Stray,Normal,Dog,Spayed Female,7.0,Other,Black/White,2020-03-11 18:08:00,Spayed Female,7.0,0.0,0,N,N
+A815157,Y,2020-03-11 14:06:00,Austin (TX),Stray,Normal,Cat,Intact Male,1.0,Domestic Shorthair,Brown Tabby,2020-03-26 13:37:00,Neutered Male,1.0,0.0,14,N,N
+A815152,N,2020-03-11 14:01:00,Austin (TX),Wildlife,Normal,Bat,Unknown,2.0,Other,Brown,2020-03-12 18:44:00,Unknown,2.0,1.0,1,Y,N
+A815148,Y,2020-03-11 13:31:00,Austin (TX),Owner Surrender,Normal,Dog,Spayed Female,8.0,German Shepherd,Red/White,2020-03-24 13:37:00,Spayed Female,8.0,0.0,13,N,N
+A815147,Y,2020-03-11 13:10:00,Travis (TX),Owner Surrender,Normal,Cat,Spayed Female,10.0,Domestic Shorthair,Black,2020-03-12 17:13:00,Spayed Female,10.0,0.0,1,N,N
+A815129,N,2020-03-11 11:55:00,Austin (TX),Stray,Normal,Dog,Intact Female,0.16666666666666666,Other,Black/White,2020-03-15 18:59:00,Spayed Female,0.16666666666666666,0.0,4,N,Y
+A815128,N,2020-03-11 11:55:00,Austin (TX),Stray,Normal,Dog,Intact Female,0.16666666666666666,Other,Black/White,2020-03-16 16:52:00,Spayed Female,0.16666666666666666,0.0,5,N,Y
+A815127,N,2020-03-11 11:55:00,Austin (TX),Stray,Normal,Dog,Intact Female,0.16666666666666666,Other,Black/White,2020-03-15 16:45:00,Spayed Female,0.16666666666666666,0.0,4,N,Y
+A815126,Y,2020-03-11 12:01:00,Austin (TX),Stray,Normal,Dog,Intact Male,4.0,Pit Bull,Other,2020-03-11 13:35:00,Intact Male,4.0,0.0,0,N,N
+A815125,N,2020-03-11 11:46:00,Austin (TX),Stray,Normal,Dog,Intact Male,1.0,Other,Other,2020-03-15 16:59:00,Neutered Male,1.0,0.0,4,N,N
+A815123,Y,2020-03-11 11:31:00,Austin (TX),Stray,Normal,Dog,Intact Male,1.0,Pit Bull,Blue/White,2020-03-17 14:11:00,Intact Male,1.0,0.0,6,N,N
+A815122,N,2020-03-11 11:16:00,Austin (TX),Stray,Normal,Dog,Intact Male,1.0,Other,Black/Tan,2020-03-17 12:59:00,Neutered Male,1.0,0.0,6,N,N
+A815114,N,2020-03-11 08:46:00,Austin (TX),Stray,Injured,Cat,Unknown,2.0,Domestic Shorthair,Black,2020-03-11 16:25:00,Unknown,2.0,1.0,0,N,N
+A815112,N,2020-03-11 08:22:00,Austin (TX),Stray,Normal,Dog,Intact Male,1.0,Chihuahua Shorthair,White/Tan,2020-03-13 17:32:00,Intact Male,1.0,0.0,2,N,N
+A815109,Y,2020-03-11 07:50:00,Austin (TX),Owner Surrender,Injured,Dog,Intact Male,2.0,Labrador Retriever,Black,2020-03-24 13:37:00,Neutered Male,2.0,0.0,13,N,N
+A815108,N,2020-03-11 02:00:00,Austin (TX),Wildlife,Normal,Bat,Unknown,2.0,Other,Brown,2020-03-11 10:19:00,Unknown,2.0,1.0,0,Y,N
+A815107,N,2020-03-10 21:28:00,Manor (TX),Wildlife,Normal,Bat,Unknown,1.0,Other,Brown,2020-03-11 10:16:00,Unknown,1.0,1.0,0,Y,N
+A815106,Y,2020-03-10 23:00:00,Austin (TX),Stray,Normal,Dog,Intact Male,2.0,German Shepherd,Black/Brown,2020-03-13 00:00:00,Intact Male,2.0,0.0,2,N,N
+A815105,N,2020-03-10 23:21:00,Austin (TX),Wildlife,Normal,Bat,Unknown,1.0,Other,Brown,2020-03-11 10:13:00,Unknown,1.0,1.0,0,Y,N
+A815102,N,2020-03-10 18:53:00,Austin (TX),Stray,Normal,Dog,Intact Female,0.16666666666666666,Other,Other,2020-03-14 16:56:00,Spayed Female,0.16666666666666666,0.0,3,N,Y
+A815101,N,2020-03-10 18:19:00,Austin (TX),Stray,Normal,Dog,Intact Female,0.16666666666666666,German Shepherd,Black/Brown,2020-03-14 18:42:00,Spayed Female,0.25,0.0,4,N,Y
+A815099,N,2020-03-10 16:54:00,Austin (TX),Stray,Normal,Cat,Intact Female,1.0,Domestic Shorthair,Other,2020-03-13 14:09:00,Intact Female,1.0,0.0,2,N,N
+A815098,N,2020-03-10 16:30:00,Austin (TX),Stray,Normal,Cat,Unknown,2.0,Domestic Shorthair,Black/White,2020-03-15 10:03:00,Unknown,2.0,0.0,4,N,N
+A815097,Y,2020-03-10 16:30:00,Austin (TX),Stray,Normal,Cat,Intact Male,2.0,Domestic Shorthair,Black,2020-03-27 14:42:00,Intact Male,2.0,0.0,16,N,N
+A815096,Y,2020-03-10 16:41:00,Travis (TX),Stray,Normal,Dog,Spayed Female,3.0,Other,Black/White,2020-03-11 12:45:00,Spayed Female,3.0,0.0,0,N,N
+A815095,Y,2020-03-10 16:18:00,Austin (TX),Stray,Normal,Dog,Intact Female,0.8333333333333334,Other,Tricolor,2020-03-10 20:27:00,Intact Female,0.8333333333333334,0.0,0,N,Y
+A815092,Y,2020-03-10 15:45:00,Austin (TX),Stray,Normal,Dog,Spayed Female,1.0,Other,Brown,2020-03-16 11:14:00,Spayed Female,1.0,0.0,5,N,N
+A815087,N,2020-03-10 14:19:00,Austin (TX),Stray,Normal,Cat,Intact Female,1.0,Domestic Shorthair,Brown Tabby/White,2020-03-14 13:48:00,Intact Female,1.0,0.0,3,N,N
+A815086,N,2020-03-10 14:19:00,Austin (TX),Stray,Normal,Cat,Intact Male,1.0,Domestic Shorthair,White/Orange Tabby,2020-03-14 13:48:00,Intact Male,1.0,0.0,3,N,N
+A815085,N,2020-03-10 13:39:00,Austin (TX),Abandoned,Normal,Cat,Intact Female,0.4166666666666667,Domestic Shorthair,Calico,2020-03-18 16:49:00,Spayed Female,0.5,0.0,8,N,Y
+A815084,N,2020-03-10 13:39:00,Austin (TX),Abandoned,Normal,Cat,Intact Male,2.0,Domestic Shorthair,Orange Tabby,2020-03-18 16:48:00,Neutered Male,2.0,0.0,8,N,N
+A815083,Y,2020-03-10 13:54:00,Austin (TX),Owner Surrender,Normal,Cat,Spayed Female,10.0,Domestic Shorthair,Other,2020-03-21 13:38:00,Spayed Female,10.0,0.0,10,N,N
+A815082,Y,2020-03-10 13:40:00,Austin (TX),Stray,Normal,Dog,Intact Male,4.0,Other,Other,2020-03-17 16:31:00,Neutered Male,4.0,0.0,7,N,N
+A815081,N,2020-03-10 13:39:00,Austin (TX),Abandoned,Normal,Cat,Intact Female,0.4166666666666667,Domestic Shorthair,Orange Tabby,2020-03-18 16:49:00,Spayed Female,0.5,0.0,8,N,Y
+A815077,N,2020-03-10 12:17:00,Austin (TX),Stray,Normal,Dog,Intact Female,0.16666666666666666,Other,Black/Tan,2020-03-14 16:25:00,Spayed Female,0.16666666666666666,0.0,4,N,Y
+A815076,Y,2020-03-10 12:16:00,Austin (TX),Owner Surrender,Sick,Dog,Spayed Female,5.0,Other,White/Chocolate,2020-03-10 17:46:00,Spayed Female,5.0,0.0,0,N,N
+A815071,N,2020-03-10 11:29:00,Austin (TX),Stray,Sick,Dog,Intact Male,0.3333333333333333,Pit Bull,Other,2020-03-10 14:48:00,Intact Male,0.3333333333333333,0.0,0,N,Y
+A815070,Y,2020-03-10 11:12:00,Austin (TX),Stray,Normal,Dog,Intact Male,3.0,Other,Black/White,2020-03-16 11:01:00,Neutered Male,3.0,0.0,5,N,N
+A815069,Y,2020-03-10 11:12:00,Austin (TX),Stray,Normal,Dog,Intact Female,3.0,Pit Bull,Brown,2020-03-14 18:07:00,Spayed Female,3.0,0.0,4,N,N
+A815052,N,2020-03-09 21:41:00,Austin (TX),Wildlife,Normal,Bat,Unknown,1.0,Other,Brown,2020-03-10 09:58:00,Unknown,1.0,1.0,0,Y,N
+A815048,N,2020-03-09 18:19:00,Travis (TX),Stray,Normal,Dog,Intact Male,0.16666666666666666,Other,Brown,2020-03-13 17:09:00,Neutered Male,0.16666666666666666,0.0,3,N,Y
+A815047,N,2020-03-09 18:19:00,Travis (TX),Stray,Normal,Dog,Intact Male,0.16666666666666666,Other,Brown,2020-03-13 16:31:00,Neutered Male,0.16666666666666666,0.0,3,N,Y
+A815045,N,2020-03-09 18:19:00,Travis (TX),Stray,Normal,Dog,Intact Female,0.16666666666666666,Other,Brown,2020-03-14 11:55:00,Spayed Female,0.16666666666666666,0.0,4,N,Y
+A815044,N,2020-03-09 18:19:00,Travis (TX),Stray,Normal,Dog,Intact Female,0.16666666666666666,Other,Brown,2020-03-14 13:04:00,Spayed Female,0.16666666666666666,0.0,4,N,Y
+A815038,N,2020-03-09 17:02:00,Austin (TX),Stray,Normal,Cat,Unknown,1.0,Domestic Shorthair,Brown Tabby,2020-03-14 13:47:00,Unknown,1.0,0.0,4,N,N
+A815037,Y,2020-03-09 16:37:00,Austin (TX),Owner Surrender,Normal,Dog,Intact Female,1.0,Other,Other,2020-03-14 16:57:00,Spayed Female,1.0,0.0,5,N,N
+A815034,N,2020-03-09 16:29:00,Austin (TX),Stray,Normal,Dog,Intact Female,0.25,Other,Black/White,2020-03-11 12:36:00,Intact Female,0.25,0.0,1,N,Y
+A815029,Y,2020-03-09 16:11:00,Austin (TX),Public Assist,Normal,Cat,Intact Female,2.0,Domestic Shorthair,Calico,2020-03-23 11:37:00,Spayed Female,3.0,0.0,13,N,N
+A815028,Y,2020-03-09 16:11:00,Austin (TX),Stray,Normal,Dog,Intact Female,2.0,Pit Bull,Brown,2020-03-09 16:56:00,Intact Female,2.0,0.0,0,N,N
+A815025,Y,2020-03-09 16:11:00,Austin (TX),Stray,Normal,Dog,Intact Female,2.0,Pit Bull,Black,2020-03-09 16:54:00,Intact Female,2.0,0.0,0,N,N
+A815024,N,2020-03-09 16:04:00,Austin (TX),Stray,Normal,Dog,Intact Male,0.16666666666666666,Labrador Retriever,White,2020-03-14 15:28:00,Neutered Male,0.16666666666666666,0.0,4,N,Y
+A815023,Y,2020-03-09 16:11:00,Austin (TX),Stray,Normal,Dog,Neutered Male,2.0,Other,White,2020-03-09 16:56:00,Neutered Male,2.0,0.0,0,N,N
+A815019,N,2020-03-09 15:21:00,Austin (TX),Stray,Normal,Dog,Neutered Male,3.0,Other,Other,2020-03-12 15:33:00,Neutered Male,3.0,0.0,3,N,N
+A815016,N,2020-03-09 14:43:00,Travis (TX),Stray,Medical,Dog,Intact Male,7.0,Maltese,White,2020-03-17 16:02:00,Intact Male,8.0,0.0,8,N,N
+A815007,Y,2020-03-09 14:05:00,Austin (TX),Public Assist,Normal,Cat,Spayed Female,2.0,Domestic Shorthair,Brown Tabby,2020-03-10 12:05:00,Spayed Female,2.0,0.0,0,N,N
+A815005,Y,2020-03-09 14:00:00,Travis (TX),Stray,Normal,Dog,Intact Male,1.0,Other,Black,2020-03-12 19:08:00,Neutered Male,1.0,0.0,3,N,N
+A814985,N,2020-03-09 12:40:00,Travis (TX),Stray,Normal,Dog,Intact Female,0.3333333333333333,Great Pyrenees,White,2020-03-13 12:57:00,Intact Female,0.3333333333333333,0.0,4,N,Y
+A814970,Y,2020-03-09 11:47:00,Austin (TX),Stray,Normal,Dog,Spayed Female,1.0,Other,Brown Brindle/White,2020-03-17 14:12:00,Spayed Female,1.0,0.0,8,N,N
+A814963,N,2020-03-09 11:43:00,Austin (TX),Wildlife,Normal,Bat,Unknown,2.0,Other,Brown,2020-03-09 19:17:00,Unknown,2.0,1.0,0,Y,N
+A814951,N,2020-03-09 10:44:00,Austin (TX),Stray,Normal,Dog,Intact Male,0.25,Maltese,Other,2020-03-12 00:00:00,Intact Male,0.3333333333333333,0.0,2,N,Y
+A814950,N,2020-03-09 10:44:00,Austin (TX),Stray,Normal,Dog,Intact Female,0.16666666666666666,Maltese,Other,2020-03-12 00:00:00,Intact Female,0.25,0.0,2,N,Y
+A814949,Y,2020-03-09 10:44:00,Austin (TX),Stray,Normal,Dog,Intact Female,0.16666666666666666,Maltese,Other,2020-03-12 16:38:00,Intact Female,0.25,0.0,3,N,Y
+A814945,N,2020-03-09 09:21:00,Austin (TX),Wildlife,Normal,Bat,Unknown,2.0,Other,Brown,2020-03-09 09:52:00,Unknown,2.0,1.0,0,Y,N
+A814944,N,2020-03-09 09:09:00,Manor (TX),Wildlife,Normal,Bat,Unknown,2.0,Other,Brown,2020-03-09 09:53:00,Unknown,2.0,1.0,0,Y,N
+A814941,Y,2020-03-09 17:18:00,Austin (TX),Public Assist,Normal,Dog,Spayed Female,2.0,Other,Brown Brindle/White,2020-03-19 12:05:00,Spayed Female,2.0,0.0,9,N,N
+A814940,Y,2020-03-08 17:48:00,Austin (TX),Stray,Normal,Dog,Intact Male,2.0,Pit Bull Mix,Blue/White,2020-03-22 17:53:00,Neutered Male,2.0,0.0,14,N,N
+A814932,Y,2020-03-08 16:48:00,Travis (TX),Owner Surrender,Normal,Cat,Neutered Male,3.0,Domestic Longhair,Black,2020-03-14 16:36:00,Neutered Male,3.0,0.0,5,N,N
+A814930,Y,2020-03-08 16:48:00,Travis (TX),Owner Surrender,Normal,Cat,Neutered Male,3.0,Domestic Longhair,Brown Tabby,2020-03-14 16:36:00,Neutered Male,3.0,0.0,5,N,N
+A814929,N,2020-03-08 16:17:00,Austin (TX),Stray,Normal,Dog,Intact Male,0.8333333333333334,Other,Other,2020-03-14 14:47:00,Neutered Male,0.8333333333333334,0.0,5,N,Y
+A814928,N,2020-03-08 16:17:00,Austin (TX),Stray,Normal,Dog,Intact Male,0.8333333333333334,Other,Tan,2020-03-14 14:38:00,Neutered Male,0.8333333333333334,0.0,5,N,Y
+A814927,N,2020-03-08 16:17:00,Austin (TX),Stray,Normal,Dog,Intact Female,0.8333333333333334,Chihuahua Shorthair,Other,2020-03-15 12:53:00,Spayed Female,0.8333333333333334,0.0,6,N,Y
+A814926,N,2020-03-08 16:17:00,Austin (TX),Stray,Normal,Dog,Intact Male,0.8333333333333334,Other,Other,2020-03-12 16:14:00,Neutered Male,0.8333333333333334,0.0,3,N,Y
+A814924,N,2020-03-08 16:17:00,Austin (TX),Stray,Normal,Dog,Intact Female,0.8333333333333334,Other,White/Tan,2020-03-17 12:57:00,Spayed Female,0.8333333333333334,0.0,8,N,Y
+A814922,N,2020-03-08 15:57:00,Austin (TX),Stray,Normal,Cat,Unknown,2.0,Domestic Shorthair,Black,2020-03-12 16:34:00,Unknown,2.0,0.0,4,N,N
+A814921,Y,2020-03-08 15:50:00,Austin (TX),Stray,Injured,Cat,Spayed Female,4.0,Domestic Shorthair,Orange Tabby,2020-03-10 11:57:00,Spayed Female,4.0,0.0,1,N,N
+A814920,Y,2020-03-08 15:29:00,Austin (TX),Stray,Normal,Cat,Intact Female,0.25,Domestic Shorthair,Brown Tabby/White,2020-03-13 11:25:00,Spayed Female,0.3333333333333333,0.0,4,N,Y
+A814918,Y,2020-03-08 15:21:00,Austin (TX),Stray,Normal,Dog,Intact Male,2.0,Other,Other,2020-03-09 14:58:00,Intact Male,2.0,0.0,0,N,N
+A814916,N,2020-03-08 14:59:00,Austin (TX),Stray,Injured,Cat,Intact Male,2.0,Domestic Shorthair,Brown Tabby/White,2020-03-12 16:08:00,Neutered Male,2.0,0.0,4,N,N
+A814915,N,2020-03-08 14:57:00,Austin (TX),Stray,Nursing,Cat,Intact Female,0.010958904109589041,Domestic Shorthair,Calico,2020-03-08 17:37:00,Intact Female,0.010958904109589041,0.0,0,N,Y
+A814913,N,2020-03-08 14:29:00,Austin (TX),Stray,Normal,Cat,Intact Female,2.0,Domestic Shorthair,Other,2020-03-12 16:35:00,Intact Female,2.0,0.0,4,N,N
+A814912,N,2020-03-08 14:16:00,Austin (TX),Stray,Normal,Dog,Intact Female,0.16666666666666666,Other,Black/Brown,2020-03-12 16:28:00,Spayed Female,0.25,0.0,4,N,Y
+A814911,N,2020-03-08 14:16:00,Austin (TX),Stray,Normal,Dog,Intact Female,0.16666666666666666,Labrador Retriever Mix,Brown/White,2020-03-12 17:42:00,Spayed Female,0.25,0.0,4,N,Y
+A814909,Y,2020-03-08 14:10:00,Travis (TX),Stray,Normal,Dog,Neutered Male,2.0,Chihuahua Shorthair,Other,2020-03-09 18:05:00,Neutered Male,2.0,0.0,1,N,N
+A814906,N,2020-03-08 13:16:00,Austin (TX),Stray,Normal,Cat,Unknown,0.6666666666666666,Domestic Medium Hair,Brown Tabby,2020-03-12 16:33:00,Unknown,0.6666666666666666,0.0,4,N,Y
+A814905,Y,2020-03-08 13:20:00,Austin (TX),Stray,Normal,Dog,Intact Female,0.25,Pit Bull,Other,2020-03-14 12:09:00,Spayed Female,0.3333333333333333,0.0,5,N,Y
+A814901,Y,2020-03-08 13:00:00,Austin (TX),Owner Surrender,Sick,Cat,Intact Female,0.4166666666666667,Domestic Shorthair,Brown Tabby,2020-03-08 15:02:00,Intact Female,0.4166666666666667,0.0,0,N,Y
+A814898,N,2020-03-08 12:38:00,Austin (TX),Stray,Normal,Dog,Intact Female,0.5833333333333334,Pit Bull,White/Tan,2020-03-12 18:25:00,Spayed Female,0.5833333333333334,0.0,4,N,Y
+A814897,Y,2020-03-08 11:28:00,Austin (TX),Owner Surrender,Normal,Dog,Neutered Male,0.16666666666666666,Other,Black/Brown,2020-03-10 13:17:00,Neutered Male,0.16666666666666666,0.0,2,N,Y
+A814896,N,2020-03-08 11:21:00,Austin (TX),Stray,Normal,Cat,Intact Female,3.0,Domestic Medium Hair,Tortie,2020-03-12 16:32:00,Intact Female,3.0,0.0,4,N,N
+A814894,Y,2020-03-08 10:54:00,Austin (TX),Stray,Injured,Dog,Intact Male,2.0,Labrador Retriever Mix,Other,2020-03-10 19:12:00,Intact Male,2.0,0.0,2,N,N
+A814890,Y,2020-03-08 08:31:00,Austin (TX),Stray,Injured,Dog,Intact Male,2.0,Other,Red/White,2020-03-09 17:16:00,Intact Male,2.0,0.0,1,N,N
+A814886,N,2020-03-07 17:04:00,Austin (TX),Stray,Normal,Cat,Unknown,3.0,Domestic Shorthair,Brown Tabby/White,2020-03-11 10:40:00,Unknown,3.0,0.0,3,N,N
+A814885,N,2020-03-08 08:31:00,Travis (TX),Stray,Sick,Dog,Intact Male,0.3333333333333333,Other,Other,2020-03-08 12:07:00,Intact Male,0.3333333333333333,0.0,0,N,Y
+A814883,N,2020-03-07 16:01:00,Austin (TX),Abandoned,Normal,Cat,Intact Male,2.0,Domestic Shorthair,Black/White,2020-03-18 16:50:00,Neutered Male,2.0,0.0,11,N,N
+A814882,N,2020-03-07 16:01:00,Austin (TX),Abandoned,Normal,Cat,Intact Male,2.0,Domestic Shorthair,White/Orange Tabby,2020-03-18 16:50:00,Neutered Male,2.0,0.0,11,N,N
+A814881,N,2020-03-07 16:01:00,Austin (TX),Abandoned,Normal,Cat,Intact Female,2.0,Domestic Shorthair,White/Orange Tabby,2020-03-18 16:48:00,Spayed Female,2.0,0.0,11,N,N
+A814880,N,2020-03-07 16:01:00,Austin (TX),Abandoned,Normal,Cat,Intact Female,2.0,Domestic Shorthair,White/Orange Tabby,2020-03-18 16:47:00,Spayed Female,2.0,0.0,11,N,N
+A814879,N,2020-03-07 16:01:00,Austin (TX),Abandoned,Normal,Cat,Intact Male,2.0,Domestic Shorthair,White/Orange Tabby,2020-03-18 16:51:00,Neutered Male,2.0,0.0,11,N,N
+A814878,N,2020-03-07 16:48:00,Austin (TX),Stray,Normal,Cat,Intact Female,0.16666666666666666,Domestic Shorthair,Other,2020-03-13 16:53:00,Intact Female,0.16666666666666666,0.0,6,N,Y
+A814874,N,2020-03-07 16:06:00,Austin (TX),Wildlife,Normal,Bat,Unknown,2.0,Other,Brown,2020-03-07 17:07:00,Unknown,2.0,1.0,0,Y,N
+A814873,N,2020-03-07 16:06:00,Austin (TX),Wildlife,Normal,Bat,Unknown,2.0,Other,Brown,2020-03-07 17:06:00,Unknown,2.0,1.0,0,Y,N
+A814872,N,2020-03-07 16:06:00,Austin (TX),Wildlife,Normal,Bat,Unknown,2.0,Other,Brown,2020-03-08 13:09:00,Unknown,2.0,1.0,0,Y,N
+A814870,Y,2020-03-07 15:39:00,Austin (TX),Stray,Normal,Dog,Intact Female,0.16666666666666666,Other,Black/Brown,2020-03-12 18:06:00,Spayed Female,0.16666666666666666,0.0,5,N,Y
+A814869,Y,2020-03-07 15:39:00,Austin (TX),Stray,Normal,Dog,Intact Female,2.0,Other,Black/White,2020-03-14 12:41:00,Spayed Female,2.0,0.0,6,N,N
+A814868,Y,2020-03-07 15:39:00,Austin (TX),Stray,Normal,Dog,Intact Male,0.16666666666666666,Other,Black/White,2020-03-13 17:42:00,Neutered Male,0.16666666666666666,0.0,6,N,Y
+A814867,N,2020-03-07 15:35:00,Austin (TX),Stray,Normal,Dog,Neutered Male,3.0,Chihuahua Shorthair,Black/White,2020-03-17 12:57:00,Neutered Male,3.0,0.0,9,N,N
+A814866,N,2020-03-07 15:04:00,Austin (TX),Stray,Normal,Cat,Spayed Female,0.4166666666666667,Other,Other,2020-03-11 17:43:00,Spayed Female,0.5,0.0,4,N,Y
+A814861,N,2020-03-07 14:01:00,Austin (TX),Stray,Normal,Dog,Intact Male,2.0,Other,Brown/White,2020-03-11 18:03:00,Neutered Male,2.0,0.0,4,N,N
+A814860,N,2020-03-07 13:37:00,Austin (TX),Stray,Normal,Dog,Intact Male,0.08333333333333333,Siberian Husky,White,2020-03-11 18:49:00,Neutered Male,0.16666666666666666,0.0,4,N,Y
+A814859,N,2020-03-07 13:37:00,Austin (TX),Stray,Normal,Dog,Intact Male,0.08333333333333333,Siberian Husky,White,2020-03-11 18:04:00,Neutered Male,0.16666666666666666,0.0,4,N,Y
+A814858,N,2020-03-07 13:37:00,Austin (TX),Stray,Normal,Dog,Intact Female,0.08333333333333333,Siberian Husky,White,2020-03-11 17:10:00,Spayed Female,0.16666666666666666,0.0,4,N,Y
+A814857,N,2020-03-07 13:37:00,Austin (TX),Stray,Normal,Dog,Intact Female,0.08333333333333333,Siberian Husky,White,2020-03-13 13:27:00,Spayed Female,0.16666666666666666,0.0,5,N,Y
+A814855,N,2020-03-07 13:43:00,Austin (TX),Stray,Normal,Dog,Intact Male,0.3333333333333333,Other,White/Tan,2020-03-12 00:00:00,Neutered Male,0.3333333333333333,0.0,4,N,Y
+A814854,N,2020-03-07 13:08:00,Austin (TX),Stray,Normal,Dog,Intact Male,5.0,Other,Brown/White,2020-03-11 17:26:00,Neutered Male,5.0,0.0,4,N,N
+A814853,N,2020-03-07 13:08:00,Austin (TX),Stray,Normal,Dog,Intact Female,3.0,Other,Other,2020-03-11 16:56:00,Spayed Female,3.0,0.0,4,N,N
+A814848,Y,2020-03-07 12:07:00,Austin (TX),Stray,Normal,Dog,Intact Female,3.0,Labrador Retriever Mix,Brown/White,2020-03-09 12:42:00,Intact Female,3.0,0.0,2,N,N
+A814845,Y,2020-03-07 11:46:00,Austin (TX),Stray,Normal,Cat,Neutered Male,2.0,Domestic Medium Hair,Orange Tabby,2020-03-12 17:55:00,Neutered Male,2.0,0.0,5,N,N
+A814843,Y,2020-03-14 16:39:00,Austin (TX),Owner Surrender,Normal,Dog,Spayed Female,2.0,Pit Bull,Other,2020-03-25 15:22:00,Spayed Female,2.0,0.0,10,N,N
+A814832,N,2020-03-07 07:50:00,Travis (TX),Stray,Sick,Dog,Intact Female,0.08333333333333333,Siberian Husky,Black/White,2020-03-10 11:46:00,Intact Female,0.16666666666666666,0.0,3,N,Y
+A814829,N,2020-03-06 18:51:00,Austin (TX),Stray,Normal,Dog,Intact Male,0.16666666666666666,Other,White/Tan,2020-03-12 16:09:00,Neutered Male,0.16666666666666666,0.0,5,N,Y
+A814828,N,2020-03-06 18:38:00,Austin (TX),Stray,Normal,Dog,Intact Male,0.8333333333333334,Other,Brown,2020-03-17 12:57:00,Neutered Male,0.8333333333333334,0.0,10,N,Y
+A814825,Y,2020-03-06 16:57:00,Travis (TX),Stray,Normal,Dog,Intact Female,0.16666666666666666,Other,Black/White,2020-03-07 12:01:00,Intact Female,0.16666666666666666,0.0,0,N,Y
+A814821,Y,2020-03-06 15:52:00,Travis (TX),Owner Surrender,Normal,Dog,Neutered Male,10.0,Other,Black/White,2020-03-07 15:27:00,Neutered Male,10.0,0.0,0,N,N
+A814820,N,2020-03-06 15:44:00,Travis (TX),Stray,Sick,Dog,Intact Male,3.0,Labrador Retriever,Brown/White,2020-03-10 14:15:00,Intact Male,3.0,0.0,3,N,N
+A814818,Y,2020-03-06 14:53:00,Austin (TX),Abandoned,Normal,Dog,Intact Male,1.0,Other,Brown/White,2020-03-17 14:12:00,Neutered Male,1.0,0.0,10,N,N
+A814817,Y,2020-03-06 15:06:00,Austin (TX),Stray,Injured,Cat,Neutered Male,2.0,Domestic Medium Hair,White/Orange Tabby,2020-03-07 11:38:00,Neutered Male,2.0,0.0,0,N,N
+A814816,Y,2020-03-06 14:55:00,Austin (TX),Stray,Normal,Dog,Intact Female,0.3333333333333333,Pit Bull,Brown Brindle/White,2020-03-12 18:26:00,Spayed Female,0.3333333333333333,0.0,6,N,Y
+A814815,N,2020-03-06 14:25:00,Austin (TX),Stray,Normal,Dog,Intact Male,0.08333333333333333,Chihuahua Shorthair,Other,2020-03-11 11:21:00,Neutered Male,0.16666666666666666,0.0,4,N,Y
+A814814,N,2020-03-06 14:25:00,Austin (TX),Stray,Normal,Dog,Intact Male,0.08333333333333333,Chihuahua Shorthair,White/Tan,2020-03-10 18:07:00,Neutered Male,0.16666666666666666,0.0,4,N,Y
+A814813,N,2020-03-06 14:25:00,Austin (TX),Stray,Normal,Dog,Intact Male,0.08333333333333333,Chihuahua Shorthair,White/Tan,2020-03-10 17:18:00,Neutered Male,0.16666666666666666,0.0,4,N,Y
+A814812,N,2020-03-06 14:25:00,Austin (TX),Stray,Normal,Dog,Intact Female,0.08333333333333333,Chihuahua Shorthair,Tricolor,2020-03-10 18:07:00,Spayed Female,0.16666666666666666,0.0,4,N,Y
+A814811,N,2020-03-06 14:25:00,Austin (TX),Stray,Normal,Dog,Intact Female,3.0,Chihuahua Shorthair,Tricolor,2020-03-10 15:53:00,Spayed Female,3.0,0.0,4,N,N
+A814809,Y,2020-03-06 14:12:00,Austin (TX),Owner Surrender,Normal,Dog,Spayed Female,1.0,Pit Bull,Other,2020-03-13 14:58:00,Spayed Female,1.0,0.0,7,N,N
+A814808,Y,2020-03-06 14:11:00,Austin (TX),Stray,Normal,Dog,Intact Male,4.0,Other,Brown/White,2020-03-09 18:04:00,Intact Male,4.0,0.0,3,N,N
+A814805,N,2020-03-06 13:42:00,Austin (TX),Wildlife,Normal,Bat,Unknown,1.0,Other,Brown,2020-03-06 15:01:00,Unknown,1.0,1.0,0,Y,N
+A814803,Y,2020-03-06 12:31:00,Austin (TX),Stray,Normal,Dog,Spayed Female,2.0,Other,White,2020-03-06 17:59:00,Spayed Female,2.0,0.0,0,N,N
+A814800,Y,2020-03-06 10:48:00,Austin (TX),Stray,Normal,Dog,Neutered Male,3.0,German Shepherd,Black/Tan,2020-03-14 18:41:00,Neutered Male,3.0,0.0,8,N,N
+A814799,N,2020-03-06 10:05:00,Austin (TX),Wildlife,Normal,Bat,Unknown,1.0,Other,Brown,2020-03-06 15:04:00,Unknown,1.0,1.0,0,Y,N
+A814795,Y,2020-03-06 09:19:00,Austin (TX),Stray,Injured,Cat,Intact Male,2.0,Domestic Shorthair,Black,2020-03-18 16:47:00,Intact Male,2.0,0.0,12,N,N
+A814794,N,2020-03-06 09:37:00,Austin (TX),Wildlife,Sick,Raccoon,Unknown,1.0,Other,Other,2020-03-08 13:13:00,Unknown,1.0,1.0,2,Y,N
+A814793,Y,2020-03-06 09:14:00,Austin (TX),Stray,Normal,Dog,Intact Male,7.0,Other,Tan,2020-03-07 12:41:00,Intact Male,7.0,0.0,1,N,N
+A814791,Y,2020-03-05 23:32:00,Austin (TX),Stray,Normal,Dog,Intact Male,2.0,Pit Bull,Brown,2020-03-06 13:52:00,Intact Male,2.0,0.0,0,N,N
+A814789,N,2020-03-05 20:12:00,Austin (TX),Stray,Normal,Dog,Intact Male,0.3333333333333333,Chihuahua Shorthair Mix,Other,2020-03-10 18:25:00,Neutered Male,0.3333333333333333,0.0,4,N,Y
+A814788,N,2020-03-05 18:44:00,Austin (TX),Public Assist,Sick,Cat,Neutered Male,10.0,Domestic Longhair,Black,2020-03-06 11:39:00,Neutered Male,10.0,1.0,0,N,N
+A814787,Y,2020-03-05 18:26:00,Austin (TX),Stray,Normal,Dog,Intact Female,0.9166666666666666,Other,Other,2020-03-06 11:45:00,Intact Female,0.9166666666666666,0.0,0,N,Y
+A814786,Y,2020-03-05 18:29:00,Travis (TX),Owner Surrender,Sick,Cat,Intact Female,1.0,Domestic Shorthair,Brown Tabby,2020-03-07 13:53:00,Intact Female,1.0,0.0,1,N,N
+A814785,N,2020-03-05 18:18:00,Austin (TX),Stray,Normal,Rabbit Sh,Unknown,2.0,Other,Tortie,2020-03-15 17:17:00,Unknown,2.0,0.0,9,N,N
+A814784,N,2020-03-05 17:16:00,Austin (TX),Owner Surrender,Normal,Dog,Intact Male,0.4166666666666667,Labrador Retriever,Brown/White,2020-03-09 13:26:00,Neutered Male,0.4166666666666667,0.0,3,N,Y
+A814783,N,2020-03-05 17:16:00,Austin (TX),Owner Surrender,Normal,Dog,Intact Male,0.4166666666666667,Labrador Retriever,Brown/White,2020-03-09 14:02:00,Neutered Male,0.4166666666666667,0.0,3,N,Y
+A814782,N,2020-03-05 17:16:00,Austin (TX),Owner Surrender,Normal,Dog,Intact Female,0.4166666666666667,Labrador Retriever,Brown/White,2020-03-07 19:15:00,Spayed Female,0.4166666666666667,0.0,2,N,Y
+A814781,N,2020-03-05 17:16:00,Austin (TX),Owner Surrender,Normal,Dog,Intact Female,0.4166666666666667,Labrador Retriever,Brown/White,2020-03-08 14:27:00,Spayed Female,0.4166666666666667,0.0,2,N,Y
+A814780,N,2020-03-05 17:16:00,Austin (TX),Owner Surrender,Normal,Dog,Intact Female,0.4166666666666667,Labrador Retriever,Red,2020-03-08 13:22:00,Spayed Female,0.4166666666666667,0.0,2,N,Y
+A814779,N,2020-03-05 17:16:00,Austin (TX),Owner Surrender,Normal,Dog,Intact Male,0.4166666666666667,Labrador Retriever,Red,2020-03-07 18:57:00,Neutered Male,0.4166666666666667,0.0,2,N,Y
+A814778,Y,2020-03-05 17:16:00,Austin (TX),Owner Surrender,Normal,Dog,Intact Female,0.4166666666666667,Labrador Retriever,Brown/White,2020-03-14 18:40:00,Spayed Female,0.4166666666666667,0.0,9,N,Y
+A814775,Y,2020-03-05 17:11:00,Austin (TX),Stray,Normal,Dog,Intact Male,3.0,Other,Red/White,2020-03-06 13:10:00,Intact Male,3.0,0.0,0,N,N
+A814772,Y,2020-03-05 16:37:00,Travis (TX),Stray,Normal,Cat,Intact Female,13.0,Domestic Shorthair,Brown Tabby,2020-03-10 14:19:00,Intact Female,13.0,0.0,4,N,N
+A814771,N,2020-03-05 16:37:00,Austin (TX),Abandoned,Normal,Cat,Intact Female,2.0,Domestic Shorthair,Orange Tabby,2020-03-05 16:47:00,Intact Female,2.0,0.0,0,N,N
+A814770,N,2020-03-05 16:47:00,Austin (TX),Wildlife,Sick,Bat,Unknown,2.0,Other,Brown,2020-03-06 11:48:00,Unknown,2.0,1.0,0,Y,N
+A814768,Y,2020-03-05 16:20:00,Travis (TX),Stray,Normal,Dog,Intact Female,2.0,Labrador Retriever Mix,Tan,2020-03-15 17:54:00,Spayed Female,2.0,0.0,10,N,N
+A814767,N,2020-03-05 16:24:00,Austin (TX),Wildlife,Normal,Bat,Unknown,1.0,Other,Brown,2020-03-06 11:47:00,Unknown,1.0,1.0,0,Y,N
+A814765,Y,2020-03-05 15:38:00,Austin (TX),Stray,Normal,Dog,Intact Female,2.0,Labrador Retriever Mix,Tan,2020-03-15 13:27:00,Spayed Female,2.0,0.0,9,N,N
+A814764,N,2020-03-05 14:50:00,Austin (TX),Stray,Sick,Cat,Spayed Female,2.0,Domestic Shorthair,Black,2020-03-09 10:48:00,Spayed Female,2.0,0.0,3,N,N
+A814763,N,2020-03-05 14:12:00,Austin (TX),Stray,Normal,Dog,Intact Female,2.0,Chihuahua Shorthair Mix,Black,2020-03-14 19:17:00,Spayed Female,2.0,0.0,9,N,N
+A814762,Y,2020-03-05 13:45:00,Austin (TX),Owner Surrender,Normal,Cat,Spayed Female,7.0,Domestic Shorthair,Calico,2020-03-25 08:08:00,Spayed Female,8.0,0.0,19,N,N
+A814757,Y,2020-03-05 12:23:00,Austin (TX),Stray,Normal,Dog,Intact Male,0.5833333333333334,Labrador Retriever,White/Tan,2020-03-09 17:50:00,Neutered Male,0.5833333333333334,0.0,4,N,Y
+A814754,Y,2020-03-05 11:12:00,Austin (TX),Public Assist,Normal,Dog,Intact Male,2.0,Pit Bull,Brown/White,2020-03-06 11:08:00,Intact Male,2.0,0.0,0,N,N
+A814750,Y,2020-03-05 08:48:00,Austin (TX),Owner Surrender,Injured,Dog,Intact Male,0.00821917808219178,Pit Bull,Brown,2020-03-05 10:23:00,Intact Male,0.00821917808219178,1.0,0,N,Y
+A814749,Y,2020-03-05 08:48:00,Austin (TX),Owner Surrender,Injured,Dog,Intact Female,0.00821917808219178,Pit Bull,Brown,2020-03-05 10:23:00,Intact Female,0.00821917808219178,1.0,0,N,Y
+A814748,N,2020-03-05 08:17:00,Austin (TX),Stray,Injured,Rabbit Lh,Unknown,1.0,Other,Brown/White,2020-03-05 12:53:00,Unknown,1.0,0.0,0,N,N
+A814746,N,2020-03-05 08:01:00,Austin (TX),Stray,Injured,Dog,Intact Male,3.0,Other,Tan,2020-03-15 16:08:00,Neutered Male,3.0,0.0,10,N,N
+A814745,N,2020-03-05 08:01:00,Austin (TX),Stray,Injured,Dog,Intact Male,1.0,Other,Other,2020-03-13 18:37:00,Neutered Male,1.0,0.0,8,N,N
+A814742,N,2020-03-04 22:58:00,Austin (TX),Wildlife,Injured,Bat,Unknown,1.0,Other,Brown,2020-03-05 09:59:00,Unknown,1.0,1.0,0,Y,N
+A814741,N,2020-03-05 08:40:00,Austin (TX),Stray,Injured,Cat,Unknown,2.0,Domestic Shorthair,Other,2020-03-05 10:38:00,Unknown,2.0,1.0,0,N,N
+A814740,N,2020-03-04 18:54:00,Austin (TX),Stray,Normal,Dog,Intact Female,0.08333333333333333,Dachshund,Black/White,2020-03-09 18:25:00,Spayed Female,0.16666666666666666,0.0,4,N,Y
+A814739,N,2020-03-04 18:54:00,Austin (TX),Stray,Normal,Dog,Intact Male,0.08333333333333333,Dachshund,Other,2020-03-09 16:47:00,Neutered Male,0.16666666666666666,0.0,4,N,Y
+A814738,N,2020-03-04 18:54:00,Austin (TX),Stray,Normal,Dog,Intact Male,0.08333333333333333,Dachshund,Other,2020-03-12 00:00:00,Neutered Male,0.16666666666666666,0.0,7,N,Y
+A814737,Y,2020-03-04 18:54:00,Austin (TX),Stray,Normal,Dog,Intact Male,0.08333333333333333,Dachshund,Other,2020-03-10 11:46:00,Neutered Male,0.16666666666666666,0.0,5,N,Y
+A814736,N,2020-03-04 18:54:00,Austin (TX),Stray,Normal,Dog,Intact Female,1.0,Dachshund,Other,2020-03-09 16:35:00,Spayed Female,1.0,0.0,4,N,N
+A814734,N,2020-03-04 18:17:00,Austin (TX),Stray,Normal,Dog,Intact Male,2.0,Other,Black,2020-03-06 16:48:00,Intact Male,2.0,0.0,1,N,N
+A814733,Y,2020-03-04 17:29:00,Austin (TX),Stray,Normal,Dog,Intact Female,3.0,Labrador Retriever,White/Tan,2020-03-12 11:00:00,Spayed Female,3.0,0.0,7,N,N
+A814732,Y,2020-03-04 16:56:00,Austin (TX),Owner Surrender,Normal,Dog,Intact Male,2.0,Pit Bull,Brown/White,2020-03-20 16:46:00,Intact Male,2.0,0.0,15,N,N
+A814731,N,2020-03-04 17:21:00,Austin (TX),Stray,Injured,Cat,Intact Male,2.0,Domestic Shorthair,Black/White,2020-03-05 10:38:00,Intact Male,2.0,1.0,0,N,N
+A814727,N,2020-03-04 16:35:00,Austin (TX),Wildlife,Normal,Bat,Unknown,2.0,Other,Black/Brown,2020-03-05 09:57:00,Unknown,2.0,1.0,0,Y,N
+A814725,Y,2020-03-04 16:30:00,Travis (TX),Stray,Normal,Dog,Intact Female,1.0,Other,Black/Brown,2020-03-09 18:38:00,Spayed Female,1.0,0.0,5,N,N
+A814721,N,2020-03-04 15:34:00,Travis (TX),Stray,Normal,Dog,Intact Female,0.3333333333333333,Other,White/Tan,2020-03-09 16:40:00,Spayed Female,0.3333333333333333,0.0,5,N,Y
+A814720,Y,2020-03-04 15:37:00,Travis (TX),Stray,Normal,Dog,Intact Female,1.0,Other,White/Tan,2020-03-08 12:20:00,Intact Female,1.0,0.0,3,N,N
+A814719,Y,2020-03-04 14:59:00,Austin (TX),Owner Surrender,Normal,Dog,Neutered Male,0.5833333333333334,German Shepherd/Australian Cattle Dog,Other,2020-03-05 15:07:00,Neutered Male,0.5833333333333334,0.0,1,N,Y
+A814718,N,2020-03-04 14:51:00,Austin (TX),Stray,Normal,Cat,Intact Male,4.0,Domestic Shorthair,Black,2020-03-09 14:57:00,Intact Male,4.0,0.0,5,N,N
+A814716,Y,2020-03-04 14:02:00,Austin (TX),Owner Surrender,Normal,Cat,Spayed Female,0.4166666666666667,Domestic Shorthair,Tortie,2020-03-27 08:04:00,Spayed Female,0.5,0.0,22,N,Y
+A814711,Y,2020-03-04 13:35:00,Austin (TX),Owner Surrender,Sick,Cat,Neutered Male,3.0,Domestic Shorthair,Brown Tabby,2020-03-04 18:46:00,Neutered Male,3.0,1.0,0,N,N
+A814710,Y,2020-03-04 13:43:00,Austin (TX),Stray,Normal,Cat,Neutered Male,4.0,Domestic Shorthair,Orange Tabby,2020-03-07 13:21:00,Neutered Male,4.0,0.0,2,N,N
+A814709,Y,2020-03-04 13:13:00,Austin (TX),Stray,Normal,Dog,Intact Female,3.0,Pit Bull,Brown/White,2020-03-04 15:57:00,Intact Female,3.0,0.0,0,N,N
+A814708,Y,2020-03-04 13:13:00,Travis (TX),Owner Surrender,Normal,Dog,Spayed Female,4.0,German Shepherd,Black/Tan,2020-03-08 18:00:00,Spayed Female,4.0,0.0,4,N,N
+A814707,Y,2020-03-04 13:13:00,Austin (TX),Stray,Normal,Dog,Intact Female,0.4166666666666667,Pit Bull,Blue/White,2020-03-04 15:55:00,Intact Female,0.4166666666666667,0.0,0,N,Y
+A814705,Y,2020-03-04 11:54:00,Austin (TX),Abandoned,Normal,Dog,Intact Female,1.0,Pit Bull,Black,2020-03-12 10:58:00,Intact Female,1.0,0.0,7,N,N
+A814704,Y,2020-03-04 11:38:00,Austin (TX),Stray,Normal,Dog,Intact Male,3.0,German Shepherd,Black/Tan,2020-03-12 10:58:00,Neutered Male,3.0,0.0,7,N,N
+A814702,N,2020-03-04 11:33:00,Austin (TX),Wildlife,Normal,Bat,Unknown,2.0,Other,Brown,2020-03-05 09:55:00,Unknown,2.0,1.0,0,Y,N
+A814697,Y,2020-03-04 07:21:00,Austin (TX),Owner Surrender,Pregnant,Dog,Spayed Female,2.0,Other,Brown/White,2020-03-13 14:39:00,Spayed Female,2.0,0.0,9,N,N
+A814692,N,2020-03-03 22:54:00,Pflugerville (TX),Wildlife,Injured,Bat,Unknown,1.0,Other,Brown,2020-03-04 12:47:00,Unknown,1.0,1.0,0,Y,N
+A814690,Y,2020-03-03 18:37:00,Travis (TX),Stray,Normal,Dog,Neutered Male,3.0,Other,Black/Brown,2020-03-04 18:34:00,Neutered Male,3.0,0.0,0,N,N
+A814689,Y,2020-03-03 18:19:00,Austin (TX),Stray,Normal,Dog,Intact Male,0.16666666666666666,Other,White/Tan,2020-03-07 17:44:00,Neutered Male,0.16666666666666666,0.0,3,N,Y
+A814685,N,2020-03-03 17:06:00,Austin (TX),Stray,Normal,Dog,Intact Female,0.08333333333333333,Other,Other,2020-03-07 17:13:00,Spayed Female,0.16666666666666666,0.0,4,N,Y
+A814684,N,2020-03-03 16:38:00,Austin (TX),Stray,Normal,Dog,Intact Female,0.08333333333333333,Great Pyrenees,Brown,2020-03-07 17:47:00,Spayed Female,0.08333333333333333,0.0,4,N,Y
+A814683,N,2020-03-03 16:38:00,Travis (TX),Wildlife,Sick,Raccoon,Unknown,1.0,Other,Brown,2020-03-03 17:01:00,Unknown,1.0,1.0,0,Y,N
+A814682,Y,2020-03-03 16:36:00,Austin (TX),Stray,Injured,Dog,Spayed Female,3.0,Other,Red,2020-03-04 11:34:00,Spayed Female,3.0,0.0,0,N,N
+A814681,Y,2020-03-03 16:06:00,Austin (TX),Owner Surrender,Normal,Cat,Spayed Female,3.0,Other,Other,2020-03-09 17:11:00,Spayed Female,3.0,0.0,6,N,N
+A814677,Y,2020-03-03 15:38:00,Austin (TX),Owner Surrender,Normal,Cat,Neutered Male,2.0,Domestic Shorthair,Brown Tabby,2020-03-06 17:57:00,Neutered Male,2.0,0.0,3,N,N
+A814676,N,2020-03-03 15:40:00,Austin (TX),Stray,Normal,Dog,Intact Male,0.08333333333333333,Labrador Retriever,Black,2020-03-07 16:25:00,Neutered Male,0.16666666666666666,0.0,4,N,Y
+A814674,N,2020-03-03 15:18:00,Travis (TX),Owner Surrender,Normal,Dog,Intact Female,0.08333333333333333,American Staffordshire Terrier,Other,2020-03-05 17:38:00,Spayed Female,0.16666666666666666,0.0,2,N,Y
+A814673,Y,2020-03-03 15:18:00,Travis (TX),Owner Surrender,Normal,Dog,Intact Female,0.08333333333333333,American Staffordshire Terrier,Other,2020-03-05 17:14:00,Spayed Female,0.16666666666666666,0.0,2,N,Y
+A814672,N,2020-03-03 15:18:00,Travis (TX),Owner Surrender,Normal,Dog,Intact Female,0.08333333333333333,American Staffordshire Terrier,Other,2020-03-05 18:27:00,Spayed Female,0.16666666666666666,0.0,2,N,Y
+A814671,N,2020-03-03 15:18:00,Travis (TX),Owner Surrender,Normal,Dog,Intact Male,0.08333333333333333,American Staffordshire Terrier,Other,2020-03-05 18:03:00,Neutered Male,0.16666666666666666,0.0,2,N,Y
+A814670,N,2020-03-03 15:18:00,Travis (TX),Owner Surrender,Normal,Dog,Intact Male,0.08333333333333333,American Staffordshire Terrier,Other,2020-03-04 17:46:00,Neutered Male,0.08333333333333333,0.0,1,N,Y
+A814664,N,2020-03-03 14:31:00,Austin (TX),Wildlife,Normal,Bat,Unknown,3.0,Other,Brown,2020-03-04 09:40:00,Unknown,3.0,1.0,0,Y,N
+A814663,Y,2020-03-03 14:04:00,Travis (TX),Stray,Sick,Dog,Intact Male,0.08333333333333333,Chihuahua Shorthair,Black,2020-03-10 18:20:00,Neutered Male,0.08333333333333333,0.0,7,N,Y
+A814662,N,2020-03-03 14:04:00,Travis (TX),Stray,Sick,Dog,Intact Female,0.08333333333333333,Chihuahua Shorthair,Red,2020-03-10 17:36:00,Spayed Female,0.08333333333333333,0.0,7,N,Y
+A814661,N,2020-03-03 14:04:00,Travis (TX),Stray,Sick,Dog,Intact Male,0.08333333333333333,Chihuahua Shorthair,Red,2020-03-10 17:50:00,Neutered Male,0.08333333333333333,0.0,7,N,Y
+A814660,N,2020-03-03 14:04:00,Travis (TX),Stray,Sick,Dog,Intact Female,0.08333333333333333,Chihuahua Shorthair,Black,2020-03-09 18:32:00,Spayed Female,0.08333333333333333,0.0,6,N,Y
+A814659,Y,2020-03-03 14:02:00,Austin (TX),Stray,Normal,Dog,Intact Female,0.16666666666666666,Other,Brown/White,2020-03-07 17:31:00,Spayed Female,0.16666666666666666,0.0,4,N,Y
+A814652,N,2020-03-03 13:19:00,Austin (TX),Stray,Injured,Cat,Neutered Male,2.0,Domestic Shorthair,Other,2020-03-03 17:50:00,Neutered Male,2.0,0.0,0,N,N
+A814651,N,2020-03-03 13:02:00,Austin (TX),Stray,Normal,Dog,Spayed Female,2.0,Other,Brown/White,2020-03-07 16:11:00,Spayed Female,2.0,0.0,4,N,N
+A814650,Y,2020-03-03 12:51:00,Manor (TX),Stray,Normal,Dog,Intact Male,0.25,German Shepherd,Tricolor,2020-03-15 15:03:00,Neutered Male,0.3333333333333333,0.0,12,N,Y
+A814647,Y,2020-03-03 12:36:00,Austin (TX),Stray,Normal,Dog,Intact Male,2.0,German Shepherd,Other,2020-03-03 14:26:00,Intact Male,2.0,0.0,0,N,N
+A814646,Y,2020-03-03 12:32:00,Austin (TX),Owner Surrender,Normal,Dog,Intact Female,0.16666666666666666,Other,Other,2020-03-05 16:29:00,Spayed Female,0.16666666666666666,0.0,2,N,Y
+A814645,Y,2020-03-03 12:32:00,Austin (TX),Owner Surrender,Normal,Dog,Intact Female,1.0,Pit Bull Mix,Black/White,2020-03-12 12:12:00,Intact Female,1.0,0.0,8,N,N
+A814644,Y,2020-03-03 12:19:00,Austin (TX),Owner Surrender,Normal,Cat,Spayed Female,3.0,Domestic Shorthair,Black/White,2020-03-08 21:06:00,Spayed Female,3.0,0.0,5,N,N
+A814643,N,2020-03-03 12:04:00,Austin (TX),Stray,Normal,Cat,Intact Male,2.0,Domestic Shorthair,Black/White,2020-03-07 15:24:00,Intact Male,2.0,0.0,4,N,N
+A814642,N,2020-03-03 11:31:00,Austin (TX),Owner Surrender,Normal,Dog,Intact Male,0.08333333333333333,Other,Black/White,2020-03-03 15:28:00,Intact Male,0.08333333333333333,0.0,0,N,Y
+A814641,N,2020-03-03 11:31:00,Austin (TX),Owner Surrender,Normal,Dog,Intact Male,0.08333333333333333,Other,Black/White,2020-03-03 15:27:00,Intact Male,0.08333333333333333,0.0,0,N,Y
+A814640,Y,2020-03-03 11:35:00,Austin (TX),Public Assist,Normal,Dog,Intact Female,2.0,Other,Black/White,2020-03-06 11:28:00,Intact Female,2.0,0.0,2,N,N
+A814639,N,2020-03-03 11:31:00,Austin (TX),Owner Surrender,Normal,Dog,Intact Male,0.08333333333333333,Other,Black/White,2020-03-03 15:28:00,Intact Male,0.08333333333333333,0.0,0,N,Y
+A814630,Y,2020-03-03 10:26:00,Austin (TX),Public Assist,Normal,Dog,Intact Female,1.0,Other,Other,2020-03-04 12:15:00,Intact Female,1.0,0.0,1,N,N
+A814620,N,2020-03-03 08:32:00,Austin (TX),Stray,Injured,Cat,Intact Male,2.0,Domestic Shorthair,Other,2020-03-08 13:46:00,Intact Male,2.0,1.0,5,N,N
+A814619,Y,2020-03-03 08:27:00,Austin (TX),Stray,Normal,Dog,Neutered Male,6.0,Other,Black/White,2020-03-03 14:44:00,Neutered Male,6.0,0.0,0,N,N
+A814618,N,2020-03-03 08:25:00,Austin (TX),Stray,Injured,Cat,Unknown,1.0,Domestic Shorthair,Black,2020-03-03 16:22:00,Unknown,1.0,1.0,0,N,N
+A814617,N,2020-03-03 08:15:00,Austin (TX),Stray,Injured,Cat,Unknown,0.038461538461538464,Domestic Shorthair,Black,2020-03-03 09:15:00,Unknown,0.038461538461538464,1.0,0,N,Y
+A814616,N,2020-03-03 07:55:00,Austin (TX),Stray,Injured,Dog,Intact Female,4.0,Pit Bull,Blue/White,2020-03-03 08:37:00,Intact Female,4.0,1.0,0,N,N
+A814613,N,2020-03-02 20:02:00,Austin (TX),Wildlife,Normal,Bat,Unknown,1.0,Other,Brown,2020-03-03 09:51:00,Unknown,1.0,1.0,0,Y,N
+A814612,Y,2020-03-02 19:00:00,Travis (TX),Stray,Normal,Dog,Intact Female,0.08333333333333333,Other,Black/Brown,2020-03-21 16:07:00,Spayed Female,0.08333333333333333,0.0,18,N,Y
+A814611,Y,2020-03-02 19:00:00,Travis (TX),Stray,Normal,Dog,Intact Male,0.08333333333333333,Labrador Retriever Mix,Black,2020-03-25 12:19:00,Neutered Male,0.08333333333333333,0.0,22,N,Y
+A814606,N,2020-03-02 18:37:00,Travis (TX),Stray,Normal,Dog,Intact Female,0.019230769230769232,Labrador Retriever,Brown Brindle/White,2020-03-12 13:17:00,Intact Female,0.0576923076923077,0.0,9,N,Y
+A814605,N,2020-03-02 18:37:00,Travis (TX),Stray,Normal,Dog,Intact Male,0.019230769230769232,Labrador Retriever,Black/White,2020-03-12 13:17:00,Intact Male,0.0576923076923077,0.0,9,N,Y
+A814604,Y,2020-03-02 18:37:00,Travis (TX),Stray,Normal,Dog,Intact Female,1.0,Labrador Retriever,Black/White,2020-03-12 13:16:00,Intact Female,1.0,0.0,9,N,N
+A814602,N,2020-03-02 17:34:00,Austin (TX),Stray,Normal,Dog,Intact Male,10.0,Chihuahua Shorthair Mix,Black/Brown,2020-03-06 12:18:00,Intact Male,10.0,0.0,3,N,N
+A814592,Y,2020-03-02 16:34:00,Austin (TX),Stray,Normal,Dog,Intact Female,0.16666666666666666,Other,Other,2020-03-06 17:06:00,Spayed Female,0.16666666666666666,0.0,4,N,Y
+A814586,Y,2020-03-02 16:02:00,Travis (TX),Stray,Normal,Dog,Intact Female,0.25,German Shepherd Mix,Black/White,2020-03-15 14:59:00,Spayed Female,0.3333333333333333,0.0,12,N,Y
+A814585,Y,2020-03-09 12:13:00,Travis (TX),Owner Surrender,Normal,Dog,Neutered Male,2.0,Labrador Retriever,Red/White,2020-03-12 17:07:00,Neutered Male,2.0,0.0,3,N,N
+A814583,N,2020-03-02 16:02:00,Travis (TX),Stray,Normal,Dog,Intact Female,0.16666666666666666,German Shepherd Mix,Black/Brown,2020-03-07 19:12:00,Spayed Female,0.16666666666666666,0.0,5,N,Y
+A814581,Y,2020-03-02 15:19:00,Austin (TX),Stray,Normal,Dog,Intact Male,2.0,Chihuahua Shorthair,Tricolor,2020-03-18 11:38:00,Neutered Male,2.0,0.0,15,N,N
+A814579,Y,2020-03-02 15:19:00,Austin (TX),Stray,Normal,Dog,Intact Male,2.0,Chihuahua Shorthair,Tricolor,2020-03-18 11:38:00,Neutered Male,2.0,0.0,15,N,N
+A814576,Y,2020-03-06 12:56:00,Austin (TX),Public Assist,Normal,Dog,Intact Male,1.0,German Shepherd,Black/Brown,2020-03-13 11:18:00,Intact Male,1.0,0.0,6,N,N
+A814575,Y,2020-03-02 14:30:00,Austin (TX),Owner Surrender,Normal,Dog,Intact Male,6.0,Great Pyrenees,White,2020-03-16 16:53:00,Neutered Male,6.0,0.0,14,N,N
+A814574,Y,2020-03-02 14:30:00,Austin (TX),Owner Surrender,Normal,Dog,Intact Female,6.0,Other,Black/White,2020-03-10 14:17:00,Intact Female,6.0,0.0,7,N,N
+A814573,Y,2020-03-02 14:20:00,Austin (TX),Stray,Normal,Tortoise,Intact Male,5.0,Other,Brown,2020-03-02 18:37:00,Intact Male,5.0,0.0,0,N,N
+A814571,Y,2020-03-02 13:57:00,Austin (TX),Stray,Normal,Dog,Intact Female,0.25,Other,Red,2020-03-25 11:50:00,Spayed Female,0.3333333333333333,0.0,22,N,Y
+A814570,Y,2020-03-02 13:45:00,Austin (TX),Stray,Normal,Dog,Intact Male,0.6666666666666666,Labrador Retriever,Black/Tan,2020-03-17 14:10:00,Neutered Male,0.6666666666666666,0.0,15,N,Y
+A814566,N,2020-03-02 13:05:00,Austin (TX),Abandoned,Sick,Dog,Neutered Male,2.0,Siberian Husky,Brown/White,2020-03-06 16:25:00,Neutered Male,2.0,1.0,4,N,N
+A814563,Y,2020-03-02 12:42:00,Austin (TX),Owner Surrender,Normal,Rabbit Sh,Unknown,0.4166666666666667,Other,Brown,2020-03-19 18:00:00,Unknown,0.5,0.0,17,N,Y
+A814562,Y,2020-03-02 12:42:00,Austin (TX),Owner Surrender,Normal,Rabbit Sh,Unknown,0.4166666666666667,Other,Brown/White,2020-03-19 18:00:00,Unknown,0.5,0.0,17,N,Y
+A814561,Y,2020-03-02 12:15:00,Austin (TX),Owner Surrender,Normal,Dog,Spayed Female,6.0,Pit Bull,Other,2020-03-08 19:18:00,Spayed Female,6.0,0.0,6,N,N
+A814556,Y,2020-03-02 12:02:00,Austin (TX),Stray,Normal,Dog,Intact Female,2.0,Pit Bull,Other,2020-03-14 17:14:00,Spayed Female,2.0,0.0,12,N,N
+A814555,Y,2020-03-02 11:57:00,Austin (TX),Stray,Normal,Dog,Intact Male,3.0,Pit Bull,White/Tan,2020-03-10 17:22:00,Neutered Male,3.0,0.0,8,N,N
+A814554,Y,2020-03-02 11:57:00,Austin (TX),Stray,Normal,Dog,Intact Male,1.0,German Shepherd/Australian Cattle Dog,Black/Tan,2020-03-12 12:11:00,Neutered Male,1.0,0.0,10,N,N
+A814552,Y,2020-03-02 11:47:00,Austin (TX),Stray,Normal,Dog,Intact Male,3.0,Pit Bull,Other,2020-03-09 17:48:00,Neutered Male,3.0,0.0,7,N,N
+A814549,Y,2020-03-11 16:53:00,Outside Jurisdiction,Owner Surrender,Normal,Dog,Spayed Female,0.6666666666666666,German Shepherd,Black/Tan,2020-03-13 11:50:00,Spayed Female,0.6666666666666666,0.0,1,N,Y
+A814548,Y,2020-03-02 11:10:00,Austin (TX),Stray,Normal,Dog,Intact Male,0.25,Other,Black/White,2020-03-09 15:39:00,Neutered Male,0.3333333333333333,0.0,7,N,Y
+A814547,N,2020-03-02 11:14:00,Austin (TX),Wildlife,Normal,Bat,Unknown,2.0,Other,Brown,2020-03-02 11:23:00,Unknown,2.0,1.0,0,Y,N
+A814546,N,2020-03-02 11:01:00,Austin (TX),Wildlife,Normal,Bat,Unknown,2.0,Other,Brown,2020-03-02 11:10:00,Unknown,2.0,1.0,0,Y,N
+A814544,N,2020-03-02 10:46:00,Pflugerville (TX),Wildlife,Normal,Bat,Unknown,2.0,Other,Brown,2020-03-02 11:03:00,Unknown,2.0,1.0,0,Y,N
+A814542,Y,2020-03-02 17:54:00,Austin (TX),Public Assist,Normal,Dog,Intact Male,7.0,Other,Black/White,2020-03-13 18:45:00,Neutered Male,7.0,0.0,11,N,N
+A814541,N,2020-03-02 12:33:00,Austin (TX),Wildlife,Injured,Fox,Unknown,2.0,Other,Brown,2020-03-04 09:28:00,Unknown,2.0,1.0,1,Y,N
+A814535,N,2020-03-02 08:06:00,Austin (TX),Stray,Injured,Cat,Spayed Female,8.0,Domestic Shorthair,Black,2020-03-02 10:59:00,Spayed Female,8.0,1.0,0,N,N
+A814534,N,2020-03-02 07:56:00,Austin (TX),Stray,Injured,Cat,Intact Male,3.0,Domestic Shorthair,Other,2020-03-02 10:58:00,Intact Male,3.0,1.0,0,N,N
+A814531,N,2020-03-01 22:26:00,Pflugerville (TX),Wildlife,Injured,Bat,Unknown,1.0,Other,Brown,2020-03-02 11:41:00,Unknown,1.0,1.0,0,Y,N
+A814530,N,2020-03-01 22:59:00,Austin (TX),Wildlife,Injured,Raccoon,Unknown,1.0,Other,Brown,2020-03-02 11:40:00,Unknown,1.0,1.0,0,Y,N
+A814528,N,2020-03-01 16:57:00,Austin (TX),Stray,Normal,Dog,Intact Female,0.75,Other,Other,2020-03-05 11:58:00,Intact Female,0.75,0.0,3,N,Y
+A814527,Y,2020-03-01 16:57:00,Austin (TX),Stray,Normal,Dog,Neutered Male,1.0,German Shepherd Mix,Black/Brown,2020-03-07 16:57:00,Neutered Male,1.0,0.0,6,N,N
+A814526,Y,2020-03-01 16:41:00,Austin (TX),Stray,Normal,Dog,Intact Female,1.0,Pit Bull Mix,White/Chocolate,2020-03-10 14:17:00,Intact Female,1.0,0.0,8,N,N
+A814521,Y,2020-03-01 15:43:00,Austin (TX),Stray,Normal,Dog,Intact Male,2.0,German Shepherd Mix,Black/Brown,2020-03-02 17:31:00,Intact Male,2.0,0.0,1,N,N
+A814518,Y,2020-03-01 14:53:00,Austin (TX),Stray,Normal,Dog,Intact Male,2.0,Chihuahua Shorthair,Black/Brown,2020-03-21 15:35:00,Neutered Male,2.0,0.0,20,N,N
+A814517,Y,2020-03-01 14:47:00,Austin (TX),Stray,Normal,Dog,Intact Male,2.0,Other,Black/Brown,2020-03-05 19:01:00,Neutered Male,2.0,0.0,4,N,N
+A814514,Y,2020-03-01 13:43:00,Austin (TX),Owner Surrender,Normal,Cat,Neutered Male,1.0,Domestic Shorthair,Brown Tabby,2020-03-06 12:18:00,Neutered Male,1.0,0.0,4,N,N
+A814513,N,2020-03-01 13:16:00,Manor (TX),Stray,Normal,Cat,Intact Female,2.0,Domestic Shorthair,Other,2020-03-05 10:57:00,Intact Female,2.0,0.0,3,N,N
+A814512,N,2020-03-01 13:06:00,Austin (TX),Stray,Normal,Dog,Neutered Male,1.0,Chihuahua Shorthair,White,2020-03-05 17:15:00,Neutered Male,1.0,0.0,4,N,N
+A814511,Y,2020-03-01 13:01:00,Austin (TX),Stray,Normal,Dog,Intact Male,0.8333333333333334,Other,Black/White,2020-03-04 18:46:00,Intact Male,0.8333333333333334,0.0,3,N,Y
+A814509,Y,2020-03-15 12:21:00,Austin (TX),Owner Surrender,Normal,Dog,Neutered Male,6.0,Chihuahua Shorthair,Tan,2020-03-17 12:59:00,Neutered Male,6.0,0.0,2,N,N
+A814508,N,2020-03-01 12:44:00,Austin (TX),Wildlife,Sick,Raccoon,Unknown,2.0,Other,Other,2020-03-01 19:18:00,Unknown,2.0,1.0,0,Y,N
+A814507,Y,2020-03-01 12:24:00,Manor (TX),Public Assist,Normal,Dog,Intact Female,10.0,Other,Tricolor,2020-03-11 11:56:00,Intact Female,10.0,0.0,9,N,N
+A814506,Y,2020-03-01 12:15:00,Manor (TX),Stray,Normal,Dog,Intact Male,2.0,Other,White,2020-03-03 18:59:00,Intact Male,2.0,0.0,2,N,N
+A814505,N,2020-03-01 11:24:00,Leander (TX),Stray,Normal,Cat,Intact Female,0.16666666666666666,Domestic Shorthair,Black,2020-03-05 17:02:00,Spayed Female,0.16666666666666666,0.0,4,N,Y
+A814504,N,2020-03-01 11:24:00,Leander (TX),Stray,Normal,Cat,Intact Male,0.16666666666666666,Domestic Shorthair,Brown Tabby,2020-03-03 17:51:00,Intact Male,0.16666666666666666,0.0,2,N,Y
+A814503,N,2020-03-01 11:24:00,Leander (TX),Stray,Normal,Cat,Intact Male,0.16666666666666666,Domestic Shorthair,Brown Tabby,2020-03-03 17:52:00,Intact Male,0.16666666666666666,0.0,2,N,Y
+A814502,N,2020-03-01 11:24:00,Leander (TX),Stray,Normal,Cat,Intact Female,0.16666666666666666,Domestic Shorthair,Other,2020-03-05 16:43:00,Spayed Female,0.16666666666666666,0.0,4,N,Y
+A814501,N,2020-03-01 11:24:00,Leander (TX),Stray,Normal,Cat,Unknown,0.4166666666666667,Domestic Shorthair,White/Orange Tabby,2020-03-05 10:58:00,Unknown,0.5,0.0,3,N,Y
+A814500,N,2020-03-01 11:24:00,Leander (TX),Stray,Normal,Cat,Unknown,0.4166666666666667,Domestic Shorthair,Other,2020-03-05 10:58:00,Unknown,0.5,0.0,3,N,Y
+A814499,N,2020-03-01 11:24:00,Leander (TX),Stray,Normal,Cat,Unknown,0.4166666666666667,Domestic Medium Hair,Orange Tabby,2020-03-05 10:58:00,Unknown,0.5,0.0,3,N,Y
+A814498,N,2020-03-01 11:24:00,Leander (TX),Stray,Normal,Cat,Unknown,0.4166666666666667,Domestic Longhair,Other,2020-03-05 14:51:00,Unknown,0.5,0.0,4,N,Y
+A814497,N,2020-03-01 11:24:00,Leander (TX),Stray,Normal,Cat,Unknown,0.4166666666666667,Domestic Shorthair,Other,2020-03-05 14:51:00,Unknown,0.5,0.0,4,N,Y
+A814496,N,2020-03-01 11:24:00,Leander (TX),Stray,Normal,Cat,Intact Female,0.4166666666666667,Domestic Shorthair,Calico,2020-03-05 14:53:00,Intact Female,0.5,0.0,4,N,Y
+A814494,Y,2020-03-01 11:38:00,Austin (TX),Owner Surrender,Normal,Dog,Intact Female,0.3333333333333333,German Shepherd Mix,Black/Brown,2020-03-15 12:42:00,Spayed Female,0.4166666666666667,0.0,14,N,Y
+A814493,N,2020-03-01 11:05:00,Austin (TX),Stray,Normal,Cat,Unknown,2.0,Domestic Shorthair,Black,2020-03-05 14:53:00,Unknown,2.0,0.0,4,N,N
+A814492,Y,2020-03-01 11:04:00,Leander (TX),Stray,Normal,Dog,Intact Male,0.3333333333333333,German Shepherd Mix,Black/Brown,2020-03-02 11:23:00,Intact Male,0.3333333333333333,0.0,1,N,Y
+A814489,N,2020-03-01 10:38:00,Austin (TX),Stray,Injured,Dog,Intact Male,5.0,Other,White,2020-03-04 16:29:00,Intact Male,5.0,1.0,3,N,N
+A814487,N,2020-03-01 10:33:00,Austin (TX),Wildlife,Normal,Bat,Unknown,2.0,Other,Brown,2020-03-01 19:16:00,Unknown,2.0,1.0,0,Y,N
+A814486,Y,2020-03-01 08:14:00,Austin (TX),Stray,Normal,Dog,Intact Male,3.0,German Shepherd Mix,Black/Brown,2020-03-12 12:11:00,Neutered Male,3.0,0.0,11,N,N
+A814480,N,2020-02-29 20:05:00,Austin (TX),Wildlife,Normal,Bat,Unknown,2.0,Other,Brown,2020-03-01 19:07:00,Unknown,2.0,1.0,0,Y,N
+A814476,Y,2020-03-08 15:02:00,Austin (TX),Owner Surrender,Normal,Dog,Neutered Male,0.5833333333333334,Labrador Retriever,Black/White,2020-03-10 19:03:00,Neutered Male,0.5833333333333334,0.0,2,N,Y
+A814475,Y,2020-02-29 16:36:00,Austin (TX),Stray,Normal,Dog,Intact Male,0.5833333333333334,Labrador Retriever,Black/White,2020-03-08 16:38:00,Neutered Male,0.5833333333333334,0.0,8,N,Y
+A814473,N,2020-02-29 16:22:00,Austin (TX),Wildlife,Normal,Bat,Unknown,2.0,Other,Black/Brown,2020-03-01 18:57:00,Unknown,2.0,1.0,1,Y,N
+A814472,N,2020-02-29 20:40:00,Austin (TX),Wildlife,Normal,Bat,Unknown,2.0,Other,Brown,2020-03-01 19:14:00,Unknown,2.0,1.0,0,Y,N
+A814471,N,2020-02-29 20:35:00,Austin (TX),Wildlife,Normal,Bat,Unknown,2.0,Other,Brown,2020-03-01 19:12:00,Unknown,2.0,1.0,0,Y,N
+A814470,Y,2020-02-29 16:08:00,Travis (TX),Stray,Normal,Dog,Neutered Male,9.0,Other,Black/Brown,2020-02-29 17:21:00,Neutered Male,9.0,0.0,0,N,N
+A814469,Y,2020-02-29 16:07:00,Austin (TX),Stray,Normal,Dog,Intact Male,2.0,Pit Bull,Other,2020-03-05 19:22:00,Neutered Male,2.0,0.0,5,N,N
+A814467,N,2020-02-29 16:13:00,Austin (TX),Wildlife,Normal,Bat,Unknown,2.0,Other,Brown,2020-03-01 18:54:00,Unknown,2.0,1.0,1,Y,N
+A814466,N,2020-02-29 15:55:00,Austin (TX),Stray,Normal,Cat,Intact Male,1.0,Domestic Shorthair,Other,2020-03-04 10:34:00,Intact Male,1.0,0.0,3,N,N
+A814465,Y,2020-02-29 15:59:00,Austin (TX),Public Assist,Normal,Dog,Neutered Male,3.0,Other,Tan,2020-03-10 14:16:00,Neutered Male,3.0,0.0,9,N,N
+A814464,N,2020-02-29 15:54:00,Austin (TX),Wildlife,Sick,Bat,Unknown,2.0,Other,Brown,2020-02-29 18:32:00,Unknown,2.0,1.0,0,Y,N
+A814463,Y,2020-02-29 15:23:00,Travis (TX),Owner Surrender,Normal,Dog,Neutered Male,1.0,Other,White,2020-03-10 17:26:00,Neutered Male,1.0,0.0,10,N,N
+A814462,Y,2020-02-29 15:07:00,Pflugerville (TX),Stray,Normal,Dog,Intact Female,2.0,Other,Black/Tan,2020-03-04 16:22:00,Spayed Female,2.0,0.0,4,N,N
+A814461,Y,2020-02-29 15:04:00,Austin (TX),Stray,Injured,Dog,Intact Male,0.4166666666666667,Other,Black/White,2020-03-08 12:19:00,Intact Male,0.4166666666666667,0.0,7,N,Y
+A814458,Y,2020-02-29 14:27:00,Austin (TX),Owner Surrender,Normal,Cat,Neutered Male,0.25,Domestic Shorthair,Brown Tabby/White,2020-03-03 17:52:00,Neutered Male,0.25,0.0,3,N,Y
+A814457,Y,2020-02-29 14:39:00,Travis (TX),Stray,Normal,Dog,Intact Female,1.0,Pit Bull,Blue/White,2020-03-01 14:02:00,Intact Female,1.0,0.0,0,N,N
+A814456,N,2020-02-29 14:35:00,Austin (TX),Stray,Normal,Cat,Intact Female,0.010958904109589041,Domestic Shorthair,Tortie,2020-02-29 16:32:00,Intact Female,0.010958904109589041,0.0,0,N,Y
+A814455,N,2020-02-29 14:35:00,Austin (TX),Stray,Normal,Cat,Intact Male,0.010958904109589041,Domestic Shorthair,Other,2020-02-29 16:32:00,Intact Male,0.010958904109589041,0.0,0,N,Y
+A814454,N,2020-02-29 14:35:00,Austin (TX),Stray,Normal,Cat,Intact Male,0.010958904109589041,Domestic Shorthair,Other,2020-02-29 16:31:00,Intact Male,0.010958904109589041,0.0,0,N,Y
+A814453,N,2020-02-29 14:27:00,Austin (TX),Owner Surrender,Normal,Cat,Spayed Female,0.25,Domestic Shorthair,Brown Tabby/White,2020-03-01 14:28:00,Spayed Female,0.25,0.0,1,N,Y
+A814452,Y,2020-02-29 14:27:00,Austin (TX),Owner Surrender,Normal,Cat,Neutered Male,0.25,Domestic Shorthair,Black/White,2020-03-06 19:17:00,Neutered Male,0.25,0.0,6,N,Y
+A814451,Y,2020-02-29 14:24:00,Austin (TX),Stray,Normal,Dog,Intact Male,1.0,Other,Other,2020-03-12 12:11:00,Neutered Male,1.0,0.0,11,N,N
+A814450,Y,2020-02-29 14:10:00,Travis (TX),Stray,Aged,Dog,Intact Male,14.0,Other,Black/Brown,2020-02-29 17:12:00,Intact Male,14.0,0.0,0,N,N
+A814449,N,2020-02-29 14:04:00,Austin (TX),Stray,Normal,Dog,Intact Male,0.3333333333333333,Pit Bull Mix,Black/White,2020-03-06 16:17:00,Neutered Male,0.3333333333333333,0.0,6,N,Y
+A814448,N,2020-02-29 13:53:00,Austin (TX),Stray,Normal,Dog,Intact Female,0.5,Other,Brown/White,2020-03-06 18:28:00,Spayed Female,0.5,0.0,6,N,Y
+A814447,N,2020-02-29 13:51:00,Austin (TX),Stray,Injured,Cat,Intact Male,5.0,Domestic Shorthair,Black,2020-03-04 10:35:00,Intact Male,5.0,0.0,3,N,N
+A814446,N,2020-02-29 13:31:00,Austin (TX),Stray,Normal,Cat,Unknown,1.0,Domestic Shorthair,Black,2020-03-04 10:36:00,Unknown,1.0,0.0,3,N,N
+A814445,N,2020-02-29 13:15:00,Austin (TX),Stray,Normal,Cat,Intact Male,2.0,Domestic Medium Hair,Blue/White,2020-03-04 10:40:00,Intact Male,2.0,0.0,3,N,N
+A814444,Y,2020-02-29 13:17:00,Manor (TX),Stray,Aged,Dog,Spayed Female,15.0,Chihuahua Shorthair,Tan,2020-02-29 15:33:00,Spayed Female,15.0,0.0,0,N,N
+A814443,Y,2020-02-29 13:05:00,Austin (TX),Stray,Normal,Dog,Intact Female,1.0,Chihuahua Shorthair,Red,2020-03-07 17:26:00,Spayed Female,1.0,0.0,7,N,N
+A814441,Y,2020-02-29 12:32:00,Austin (TX),Owner Surrender,Normal,Guinea Pig,Intact Male,1.0,Other,Other,2020-03-01 15:43:00,Intact Male,1.0,0.0,1,N,N
+A814440,Y,2020-02-29 12:32:00,Austin (TX),Owner Surrender,Normal,Guinea Pig,Intact Male,1.0,Other,Tan,2020-03-01 15:42:00,Intact Male,1.0,0.0,1,N,N
+A814439,Y,2020-02-29 12:32:00,Austin (TX),Owner Surrender,Normal,Guinea Pig,Intact Male,1.0,Other,Brown,2020-03-01 15:41:00,Intact Male,1.0,0.0,1,N,N
+A814438,Y,2020-02-29 12:32:00,Austin (TX),Owner Surrender,Normal,Guinea Pig,Intact Male,1.0,Other,Calico,2020-03-01 15:39:00,Intact Male,1.0,0.0,1,N,N
+A814437,Y,2020-02-29 12:32:00,Austin (TX),Owner Surrender,Normal,Guinea Pig,Intact Male,1.0,Other,Calico,2020-03-01 15:39:00,Intact Male,1.0,0.0,1,N,N
+A814435,N,2020-02-29 12:06:00,Austin (TX),Stray,Normal,Cat,Intact Male,1.0,Domestic Medium Hair,White/Orange Tabby,2020-03-04 10:40:00,Intact Male,1.0,0.0,3,N,N
+A814434,N,2020-02-29 12:06:00,Austin (TX),Stray,Normal,Cat,Intact Male,1.0,Domestic Shorthair,Brown Tabby,2020-03-04 10:41:00,Intact Male,1.0,0.0,3,N,N
+A814433,N,2020-02-29 12:05:00,Travis (TX),Wildlife,Injured,Rabbit Sh,Unknown,0.010958904109589041,Other,Other,2020-02-29 12:13:00,Unknown,0.010958904109589041,1.0,0,Y,Y
+A814432,Y,2020-03-02 15:41:00,Austin (TX),Public Assist,Normal,Cat,Neutered Male,1.0,Domestic Medium Hair,Brown Tabby/White,2020-03-10 13:23:00,Neutered Male,1.0,0.0,7,N,N
+A814430,N,2020-02-29 11:28:00,Austin (TX),Stray,Normal,Dog,Intact Male,0.16666666666666666,Other,Brown/White,2020-03-04 17:05:00,Neutered Male,0.16666666666666666,0.0,4,N,Y
+A814429,Y,2020-02-29 11:28:00,Travis (TX),Owner Surrender,Normal,Dog,Neutered Male,5.0,Shih Tzu,Other,2020-02-29 17:49:00,Neutered Male,5.0,0.0,0,N,N
+A814428,N,2020-02-29 10:43:00,Austin (TX),Stray,Normal,Cat,Intact Female,0.25,Domestic Longhair,Other,2020-03-04 20:06:00,Spayed Female,0.25,0.0,4,N,Y
+A814427,N,2020-02-29 10:43:00,Austin (TX),Stray,Normal,Cat,Intact Female,0.25,Domestic Longhair,Other,2020-03-06 17:31:00,Spayed Female,0.25,0.0,6,N,Y
+A814426,N,2020-02-29 10:43:00,Austin (TX),Stray,Normal,Cat,Intact Male,0.25,Domestic Longhair,Other,2020-03-06 17:51:00,Neutered Male,0.25,0.0,6,N,Y
+A814424,Y,2020-02-29 10:41:00,Austin (TX),Stray,Normal,Dog,Intact Female,0.16666666666666666,Other,Other,2020-03-06 18:05:00,Spayed Female,0.16666666666666666,0.0,6,N,Y
+A814423,N,2020-02-29 09:05:00,Austin (TX),Stray,Normal,Dog,Intact Male,1.0,Other,Black/White,2020-03-04 15:55:00,Intact Male,1.0,0.0,4,N,N
+A814419,N,2020-02-29 08:49:00,Austin (TX),Stray,Normal,Dog,Intact Male,2.0,Siberian Husky,Black/White,2020-03-01 14:51:00,Intact Male,2.0,0.0,1,N,N
+A814402,N,2020-02-29 03:48:00,Travis (TX),Wildlife,Normal,Bat,Unknown,1.0,Other,Brown,2020-02-29 09:40:00,Unknown,1.0,1.0,0,Y,N
+A814401,N,2020-02-29 03:35:00,Travis (TX),Wildlife,Normal,Bat,Unknown,2.0,Other,Brown,2020-02-29 09:38:00,Unknown,2.0,1.0,0,Y,N
+A814398,Y,2020-02-28 22:45:00,Austin (TX),Public Assist,Normal,Dog,Spayed Female,3.0,Labrador Retriever,Black/White,2020-03-12 12:34:00,Spayed Female,3.0,0.0,12,N,N
+A814395,Y,2020-02-28 18:31:00,Austin (TX),Stray,Normal,Dog,Neutered Male,14.0,Other,Tricolor,2020-02-29 12:33:00,Neutered Male,14.0,0.0,0,N,N
+A814381,N,2020-02-28 16:18:00,Austin (TX),Stray,Normal,Cat,Intact Female,0.4166666666666667,Other,Other,2020-03-05 14:57:00,Intact Female,0.4166666666666667,0.0,5,N,Y
+A814375,N,2020-02-28 15:45:00,Austin (TX),Stray,Normal,Dog,Intact Male,2.0,Other,Brown/White,2020-03-03 17:15:00,Neutered Male,2.0,0.0,4,N,N
+A814374,N,2020-02-28 15:33:00,Austin (TX),Stray,Normal,Dwarf Hotot,Intact Male,1.0,Other,Other,2020-03-03 16:47:00,Intact Male,1.0,0.0,4,N,N
+A814372,Y,2020-02-28 15:14:00,Austin (TX),Stray,Normal,Dog,Intact Female,3.0,Other,Other,2020-02-28 19:14:00,Intact Female,3.0,0.0,0,N,N
+A814371,Y,2020-02-28 15:15:00,Outside Jurisdiction,Stray,Normal,Dog,Intact Female,1.0,American Staffordshire Terrier,Other,2020-02-29 12:38:00,Intact Female,1.0,0.0,0,N,N
+A814370,Y,2020-02-28 15:15:00,Outside Jurisdiction,Stray,Normal,Dog,Intact Female,1.0,American Staffordshire Terrier,Other,2020-02-29 12:37:00,Intact Female,1.0,0.0,0,N,N
+A814368,N,2020-02-28 14:15:00,Austin (TX),Owner Surrender,Normal,Dog,Intact Female,0.16666666666666666,Labrador Retriever,Black,2020-03-01 19:12:00,Spayed Female,0.16666666666666666,0.0,2,N,Y
+A814367,N,2020-02-28 14:15:00,Austin (TX),Owner Surrender,Normal,Dog,Intact Male,0.16666666666666666,Labrador Retriever,Black/White,2020-03-01 19:09:00,Neutered Male,0.16666666666666666,0.0,2,N,Y
+A814366,N,2020-02-28 14:15:00,Austin (TX),Owner Surrender,Normal,Dog,Intact Male,0.16666666666666666,Labrador Retriever,Black/White,2020-03-02 13:02:00,Neutered Male,0.16666666666666666,0.0,2,N,Y
+A814365,Y,2020-02-28 14:12:00,Travis (TX),Owner Surrender,Normal,Cat,Spayed Female,13.0,Domestic Shorthair,Brown Tabby,2020-03-02 14:07:00,Spayed Female,13.0,0.0,2,N,N
+A814364,Y,2020-02-28 14:12:00,Travis (TX),Owner Surrender,Normal,Cat,Spayed Female,13.0,Domestic Shorthair,Other,2020-03-02 14:09:00,Spayed Female,13.0,0.0,2,N,N
+A814363,Y,2020-02-28 14:15:00,Austin (TX),Owner Surrender,Normal,Dog,Intact Female,0.16666666666666666,Labrador Retriever,White,2020-03-01 16:41:00,Spayed Female,0.16666666666666666,0.0,2,N,Y
+A814361,N,2020-02-28 14:01:00,Travis (TX),Owner Surrender,Nursing,Dog,Unknown,0.019230769230769232,Chihuahua Shorthair Mix,Brown,2020-03-10 12:54:00,Unknown,0.038461538461538464,1.0,10,N,Y
+A814360,N,2020-02-28 14:01:00,Travis (TX),Owner Surrender,Nursing,Dog,Unknown,0.019230769230769232,Chihuahua Shorthair Mix,Brown,2020-03-17 15:21:00,Unknown,0.0576923076923077,1.0,18,N,Y
+A814359,N,2020-02-28 14:01:00,Travis (TX),Owner Surrender,Nursing,Dog,Intact Female,0.019230769230769232,Chihuahua Shorthair Mix,Tricolor,2020-03-18 11:38:00,Intact Female,0.07692307692307693,0.0,18,N,Y
+A814358,Y,2020-02-28 13:59:00,Austin (TX),Owner Surrender,Sick,Dog,Intact Female,0.25,Chihuahua Shorthair,Brown/White,2020-02-28 19:24:00,Intact Female,0.25,0.0,0,N,Y
+A814354,N,2020-02-28 13:20:00,Austin (TX),Stray,Injured,Cat,Intact Male,2.0,Domestic Shorthair,Other,2020-03-04 00:00:00,Intact Male,2.0,0.0,4,N,N
+A814353,Y,2020-02-28 13:04:00,Leander (TX),Stray,Normal,Cat,Neutered Male,0.3333333333333333,Other,Brown Tabby/White,2020-02-29 14:27:00,Neutered Male,0.3333333333333333,0.0,1,N,Y
+A814352,N,2020-02-28 12:42:00,Austin (TX),Stray,Normal,Dog,Intact Female,0.5,Other,Black/Brown,2020-03-03 14:46:00,Spayed Female,0.5,0.0,4,N,Y
+A814351,Y,2020-02-28 12:25:00,Austin (TX),Stray,Normal,Dog,Intact Male,1.0,Other,Black/White,2020-03-12 12:10:00,Neutered Male,1.0,0.0,12,N,N
+A814350,Y,2020-02-28 12:25:00,Austin (TX),Stray,Normal,Dog,Intact Female,1.0,Other,Other,2020-03-07 16:25:00,Spayed Female,1.0,0.0,8,N,N
+A814349,Y,2020-02-28 12:27:00,Austin (TX),Stray,Normal,Dog,Intact Male,1.0,Australian Cattle Dog,Other,2020-03-07 12:16:00,Neutered Male,1.0,0.0,7,N,N
+A814341,Y,2020-02-28 11:33:00,Austin (TX),Stray,Normal,Dog,Intact Male,2.0,Other,Tan,2020-03-17 12:58:00,Neutered Male,2.0,0.0,18,N,N
+A814339,Y,2020-02-28 11:30:00,Manor (TX),Stray,Normal,Cat,Intact Male,1.0,Domestic Shorthair,Brown Tabby/White,2020-03-04 17:38:00,Neutered Male,1.0,0.0,5,N,N
+A814338,Y,2020-02-28 11:30:00,Outside Jurisdiction,Stray,Normal,Cat,Neutered Male,1.0,Domestic Shorthair,White/Orange Tabby,2020-03-03 17:15:00,Neutered Male,1.0,0.0,4,N,N
+A814337,N,2020-02-28 10:27:00,Austin (TX),Abandoned,Normal,Dog,Intact Female,1.0,Chihuahua Shorthair,Brown/White,2020-03-03 16:48:00,Spayed Female,1.0,0.0,4,N,N
+A814334,N,2020-02-27 20:17:00,Austin (TX),Wildlife,Normal,Bat,Unknown,2.0,Other,Brown,2020-02-28 13:04:00,Unknown,2.0,1.0,0,Y,N
+A814333,N,2020-02-27 18:50:00,Austin (TX),Stray,Nursing,Cat,Unknown,0.010958904109589041,Domestic Shorthair,Black/White,2020-02-28 11:53:00,Unknown,0.0136986301369863,0.0,0,N,Y
+A814332,N,2020-02-27 18:50:00,Austin (TX),Stray,Nursing,Cat,Unknown,0.010958904109589041,Domestic Shorthair,Black/White,2020-02-28 11:53:00,Unknown,0.0136986301369863,0.0,0,N,Y
+A814331,N,2020-02-27 18:50:00,Austin (TX),Stray,Nursing,Cat,Unknown,0.010958904109589041,Domestic Shorthair,Black/White,2020-02-28 11:52:00,Unknown,0.0136986301369863,0.0,0,N,Y
+A814330,N,2020-02-27 18:50:00,Austin (TX),Stray,Nursing,Cat,Unknown,0.010958904109589041,Domestic Shorthair,Black/White,2020-02-28 11:52:00,Unknown,0.0136986301369863,0.0,0,N,Y
+A814327,Y,2020-02-27 18:17:00,Austin (TX),Abandoned,Normal,Cat,Spayed Female,1.0,Domestic Medium Hair,Tortie,2020-02-28 18:47:00,Spayed Female,1.0,0.0,1,N,N
+A814323,N,2020-02-27 18:02:00,Austin (TX),Stray,Normal,Dog,Intact Female,2.0,Other,White/Tan,2020-03-02 16:14:00,Spayed Female,2.0,0.0,3,N,N
+A814322,Y,2020-02-27 17:28:00,Austin (TX),Stray,Normal,Dog,Intact Male,3.0,Labrador Retriever,Black,2020-02-28 11:50:00,Intact Male,3.0,0.0,0,N,N
+A814321,Y,2020-02-27 16:47:00,Travis (TX),Stray,Normal,Dog,Intact Female,0.16666666666666666,Labrador Retriever/Pit Bull,Black,2020-03-06 18:52:00,Spayed Female,0.16666666666666666,0.0,8,N,Y
+A814319,Y,2020-03-15 15:19:00,Pflugerville (TX),Owner Surrender,Normal,Dog,Spayed Female,0.25,Labrador Retriever/Pit Bull,Black,2020-03-15 16:35:00,Spayed Female,0.25,0.0,0,N,Y
+A814318,N,2020-02-27 16:47:00,Travis (TX),Stray,Normal,Dog,Intact Female,0.16666666666666666,Labrador Retriever/Pit Bull,White,2020-03-02 17:14:00,Spayed Female,0.16666666666666666,0.0,4,N,Y
+A814317,Y,2020-02-27 16:47:00,Travis (TX),Stray,Normal,Dog,Intact Female,0.16666666666666666,Labrador Retriever/Pit Bull,Black/White,2020-03-02 18:02:00,Spayed Female,0.16666666666666666,0.0,4,N,Y
+A814316,N,2020-02-27 16:47:00,Travis (TX),Stray,Normal,Dog,Intact Male,0.16666666666666666,Labrador Retriever/Pit Bull,Other,2020-03-02 16:41:00,Neutered Male,0.16666666666666666,0.0,3,N,Y
+A814315,N,2020-02-27 16:47:00,Travis (TX),Stray,Normal,Dog,Intact Female,0.16666666666666666,Labrador Retriever/Pit Bull,White/Chocolate,2020-03-02 16:41:00,Spayed Female,0.16666666666666666,0.0,3,N,Y
+A814310,Y,2020-02-27 15:17:00,Austin (TX),Owner Surrender,Normal,Dog,Neutered Male,3.0,Great Pyrenees,White,2020-03-04 11:56:00,Neutered Male,3.0,0.0,5,N,N
+A814307,N,2020-02-27 15:19:00,Austin (TX),Wildlife,Normal,Bat,Unknown,2.0,Other,Brown,2020-02-27 15:57:00,Unknown,2.0,1.0,0,Y,N
+A814306,Y,2020-02-27 14:52:00,Travis (TX),Stray,Normal,Dog,Intact Female,0.9166666666666666,Labrador Retriever,Other,2020-03-04 16:40:00,Spayed Female,0.9166666666666666,0.0,6,N,Y
+A814305,Y,2020-02-27 14:52:00,Travis (TX),Stray,Normal,Dog,Intact Female,2.0,Australian Cattle Dog,Black/White,2020-03-04 16:54:00,Spayed Female,2.0,0.0,6,N,N
+A814303,N,2020-02-27 14:36:00,Austin (TX),Stray,Normal,Dog,Intact Female,1.0,Other,White/Chocolate,2020-03-03 17:15:00,Spayed Female,1.0,0.0,5,N,N
+A814300,N,2020-02-27 13:41:00,Austin (TX),Stray,Injured,Cat,Intact Female,0.07692307692307693,Domestic Shorthair,Black,2020-03-07 12:47:00,Intact Female,0.08333333333333333,1.0,8,N,Y
+A814299,N,2020-02-27 13:04:00,Austin (TX),Stray,Normal,Dog,Neutered Male,0.5,Other,Black/Tan,2020-03-02 11:20:00,Neutered Male,0.5,0.0,3,N,Y
+A814298,N,2020-02-27 13:09:00,Austin (TX),Wildlife,Normal,Bat,Unknown,2.0,Other,Brown,2020-02-27 15:07:00,Unknown,2.0,1.0,0,Y,N
+A814297,Y,2020-02-27 13:01:00,Travis (TX),Stray,Normal,Dog,Intact Male,0.5,Other,Black/Brown,2020-03-02 12:55:00,Intact Male,0.5,0.0,3,N,Y
+A814296,Y,2020-02-27 12:50:00,Austin (TX),Stray,Normal,Dog,Intact Male,3.0,Pit Bull,Other,2020-03-06 12:19:00,Intact Male,3.0,0.0,7,N,N
+A814295,Y,2020-02-27 12:31:00,Austin (TX),Stray,Normal,Dog,Intact Male,4.0,Pit Bull,Other,2020-03-09 13:39:00,Neutered Male,4.0,0.0,11,N,N
+A814293,N,2020-02-27 11:52:00,Austin (TX),Stray,Normal,Dog,Intact Female,0.16666666666666666,Other,Tricolor,2020-03-03 16:27:00,Spayed Female,0.16666666666666666,0.0,5,N,Y
+A814292,N,2020-02-27 11:52:00,Austin (TX),Stray,Normal,Dog,Intact Male,0.3333333333333333,Great Pyrenees,White,2020-03-02 18:11:00,Neutered Male,0.3333333333333333,0.0,4,N,Y
+A814291,Y,2020-02-27 11:37:00,Austin (TX),Abandoned,Normal,Cat,Intact Male,1.0,Domestic Shorthair,Black/White,2020-03-03 12:40:00,Neutered Male,1.0,0.0,5,N,N
+A814287,Y,2020-02-27 10:26:00,Austin (TX),Stray,Injured,Dog,Spayed Female,8.0,Pit Bull,Other,2020-03-16 17:08:00,Spayed Female,8.0,0.0,18,N,N
+A814284,N,2020-02-27 08:51:00,Austin (TX),Wildlife,Normal,Bat,Unknown,1.0,Other,Brown,2020-03-01 18:53:00,Unknown,1.0,1.0,3,Y,N
+A814283,N,2020-02-27 08:51:00,Austin (TX),Wildlife,Normal,Bat,Unknown,1.0,Other,Brown,2020-02-29 09:29:00,Unknown,1.0,1.0,2,Y,N
+A814282,N,2020-02-27 08:51:00,Austin (TX),Wildlife,Normal,Bat,Unknown,1.0,Other,Brown,2020-02-29 09:28:00,Unknown,1.0,1.0,2,Y,N
+A814281,N,2020-02-27 08:51:00,Austin (TX),Wildlife,Normal,Bat,Unknown,1.0,Other,Brown,2020-02-29 09:26:00,Unknown,1.0,1.0,2,Y,N
+A814280,N,2020-02-27 08:51:00,Austin (TX),Wildlife,Normal,Bat,Unknown,1.0,Other,Brown,2020-02-29 09:25:00,Unknown,1.0,1.0,2,Y,N
+A814279,N,2020-02-27 08:42:00,Austin (TX),Wildlife,Normal,Bat,Unknown,1.0,Other,Brown,2020-02-29 09:25:00,Unknown,1.0,1.0,2,Y,N
+A814274,N,2020-02-26 18:56:00,Austin (TX),Stray,Normal,Dog,Intact Male,0.25,Labrador Retriever,Black/Tan,2020-03-01 18:18:00,Neutered Male,0.25,0.0,3,N,Y
+A814273,Y,2020-03-04 17:28:00,Austin (TX),Owner Surrender,Normal,Dog,Neutered Male,0.25,Labrador Retriever,Black/White,2020-03-05 17:33:00,Neutered Male,0.25,0.0,1,N,Y
+A814272,N,2020-02-26 18:56:00,Austin (TX),Stray,Normal,Dog,Intact Male,0.25,Labrador Retriever,Black/White,2020-03-01 18:44:00,Neutered Male,0.25,0.0,3,N,Y
+A814270,Y,2020-02-26 17:39:00,Austin (TX),Stray,Normal,Dog,Intact Female,3.0,German Shepherd,Black,2020-03-10 17:18:00,Spayed Female,3.0,0.0,12,N,N
+A814269,Y,2020-02-26 17:29:00,Austin (TX),Stray,Normal,Dog,Intact Female,1.0,German Shepherd,Other,2020-03-02 16:19:00,Spayed Female,1.0,0.0,4,N,N
+A814268,N,2020-02-26 17:13:00,Austin (TX),Stray,Normal,Dog,Intact Female,1.0,Chihuahua Shorthair,Brown/White,2020-03-01 17:09:00,Spayed Female,1.0,0.0,3,N,N
+A814266,Y,2020-02-26 16:20:00,Austin (TX),Owner Surrender,Normal,Dog,Intact Female,0.16666666666666666,Other,Other,2020-02-29 16:29:00,Spayed Female,0.16666666666666666,0.0,3,N,Y
+A814265,Y,2020-02-26 16:20:00,Austin (TX),Owner Surrender,Normal,Dog,Intact Male,1.0,Chihuahua Shorthair,Black,2020-03-02 12:55:00,Neutered Male,1.0,0.0,4,N,N
+A814259,Y,2020-02-26 15:23:00,Austin (TX),Owner Surrender,Sick,Cat,Intact Male,2.0,Domestic Shorthair,Brown Tabby,2020-03-01 13:04:00,Intact Male,2.0,0.0,3,N,N
+A814252,N,2020-02-26 14:07:00,Austin (TX),Wildlife,Sick,Bat,Unknown,1.0,Other,Black,2020-03-01 14:58:00,Unknown,1.0,1.0,4,Y,N
+A814250,Y,2020-02-26 13:39:00,Austin (TX),Stray,Normal,Dog,Intact Female,0.3333333333333333,Other,Black/White,2020-02-26 14:39:00,Intact Female,0.3333333333333333,0.0,0,N,Y
+A814249,Y,2020-02-26 13:39:00,Austin (TX),Stray,Normal,Dog,Intact Male,0.3333333333333333,Other,Black/White,2020-02-26 14:39:00,Intact Male,0.3333333333333333,0.0,0,N,Y
+A814248,N,2020-02-26 12:47:00,Austin (TX),Stray,Normal,Dog,Intact Female,2.0,Other,Black/Brown,2020-03-01 16:53:00,Spayed Female,2.0,0.0,4,N,N
+A814246,Y,2020-02-26 13:12:00,Travis (TX),Stray,Normal,Dog,Spayed Female,5.0,Labrador Retriever,Tan,2020-03-06 12:20:00,Spayed Female,5.0,0.0,8,N,N
+A814243,Y,2020-02-26 12:37:00,Austin (TX),Stray,Normal,Cat,Neutered Male,4.0,Domestic Shorthair,Other,2020-03-07 16:45:00,Neutered Male,4.0,0.0,10,N,N
+A814241,N,2020-02-26 12:27:00,Austin (TX),Stray,Normal,Dog,Intact Female,2.0,German Shepherd,Black,2020-03-01 16:46:00,Spayed Female,2.0,0.0,4,N,N
+A814239,N,2020-02-26 12:06:00,Travis (TX),Stray,Normal,Cat,Intact Female,2.0,Domestic Shorthair,Calico,2020-03-01 09:58:00,Intact Female,2.0,0.0,3,N,N
+A814237,N,2020-02-26 12:06:00,Travis (TX),Stray,Normal,Cat,Unknown,2.0,Domestic Shorthair,Black/White,2020-03-01 09:58:00,Unknown,2.0,0.0,3,N,N
+A814236,N,2020-02-26 12:06:00,Travis (TX),Stray,Normal,Cat,Intact Female,2.0,Domestic Shorthair,Black/White,2020-03-01 09:57:00,Intact Female,2.0,0.0,3,N,N
+A814235,N,2020-02-26 12:06:00,Travis (TX),Stray,Normal,Cat,Unknown,2.0,Domestic Shorthair,Black/White,2020-03-01 09:57:00,Unknown,2.0,0.0,3,N,N
+A814234,Y,2020-02-26 11:41:00,Travis (TX),Stray,Normal,Dog,Spayed Female,3.0,Pit Bull,Black/White,2020-03-12 10:59:00,Spayed Female,3.0,0.0,14,N,N
+A814230,N,2020-02-26 11:10:00,Austin (TX),Stray,Nursing,Dog,Intact Male,0.01643835616438356,Yorkshire Terrier/Border Terrier,Other,2020-03-25 17:07:00,Intact Male,0.07692307692307693,0.0,28,N,Y
+A814229,N,2020-02-26 11:10:00,Austin (TX),Stray,Nursing,Dog,Intact Male,0.01643835616438356,Yorkshire Terrier/Border Terrier,Other,2020-03-25 17:06:00,Intact Male,0.07692307692307693,0.0,28,N,Y
+A814228,N,2020-02-26 11:10:00,Austin (TX),Stray,Nursing,Dog,Intact Male,0.01643835616438356,Yorkshire Terrier/Border Terrier,Brown,2020-03-25 17:06:00,Intact Male,0.07692307692307693,0.0,28,N,Y
+A814227,N,2020-02-26 11:10:00,Austin (TX),Stray,Nursing,Dog,Intact Female,0.01643835616438356,Yorkshire Terrier/Border Terrier,Brown,2020-03-25 17:06:00,Intact Female,0.07692307692307693,0.0,28,N,Y
+A814226,N,2020-02-26 11:10:00,Austin (TX),Stray,Nursing,Dog,Intact Female,0.01643835616438356,Yorkshire Terrier/Border Terrier,Brown,2020-03-25 17:06:00,Intact Female,0.07692307692307693,0.0,28,N,Y
+A814225,Y,2020-02-26 11:10:00,Austin (TX),Stray,Nursing,Dog,Intact Female,5.0,Yorkshire Terrier/Border Terrier,Black/Brown,2020-03-25 17:06:00,Intact Female,5.0,0.0,28,N,N
+A814222,Y,2020-02-26 09:32:00,Austin (TX),Stray,Normal,Dog,Intact Male,4.0,German Shepherd,White,2020-02-26 19:38:00,Intact Male,4.0,0.0,0,N,N
+A814221,Y,2020-02-26 09:32:00,Austin (TX),Stray,Normal,Dog,Neutered Male,6.0,Other,Black/Brown,2020-02-26 19:38:00,Neutered Male,6.0,0.0,0,N,N
+A814213,N,2020-02-25 23:45:00,Austin (TX),Wildlife,Normal,Bat,Unknown,0.9166666666666666,Other,Brown,2020-02-26 10:51:00,Unknown,1.0,1.0,0,Y,Y
+A814211,Y,2020-02-25 18:50:00,Austin (TX),Stray,Normal,Dog,Intact Male,0.16666666666666666,Other,Black/Brown,2020-02-26 11:51:00,Intact Male,0.16666666666666666,0.0,0,N,Y
+A814210,Y,2020-02-25 18:08:00,Austin (TX),Abandoned,Normal,Dog,Spayed Female,2.0,Chihuahua Shorthair,Brown/White,2020-02-26 12:28:00,Spayed Female,2.0,0.0,0,N,N
+A814209,Y,2020-02-25 18:08:00,Austin (TX),Abandoned,Normal,Dog,Spayed Female,0.5,Chihuahua Shorthair,White/Tan,2020-02-26 12:28:00,Spayed Female,0.5,0.0,0,N,Y
+A814207,N,2020-02-25 17:37:00,Austin (TX),Stray,Normal,Cat,Intact Female,1.0,Domestic Shorthair,Other,2020-02-29 12:35:00,Intact Female,1.0,0.0,3,N,N
+A814206,N,2020-02-25 17:37:00,Austin (TX),Stray,Normal,Cat,Intact Female,0.5833333333333334,Domestic Shorthair,White,2020-02-28 11:53:00,Intact Female,0.5833333333333334,0.0,2,N,Y
+A814205,N,2020-02-25 17:42:00,Travis (TX),Wildlife,Injured,Bat,Unknown,2.0,Other,Brown,2020-02-26 10:53:00,Unknown,2.0,1.0,0,Y,N
+A814202,Y,2020-02-25 16:54:00,Lakeway (TX),Abandoned,Normal,Cat,Spayed Female,5.0,Domestic Shorthair,Calico,2020-03-07 16:08:00,Spayed Female,5.0,0.0,10,N,N
+A814201,Y,2020-02-25 17:00:00,Austin (TX),Stray,Normal,Dog,Intact Female,1.0,Other,Other,2020-02-26 11:31:00,Intact Female,1.0,0.0,0,N,N
+A814199,Y,2020-02-25 17:00:00,Austin (TX),Stray,Normal,Dog,Spayed Female,8.0,Other,Red,2020-02-26 16:14:00,Spayed Female,8.0,0.0,0,N,N
+A814197,N,2020-02-25 16:36:00,Travis (TX),Stray,Nursing,Dog,Intact Female,0.019230769230769232,Chihuahua Shorthair Mix,Brown/White,2020-02-25 17:52:00,Intact Female,0.019230769230769232,0.0,0,N,Y
+A814196,N,2020-02-25 16:36:00,Travis (TX),Stray,Nursing,Dog,Intact Female,0.019230769230769232,Chihuahua Shorthair Mix,Other,2020-02-25 17:52:00,Intact Female,0.019230769230769232,0.0,0,N,Y
+A814193,Y,2020-02-25 16:25:00,Austin (TX),Owner Surrender,Normal,Dog,Intact Female,0.16666666666666666,German Shepherd/Australian Cattle Dog,Red,2020-02-28 17:18:00,Spayed Female,0.16666666666666666,0.0,3,N,Y
+A814192,Y,2020-02-25 16:25:00,Austin (TX),Owner Surrender,Normal,Dog,Intact Female,0.16666666666666666,German Shepherd/Australian Cattle Dog,Red,2020-02-27 17:24:00,Spayed Female,0.16666666666666666,0.0,2,N,Y
+A814191,Y,2020-02-25 16:25:00,Austin (TX),Owner Surrender,Normal,Dog,Intact Male,0.16666666666666666,German Shepherd/Australian Cattle Dog,Red,2020-02-27 13:55:00,Neutered Male,0.16666666666666666,1.0,1,N,Y
+A814190,Y,2020-02-25 16:25:00,Austin (TX),Owner Surrender,Normal,Dog,Intact Male,0.16666666666666666,German Shepherd/Australian Cattle Dog,Red,2020-02-29 17:34:00,Neutered Male,0.16666666666666666,0.0,4,N,Y
+A814189,Y,2020-02-25 16:25:00,Austin (TX),Owner Surrender,Normal,Dog,Intact Female,0.16666666666666666,German Shepherd/Australian Cattle Dog,Red,2020-02-27 17:38:00,Spayed Female,0.16666666666666666,0.0,2,N,Y
+A814188,Y,2020-02-25 16:25:00,Austin (TX),Owner Surrender,Normal,Dog,Intact Female,0.16666666666666666,German Shepherd/Australian Cattle Dog,Red,2020-02-27 17:37:00,Spayed Female,0.16666666666666666,0.0,2,N,Y
+A814187,Y,2020-03-05 11:33:00,Travis (TX),Owner Surrender,Normal,Dog,Spayed Female,0.16666666666666666,German Shepherd/Australian Cattle Dog,Red,2020-03-05 15:16:00,Spayed Female,0.16666666666666666,0.0,0,N,Y
+A814186,Y,2020-02-25 16:25:00,Austin (TX),Owner Surrender,Normal,Dog,Intact Male,0.16666666666666666,Australian Cattle Dog,Other,2020-02-28 16:15:00,Neutered Male,0.16666666666666666,0.0,2,N,Y
+A814184,N,2020-02-25 15:33:00,Austin (TX),Owner Surrender,Normal,Dog,Intact Male,0.16666666666666666,Other,White/Tan,2020-02-28 18:08:00,Neutered Male,0.16666666666666666,0.0,3,N,Y
+A814183,N,2020-02-25 15:33:00,Austin (TX),Owner Surrender,Normal,Dog,Intact Female,0.16666666666666666,Other,Black/Brown,2020-02-29 14:08:00,Spayed Female,0.16666666666666666,0.0,3,N,Y
+A814182,N,2020-02-25 15:33:00,Austin (TX),Owner Surrender,Normal,Dog,Intact Male,0.16666666666666666,Other,Black/Brown,2020-02-28 16:29:00,Neutered Male,0.16666666666666666,0.0,3,N,Y
+A814181,N,2020-02-25 15:33:00,Austin (TX),Owner Surrender,Normal,Dog,Intact Female,0.16666666666666666,Other,Black/Brown,2020-02-27 17:22:00,Spayed Female,0.16666666666666666,0.0,2,N,Y
+A814180,Y,2020-02-25 14:58:00,Austin (TX),Stray,Normal,Dog,Intact Male,2.0,Shih Tzu,White,2020-02-28 19:02:00,Intact Male,2.0,0.0,3,N,N
+A814177,N,2020-02-25 14:44:00,Austin (TX),Stray,Normal,Cat,Intact Male,5.0,Domestic Shorthair,Black/White,2020-02-29 12:34:00,Intact Male,5.0,0.0,3,N,N
+A814174,Y,2020-02-25 14:27:00,Austin (TX),Stray,Normal,Cat,Spayed Female,1.0,Domestic Medium Hair,White/Orange Tabby,2020-03-14 11:32:00,Spayed Female,1.0,0.0,17,N,N
+A814165,N,2020-02-25 12:58:00,Austin (TX),Owner Surrender,Normal,Cat,Intact Male,0.0576923076923077,Domestic Shorthair,Blue/White,2020-03-28 07:32:00,Neutered Male,0.08333333333333333,0.0,31,N,Y
+A814164,N,2020-02-25 12:58:00,Austin (TX),Owner Surrender,Normal,Cat,Intact Male,0.0576923076923077,Domestic Shorthair,Blue/White,2020-03-28 07:26:00,Neutered Male,0.08333333333333333,0.0,31,N,Y
+A814160,N,2020-02-25 12:41:00,Austin (TX),Stray,Normal,Dog,Intact Female,1.0,Other,Black/White,2020-02-29 17:49:00,Spayed Female,1.0,0.0,4,N,N
+A814157,Y,2020-02-25 12:25:00,Austin (TX),Owner Surrender,Normal,Cat,Intact Male,0.3333333333333333,Domestic Medium Hair,Black,2020-02-29 18:54:00,Neutered Male,0.3333333333333333,0.0,4,N,Y
+A814155,N,2020-02-25 11:52:00,Austin (TX),Stray,Normal,Dog,Intact Female,1.0,Pit Bull,Blue/White,2020-02-28 19:19:00,Intact Female,1.0,0.0,3,N,N
+A814154,N,2020-02-25 11:47:00,Austin (TX),Stray,Normal,Cat,Unknown,2.0,Domestic Shorthair,Orange Tabby,2020-02-29 12:34:00,Unknown,2.0,0.0,4,N,N
+A814153,Y,2020-02-25 11:47:00,Austin (TX),Stray,Normal,Cat,Neutered Male,0.3333333333333333,Domestic Shorthair,White/Orange Tabby,2020-02-25 12:49:00,Neutered Male,0.3333333333333333,0.0,0,N,Y
+A814152,N,2020-02-25 11:16:00,Austin (TX),Stray,Normal,Dog,Intact Female,5.0,Chihuahua Shorthair,Tan,2020-03-04 11:53:00,Spayed Female,5.0,0.0,8,N,N
+A814151,Y,2020-02-25 11:16:00,Austin (TX),Stray,Normal,Dog,Intact Male,5.0,Chihuahua Shorthair,White/Tan,2020-03-01 18:22:00,Neutered Male,5.0,0.0,5,N,N
+A814146,N,2020-02-25 09:53:00,Austin (TX),Stray,Injured,Dog,Neutered Male,8.0,Dachshund,Black/Brown,2020-02-29 18:36:00,Neutered Male,8.0,1.0,4,N,N
+A814142,N,2020-02-25 08:15:00,Austin (TX),Wildlife,Normal,Bat,Unknown,2.0,Other,Black/Brown,2020-02-25 10:09:00,Unknown,2.0,1.0,0,Y,N
+A814140,N,2020-02-25 08:15:00,Austin (TX),Wildlife,Normal,Bat,Unknown,2.0,Other,Black/Brown,2020-02-25 10:10:00,Unknown,2.0,1.0,0,Y,N
+A814137,N,2020-02-25 07:45:00,Austin (TX),Stray,Injured,Cat,Intact Male,4.0,Domestic Shorthair,Black,2020-02-25 16:19:00,Intact Male,4.0,1.0,0,N,N
+A814136,Y,2020-02-24 19:09:00,Austin (TX),Public Assist,Normal,Dog,Intact Female,2.0,Other,Brown/White,2020-03-04 17:58:00,Spayed Female,2.0,0.0,8,N,N
+A814135,Y,2020-02-24 18:42:00,Austin (TX),Stray,Normal,Dog,Neutered Male,2.0,Great Pyrenees,Other,2020-03-07 17:30:00,Neutered Male,2.0,0.0,11,N,N
+A814134,Y,2020-02-24 18:15:00,Austin (TX),Abandoned,Normal,Dog,Intact Male,1.0,Pit Bull,Black/White,2020-03-02 18:59:00,Neutered Male,1.0,0.0,7,N,N
+A814133,Y,2020-02-24 17:59:00,Austin (TX),Stray,Normal,Dog,Intact Male,3.0,Other,Brown/White,2020-02-24 18:51:00,Intact Male,3.0,0.0,0,N,N
+A814129,Y,2020-02-24 16:34:00,Austin (TX),Abandoned,Normal,Dog,Intact Male,4.0,Labrador Retriever,Tan,2020-03-04 11:57:00,Neutered Male,4.0,0.0,8,N,N
+A814128,Y,2020-02-24 16:34:00,Austin (TX),Abandoned,Normal,Dog,Intact Male,3.0,Siberian Husky,Black/White,2020-03-04 11:57:00,Neutered Male,3.0,0.0,8,N,N
+A814121,Y,2020-02-24 16:10:00,Austin (TX),Stray,Normal,Dog,Neutered Male,2.0,Siberian Husky,Other,2020-02-26 13:00:00,Neutered Male,2.0,0.0,1,N,N
+A814120,Y,2020-02-24 16:10:00,Austin (TX),Stray,Normal,Dog,Spayed Female,2.0,Other,Black/Brown,2020-02-26 13:00:00,Spayed Female,2.0,0.0,1,N,N
+A814117,N,2020-02-24 15:09:00,Austin (TX),Owner Surrender,Normal,Cat,Intact Male,0.75,Domestic Longhair,Black/White,2020-02-27 18:18:00,Neutered Male,0.75,0.0,3,N,Y
+A814114,N,2020-02-24 14:57:00,Austin (TX),Stray,Normal,Dog,Intact Male,2.0,Other,Brown/White,2020-02-29 12:01:00,Neutered Male,2.0,0.0,4,N,N
+A814113,Y,2020-02-24 14:18:00,Austin (TX),Public Assist,Normal,Cat,Neutered Male,0.8333333333333334,Domestic Shorthair,Other,2020-02-28 18:21:00,Neutered Male,0.8333333333333334,0.0,4,N,Y
+A814112,N,2020-02-24 14:49:00,Austin (TX),Stray,Injured,Cat,Intact Female,10.0,Domestic Longhair,Orange Tabby,2020-02-27 16:20:00,Intact Female,10.0,1.0,3,N,N
+A814111,Y,2020-02-24 14:27:00,Austin (TX),Stray,Normal,Dog,Spayed Female,6.0,Other,Other,2020-02-26 19:06:00,Spayed Female,6.0,0.0,2,N,N
+A814110,Y,2020-02-24 14:18:00,Austin (TX),Public Assist,Normal,Cat,Spayed Female,1.0,Domestic Longhair,Orange Tabby,2020-03-01 13:25:00,Spayed Female,1.0,0.0,5,N,N
+A814109,Y,2020-02-24 14:18:00,Austin (TX),Public Assist,Normal,Cat,Spayed Female,1.0,Domestic Shorthair,Calico,2020-02-29 16:43:00,Spayed Female,1.0,0.0,5,N,N
+A814108,Y,2020-02-24 14:00:00,Austin (TX),Owner Surrender,Normal,Cat,Spayed Female,8.0,Domestic Shorthair,Calico,2020-02-27 15:06:00,Spayed Female,9.0,0.0,3,N,N
+A814101,Y,2020-02-24 13:03:00,Austin (TX),Stray,Normal,Dog,Intact Male,0.07692307692307693,Other,Tan,2020-03-18 16:18:00,Neutered Male,0.08333333333333333,0.0,23,N,Y
+A814097,Y,2020-02-24 12:37:00,Austin (TX),Owner Surrender,Normal,Cat,Intact Female,0.5,Domestic Shorthair,Tortie,2020-02-28 19:19:00,Spayed Female,0.5,0.0,4,N,Y
+A814096,Y,2020-03-06 15:36:00,Austin (TX),Owner Surrender,Normal,Cat,Spayed Female,0.5,Domestic Shorthair,Other,2020-03-08 15:39:00,Spayed Female,0.5,0.0,2,N,Y
+A814095,N,2020-02-24 12:32:00,Travis (TX),Stray,Normal,Cat,Intact Female,0.5,Domestic Shorthair,Black,2020-02-28 16:30:00,Intact Female,0.5,0.0,4,N,Y
+A814094,Y,2020-02-24 12:15:00,Austin (TX),Stray,Normal,Dog,Intact Male,1.0,Other,Black/Tan,2020-03-04 11:57:00,Neutered Male,1.0,0.0,8,N,N
+A814091,Y,2020-02-24 11:50:00,Austin (TX),Owner Surrender,Normal,Cat,Neutered Male,15.0,Other,Other,2020-03-03 19:22:00,Neutered Male,15.0,0.0,8,N,N
+A814090,Y,2020-02-24 11:17:00,Austin (TX),Stray,Normal,Dog,Intact Female,2.0,German Shepherd,Black/Tan,2020-03-02 12:51:00,Intact Female,2.0,0.0,7,N,N
+A814089,N,2020-02-24 11:11:00,Austin (TX),Stray,Normal,Cat,Intact Female,0.25,Domestic Shorthair,Black/White,2020-02-28 17:45:00,Spayed Female,0.25,0.0,4,N,Y
+A814088,Y,2020-02-24 11:11:00,Austin (TX),Stray,Normal,Cat,Intact Female,0.16666666666666666,Domestic Shorthair,Tortie,2020-03-01 17:00:00,Spayed Female,0.16666666666666666,0.0,6,N,Y
+A814087,Y,2020-02-24 11:11:00,Austin (TX),Stray,Normal,Cat,Intact Female,0.16666666666666666,Domestic Medium Hair,Tortie,2020-03-02 10:46:00,Spayed Female,0.16666666666666666,0.0,6,N,Y
+A814086,N,2020-02-24 11:11:00,Austin (TX),Stray,Normal,Cat,Intact Female,0.16666666666666666,Domestic Medium Hair,Other,2020-02-28 16:46:00,Spayed Female,0.16666666666666666,0.0,4,N,Y
+A814085,N,2020-02-24 11:11:00,Austin (TX),Stray,Normal,Cat,Intact Male,0.16666666666666666,Domestic Shorthair,Orange Tabby,2020-02-28 17:57:00,Neutered Male,0.16666666666666666,0.0,4,N,Y
+A814084,Y,2020-02-24 11:11:00,Austin (TX),Stray,Normal,Cat,Intact Male,0.16666666666666666,Domestic Shorthair,Black,2020-02-28 18:15:00,Neutered Male,0.16666666666666666,0.0,4,N,Y
+A814083,N,2020-02-24 11:11:00,Austin (TX),Stray,Normal,Cat,Intact Female,0.08333333333333333,Other,Other,2020-02-26 12:45:00,Intact Female,0.08333333333333333,0.0,2,N,Y
+A814081,Y,2020-02-24 10:28:00,Austin (TX),Public Assist,Normal,Dog,Intact Male,4.0,Chihuahua Shorthair,Red,2020-02-26 11:13:00,Intact Male,4.0,0.0,2,N,N
+A814080,Y,2020-02-24 11:02:00,Austin (TX),Stray,Normal,Dog,Intact Female,2.0,Other,Brown/White,2020-03-06 12:19:00,Intact Female,2.0,0.0,11,N,N
+A814067,Y,2020-02-24 07:54:00,Austin (TX),Stray,Normal,Cat,Neutered Male,15.0,Other,White/Orange Tabby,2020-02-24 14:11:00,Neutered Male,15.0,0.0,0,N,N
+A814065,N,2020-02-23 18:16:00,Austin (TX),Stray,Normal,Dog,Intact Female,0.16666666666666666,Labrador Retriever Mix,Black/Brown,2020-02-27 17:04:00,Spayed Female,0.16666666666666666,0.0,3,N,Y
+A814064,Y,2020-02-23 18:25:00,Austin (TX),Stray,Normal,Dog,Intact Male,2.0,Siberian Husky,Black/White,2020-02-24 11:01:00,Intact Male,2.0,0.0,0,N,N
+A814063,Y,2020-02-23 18:16:00,Austin (TX),Stray,Normal,Dog,Intact Female,0.16666666666666666,Labrador Retriever Mix,Brown,2020-02-27 18:58:00,Spayed Female,0.16666666666666666,0.0,4,N,Y
+A814058,Y,2020-02-23 17:24:00,Austin (TX),Stray,Normal,Dog,Spayed Female,13.0,Other,Other,2020-02-24 12:44:00,Spayed Female,13.0,0.0,0,N,N
+A814057,Y,2020-02-23 17:10:00,Austin (TX),Stray,Normal,Dog,Intact Male,1.0,Other,Other,2020-02-23 18:48:00,Intact Male,1.0,0.0,0,N,N
+A814056,Y,2020-02-23 16:55:00,Austin (TX),Stray,Normal,Dog,Spayed Female,7.0,Chihuahua Shorthair Mix,White/Tan,2020-02-23 18:33:00,Spayed Female,7.0,0.0,0,N,N
+A814054,N,2020-02-23 16:46:00,Travis (TX),Stray,Normal,Cat,Intact Male,2.0,Domestic Longhair,Black,2020-02-27 16:52:00,Intact Male,2.0,0.0,4,N,N
+A814053,Y,2020-02-23 16:33:00,Austin (TX),Stray,Normal,Dog,Intact Female,3.0,Other,Brown Brindle/White,2020-03-12 10:59:00,Intact Female,3.0,0.0,17,N,N
+A814050,Y,2020-02-23 16:26:00,Austin (TX),Stray,Normal,Dog,Intact Male,2.0,Other,Brown/White,2020-02-24 18:11:00,Intact Male,2.0,0.0,1,N,N
+A814049,N,2020-02-23 16:07:00,Austin (TX),Wildlife,Normal,Bat,Unknown,2.0,Other,Black/Brown,2020-02-24 12:54:00,Unknown,2.0,1.0,0,Y,N
+A814045,Y,2020-02-23 15:03:00,Austin (TX),Stray,Normal,Dog,Neutered Male,2.0,Other,Other,2020-03-04 11:57:00,Neutered Male,2.0,0.0,9,N,N
+A814044,Y,2020-02-23 15:03:00,Austin (TX),Stray,Normal,Dog,Intact Male,1.0,Other,White/Tan,2020-03-12 12:12:00,Intact Male,1.0,0.0,17,N,N
+A814041,Y,2020-02-23 14:28:00,Austin (TX),Stray,Normal,Dog,Intact Female,0.0576923076923077,Other,Black/White,2020-02-27 09:43:00,Intact Female,0.07692307692307693,0.0,3,N,Y
+A814039,Y,2020-02-23 14:07:00,Austin (TX),Owner Surrender,Normal,Dog,Spayed Female,0.16666666666666666,German Shepherd Mix,Black/Brown,2020-03-01 13:12:00,Spayed Female,0.16666666666666666,0.0,6,N,Y
+A814038,N,2020-02-23 13:58:00,Austin (TX),Stray,Normal,Cat,Unknown,2.0,Domestic Medium Hair,Brown Tabby,2020-02-27 16:52:00,Unknown,2.0,0.0,4,N,N
+A814037,Y,2020-02-23 13:36:00,Austin (TX),Owner Surrender,Sick,Dog,Spayed Female,0.25,Other,Black/White,2020-02-25 12:21:00,Spayed Female,0.25,0.0,1,N,Y
+A814036,Y,2020-02-23 13:28:00,Manor (TX),Owner Surrender,Normal,Dog,Neutered Male,1.0,Other,Brown/White,2020-03-11 18:00:00,Neutered Male,1.0,0.0,17,N,N
+A814035,N,2020-02-23 13:25:00,Travis (TX),Stray,Sick,Cat,Intact Female,10.0,Domestic Longhair,Brown Tabby,2020-02-24 11:45:00,Intact Female,10.0,0.0,0,N,N
+A814033,Y,2020-02-23 13:17:00,Jonestown (TX),Owner Surrender,Normal,Dog,Intact Male,2.0,Other,Tricolor,2020-03-04 11:52:00,Neutered Male,2.0,0.0,9,N,N
+A814032,Y,2020-02-23 11:52:00,Austin (TX),Stray,Normal,Dog,Spayed Female,14.0,Labrador Retriever Mix,Brown,2020-02-23 16:14:00,Spayed Female,14.0,0.0,0,N,N
+A814031,N,2020-02-23 12:15:00,Austin (TX),Stray,Normal,Dog,Intact Female,0.16666666666666666,Other,Black/Brown,2020-02-27 17:53:00,Spayed Female,0.16666666666666666,0.0,4,N,Y
+A814030,N,2020-02-23 12:15:00,Austin (TX),Stray,Normal,Dog,Intact Female,0.16666666666666666,Other,Red,2020-02-27 16:40:00,Spayed Female,0.16666666666666666,0.0,4,N,Y
+A814028,N,2020-02-23 11:51:00,Austin (TX),Stray,Injured,Dog,Intact Male,2.0,Chihuahua Shorthair,White/Tan,2020-02-27 16:19:00,Intact Male,2.0,1.0,4,N,N
+A814027,Y,2020-02-24 13:17:00,Austin (TX),Public Assist,Normal,Dog,Intact Male,2.0,Chihuahua Shorthair,White,2020-03-03 12:16:00,Intact Male,2.0,0.0,7,N,N
+A814026,N,2020-02-23 11:32:00,Austin (TX),Stray,Normal,Cat,Intact Male,2.0,Domestic Shorthair,Black,2020-02-27 16:52:00,Intact Male,2.0,0.0,4,N,N
+A814025,N,2020-02-23 11:21:00,Travis (TX),Stray,Normal,Dog,Intact Male,1.0,Chihuahua Shorthair Mix,Brown Brindle/White,2020-02-27 16:51:00,Neutered Male,1.0,0.0,4,N,N
+A814024,Y,2020-02-23 00:00:00,Austin (TX),Owner Surrender,Injured,Dog,Intact Female,0.08333333333333333,Labrador Retriever/Pit Bull,Black/White,2020-02-23 11:17:00,Intact Female,0.08333333333333333,1.0,0,N,Y
+A814023,N,2020-02-23 11:10:00,Austin (TX),Stray,Normal,Dog,Intact Male,0.16666666666666666,Other,White/Tan,2020-02-29 15:32:00,Neutered Male,0.16666666666666666,0.0,6,N,Y
+A814021,Y,2020-02-23 10:46:00,Austin (TX),Stray,Normal,Dog,Intact Male,0.3333333333333333,German Shepherd Mix,Black/Brown,2020-03-27 07:53:00,Neutered Male,0.4166666666666667,0.0,32,N,Y
+A814015,N,2020-02-22 22:21:00,Travis (TX),Wildlife,Normal,Bat,Unknown,2.0,Other,Brown,2020-02-23 08:41:00,Unknown,2.0,1.0,0,Y,N
+A814014,Y,2020-02-22 21:45:00,Austin (TX),Stray,Normal,Dog,Intact Male,2.0,Other,Brown Brindle/White,2020-02-29 18:29:00,Intact Male,2.0,0.0,6,N,N
+A814013,N,2020-02-22 21:55:00,Austin (TX),Wildlife,Normal,Bat,Unknown,2.0,Other,Brown,2020-02-23 08:42:00,Unknown,2.0,1.0,0,Y,N
+A814006,N,2020-02-22 16:17:00,Austin (TX),Stray,Normal,Cat,Intact Female,2.0,Domestic Longhair,Other,2020-02-27 16:51:00,Intact Female,2.0,0.0,5,N,N
+A814004,Y,2020-02-22 16:16:00,Austin (TX),Stray,Normal,Dog,Neutered Male,10.0,Chihuahua Shorthair,Black/White,2020-02-29 16:20:00,Neutered Male,10.0,0.0,7,N,N
+A814003,Y,2020-02-22 16:06:00,Austin (TX),Stray,Normal,Dog,Spayed Female,2.0,Pit Bull,Other,2020-02-27 17:10:00,Spayed Female,2.0,0.0,5,N,N
+A814001,Y,2020-02-22 15:55:00,Austin (TX),Stray,Normal,Dog,Intact Male,3.0,Labrador Retriever Mix,White/Tan,2020-02-27 12:16:00,Intact Male,3.0,0.0,4,N,N
+A814000,N,2020-02-22 15:51:00,Austin (TX),Stray,Normal,Dog,Intact Male,0.3333333333333333,Other,Brown Brindle/White,2020-02-26 16:11:00,Neutered Male,0.3333333333333333,0.0,4,N,Y
+A813999,Y,2020-02-22 15:16:00,Austin (TX),Owner Surrender,Injured,Dog,Intact Male,1.0,Other,Black/Tan,2020-02-28 17:52:00,Intact Male,1.0,0.0,6,N,N
+A813998,Y,2020-02-22 15:06:00,Austin (TX),Owner Surrender,Normal,Cat,Spayed Female,7.0,Domestic Longhair,Calico,2020-03-09 15:36:00,Spayed Female,7.0,0.0,16,N,N
+A813997,Y,2020-02-22 14:09:00,Austin (TX),Owner Surrender,Normal,Dog,Intact Male,1.0,Chihuahua Shorthair,Tan,2020-02-25 18:40:00,Neutered Male,1.0,0.0,3,N,N
+A813995,Y,2020-02-22 13:46:00,Austin (TX),Stray,Normal,Cat,Neutered Male,1.0,Domestic Shorthair,Brown Tabby,2020-02-22 15:29:00,Neutered Male,1.0,0.0,0,N,N
+A813994,Y,2020-02-22 13:37:00,Austin (TX),Stray,Normal,Cat,Neutered Male,1.0,Domestic Shorthair,Brown Tabby,2020-02-24 14:15:00,Neutered Male,1.0,0.0,2,N,N
+A813993,Y,2020-02-22 13:34:00,Austin (TX),Owner Surrender,Normal,Dog,Neutered Male,7.0,Shih Tzu,White/Tan,2020-02-22 17:03:00,Neutered Male,7.0,0.0,0,N,N
+A813992,Y,2020-02-22 13:27:00,Austin (TX),Owner Surrender,Sick,Cat,Intact Female,0.08333333333333333,Domestic Shorthair,Blue/White,2020-02-22 17:29:00,Intact Female,0.08333333333333333,0.0,0,N,Y
+A813991,Y,2020-02-22 13:07:00,Austin (TX),Owner Surrender,Normal,Dog,Intact Male,13.0,Other,Black/White,2020-02-25 16:43:00,Neutered Male,13.0,0.0,3,N,N
+A813990,Y,2020-02-22 12:54:00,Austin (TX),Abandoned,Normal,Dog,Spayed Female,2.0,Chihuahua Shorthair Mix,Tan,2020-03-08 14:56:00,Spayed Female,2.0,0.0,15,N,N
+A813988,Y,2020-02-22 14:33:00,Austin (TX),Owner Surrender,Normal,Cat,Intact Female,0.5,Domestic Medium Hair,Black/White,2020-03-08 13:48:00,Spayed Female,0.5,0.0,14,N,Y
+A813987,Y,2020-02-22 14:33:00,Austin (TX),Owner Surrender,Normal,Cat,Intact Female,0.5,Domestic Shorthair,Black,2020-03-08 13:49:00,Spayed Female,0.5,0.0,14,N,Y
+A813986,Y,2020-02-22 14:33:00,Austin (TX),Owner Surrender,Normal,Cat,Intact Male,0.5,Domestic Shorthair,Other,2020-02-29 19:13:00,Neutered Male,0.5,0.0,7,N,Y
+A813985,Y,2020-02-22 14:33:00,Austin (TX),Owner Surrender,Normal,Cat,Intact Male,0.5,Domestic Medium Hair,Blue/White,2020-03-04 10:51:00,Neutered Male,0.5,0.0,10,N,Y
+A813984,Y,2020-02-22 12:54:00,Austin (TX),Abandoned,Normal,Dog,Intact Male,2.0,Other,Red,2020-03-08 14:56:00,Neutered Male,2.0,0.0,15,N,N
+A813983,Y,2020-02-25 13:35:00,Travis (TX),Public Assist,Normal,Dog,Spayed Female,2.0,Other,Other,2020-02-27 12:40:00,Spayed Female,2.0,0.0,1,N,N
+A813982,Y,2020-02-22 12:05:00,Austin (TX),Owner Surrender,Normal,Cat,Intact Female,1.0,Domestic Medium Hair,Other,2020-02-23 12:48:00,Intact Female,1.0,0.0,1,N,N
+A813980,Y,2020-02-22 11:47:00,Austin (TX),Stray,Normal,Dog,Intact Male,3.0,Chihuahua Shorthair Mix,Tan,2020-02-26 15:51:00,Neutered Male,3.0,0.0,4,N,N
+A813979,Y,2020-02-22 11:15:00,Austin (TX),Stray,Normal,Dog,Intact Male,0.25,Other,Brown/White,2020-02-24 16:45:00,Intact Male,0.25,0.0,2,N,Y
+A813977,N,2020-02-21 22:56:00,Austin (TX),Wildlife,Normal,Bat,Unknown,2.0,Other,Brown,2020-02-22 10:36:00,Unknown,2.0,1.0,0,Y,N
+A813970,N,2020-02-21 19:01:00,Austin (TX),Wildlife,Normal,Bat,Unknown,2.0,Other,Brown,2020-02-22 08:20:00,Unknown,2.0,1.0,0,Y,N
+A813968,Y,2020-02-21 17:54:00,Austin (TX),Owner Surrender,Normal,Dog,Intact Female,3.0,Labrador Retriever,Other,2020-03-04 11:54:00,Spayed Female,3.0,0.0,11,N,N
+A813967,Y,2020-02-21 17:54:00,Austin (TX),Owner Surrender,Normal,Dog,Intact Female,3.0,Labrador Retriever,Black,2020-03-04 11:54:00,Spayed Female,3.0,0.0,11,N,N
+A813966,N,2020-02-21 17:32:00,Austin (TX),Stray,Normal,Dog,Intact Male,1.0,Other,Black/White,2020-02-25 12:23:00,Intact Male,1.0,0.0,3,N,N
+A813965,Y,2020-02-21 17:32:00,Austin (TX),Stray,Normal,Dog,Intact Female,1.0,Other,Other,2020-02-25 13:44:00,Intact Female,1.0,0.0,3,N,N
+A813964,N,2020-02-21 23:05:00,Austin (TX),Wildlife,Normal,Bat,Unknown,2.0,Other,Brown,2020-02-22 10:35:00,Unknown,2.0,1.0,0,Y,N
+A813963,N,2020-02-21 16:28:00,Austin (TX),Stray,Normal,Dog,Intact Male,0.4166666666666667,Other,Black/White,2020-02-25 17:42:00,Neutered Male,0.4166666666666667,0.0,4,N,Y
+A813961,N,2020-02-21 23:17:00,Austin (TX),Wildlife,Normal,Bat,Unknown,2.0,Other,Brown,2020-02-22 10:37:00,Unknown,2.0,1.0,0,Y,N
+A813960,N,2020-02-21 16:13:00,Austin (TX),Wildlife,Injured,Opossum,Unknown,3.0,Other,Other,2020-02-24 12:54:00,Unknown,3.0,1.0,2,Y,N
+A813959,Y,2020-02-21 15:21:00,Austin (TX),Stray,Normal,Dog,Intact Female,3.0,Great Pyrenees,White,2020-02-27 12:17:00,Intact Female,3.0,0.0,5,N,N
+A813957,Y,2020-02-21 15:01:00,Austin (TX),Stray,Sick,Cat,Spayed Female,9.0,Domestic Medium Hair,Other,2020-02-23 16:54:00,Spayed Female,9.0,0.0,2,N,N
+A813956,Y,2020-02-21 14:39:00,Austin (TX),Stray,Normal,Cat,Neutered Male,1.0,Domestic Shorthair,Brown Tabby,2020-02-28 18:01:00,Neutered Male,1.0,0.0,7,N,N
+A813955,N,2020-02-21 14:23:00,Austin (TX),Owner Surrender,Normal,Cat,Intact Female,0.3333333333333333,Domestic Shorthair,Other,2020-02-25 12:06:00,Spayed Female,0.3333333333333333,0.0,3,N,Y
+A813954,Y,2020-02-21 14:23:00,Austin (TX),Owner Surrender,Normal,Cat,Intact Male,0.3333333333333333,Domestic Shorthair,Brown Tabby,2020-02-25 17:28:00,Neutered Male,0.3333333333333333,0.0,4,N,Y
+A813953,N,2020-02-21 14:23:00,Austin (TX),Owner Surrender,Normal,Cat,Intact Female,0.3333333333333333,Domestic Shorthair,Brown Tabby,2020-02-25 12:07:00,Spayed Female,0.3333333333333333,0.0,3,N,Y
+A813952,N,2020-02-21 14:23:00,Austin (TX),Owner Surrender,Normal,Cat,Intact Male,0.3333333333333333,Domestic Shorthair,Brown Tabby,2020-02-24 16:22:00,Neutered Male,0.3333333333333333,0.0,3,N,Y
+A813951,Y,2020-02-21 14:12:00,Travis (TX),Public Assist,Sick,Cat,Intact Female,0.3333333333333333,Other,Other,2020-02-25 12:07:00,Intact Female,0.3333333333333333,0.0,3,N,Y
+A813949,N,2020-02-21 13:56:00,Austin (TX),Wildlife,Normal,Bat,Unknown,2.0,Other,Brown,2020-02-22 08:18:00,Unknown,2.0,1.0,0,Y,N
+A813946,N,2020-02-21 13:22:00,Austin (TX),Stray,Normal,Cat,Spayed Female,1.0,Other,Calico,2020-02-25 12:17:00,Spayed Female,1.0,0.0,3,N,N
+A813942,Y,2020-02-21 12:20:00,Austin (TX),Owner Surrender,Normal,Dog,Intact Male,2.0,Labrador Retriever,White/Chocolate,2020-02-29 16:47:00,Neutered Male,2.0,0.0,8,N,N
+A813940,Y,2020-02-21 11:48:00,Austin (TX),Stray,Normal,Dog,Intact Female,3.0,German Shepherd,Black/Brown,2020-02-25 16:42:00,Spayed Female,3.0,0.0,4,N,N
+A813937,N,2020-02-21 11:31:00,Austin (TX),Stray,Normal,Dog,Intact Male,3.0,Other,Other,2020-02-25 16:41:00,Neutered Male,3.0,0.0,4,N,N
+A813936,N,2020-02-21 11:31:00,Austin (TX),Stray,Normal,Dog,Intact Male,5.0,Other,Black/White,2020-02-25 16:42:00,Neutered Male,5.0,0.0,4,N,N
+A813934,Y,2020-02-21 11:06:00,Austin (TX),Stray,Normal,Dog,Spayed Female,8.0,Other,Black/White,2020-02-21 17:21:00,Spayed Female,8.0,0.0,0,N,N
+A813933,Y,2020-02-21 10:00:00,Austin (TX),Stray,Normal,Dog,Spayed Female,1.0,Other,Black/Brown,2020-02-21 12:49:00,Spayed Female,1.0,0.0,0,N,N
+A813931,N,2020-02-21 08:56:00,Austin (TX),Stray,Nursing,Cat,Unknown,0.0,Domestic Shorthair,Orange Tabby,2020-02-21 18:43:00,Unknown,0.0,0.0,0,N,Y
+A813930,N,2020-02-21 08:56:00,Austin (TX),Stray,Nursing,Cat,Unknown,0.0,Domestic Shorthair,Orange Tabby,2020-02-21 18:43:00,Unknown,0.0,0.0,0,N,Y
+A813929,N,2020-02-21 08:56:00,Austin (TX),Stray,Nursing,Cat,Unknown,0.0,Domestic Shorthair,Orange Tabby,2020-02-21 18:43:00,Unknown,0.0,0.0,0,N,Y
+A813928,N,2020-02-21 08:56:00,Austin (TX),Stray,Nursing,Cat,Intact Female,0.0,Domestic Shorthair,Tortie,2020-02-21 18:42:00,Intact Female,0.0,0.0,0,N,Y
+A813927,N,2020-02-21 08:56:00,Austin (TX),Stray,Nursing,Cat,Unknown,0.0,Domestic Shorthair,Black,2020-02-21 18:42:00,Unknown,0.0,0.0,0,N,Y
+A813926,N,2020-02-21 08:56:00,Austin (TX),Stray,Nursing,Cat,Unknown,0.0,Domestic Shorthair,Black,2020-02-21 18:42:00,Unknown,0.0,0.0,0,N,Y
+A813923,Y,2020-02-21 08:21:00,Travis (TX),Stray,Injured,Dog,Intact Female,0.4166666666666667,German Shepherd,Black/Brown,2020-03-13 11:43:00,Intact Female,0.4166666666666667,0.0,21,N,Y
+A813920,N,2020-02-20 22:26:00,Austin (TX),Stray,Sick,Dog,Intact Male,0.3333333333333333,Chihuahua Shorthair Mix,White/Tan,2020-02-21 17:27:00,Intact Male,0.3333333333333333,0.0,0,N,Y
+A813919,Y,2020-02-20 22:19:00,Travis (TX),Stray,Normal,Dog,Intact Female,0.4166666666666667,German Shepherd Mix,Other,2020-03-02 12:51:00,Intact Female,0.4166666666666667,0.0,10,N,Y
+A813918,N,2020-02-20 18:43:00,Austin (TX),Wildlife,Normal,Bat,Unknown,1.0,Other,Brown,2020-02-20 19:18:00,Unknown,1.0,1.0,0,Y,N
+A813916,Y,2020-02-20 18:28:00,Austin (TX),Owner Surrender,Normal,Dog,Intact Female,0.9166666666666666,Other,Black/Brown,2020-03-17 17:15:00,Spayed Female,0.9166666666666666,0.0,25,N,Y
+A813915,Y,2020-02-20 12:59:00,Austin (TX),Owner Surrender,Sick,Dog,Intact Male,11.0,Pit Bull,Other,2020-02-20 17:45:00,Intact Male,11.0,1.0,0,N,N
+A813913,Y,2020-02-20 17:18:00,Austin (TX),Stray,Normal,Dog,Intact Male,5.0,Other,Other,2020-02-27 12:17:00,Intact Male,5.0,0.0,6,N,N
+A813910,N,2020-02-20 16:05:00,Travis (TX),Stray,Injured,Dog,Neutered Male,8.0,Chihuahua Shorthair,Tan,2020-02-21 12:11:00,Neutered Male,8.0,0.0,0,N,N
+A813909,Y,2020-02-20 15:45:00,Austin (TX),Stray,Normal,Dog,Spayed Female,3.0,Other,Other,2020-02-20 17:23:00,Spayed Female,3.0,0.0,0,N,N
+A813905,N,2020-02-20 16:00:00,Austin (TX),Wildlife,Normal,Bat,Unknown,2.0,Other,Brown,2020-02-21 09:34:00,Unknown,2.0,1.0,0,Y,N
+A813902,N,2020-02-20 14:37:00,Austin (TX),Abandoned,Normal,Cat,Intact Male,3.0,Domestic Shorthair,Black/White,2020-02-24 16:20:00,Neutered Male,3.0,0.0,4,N,N
+A813900,N,2020-02-20 15:50:00,Austin (TX),Wildlife,Normal,Bat,Unknown,1.0,Other,Brown,2020-02-20 19:17:00,Unknown,1.0,1.0,0,Y,N
+A813899,N,2020-02-20 14:59:00,Austin (TX),Stray,Normal,Cat,Intact Male,0.5,Domestic Shorthair,Brown Tabby/White,2020-02-24 17:40:00,Neutered Male,0.5,0.0,4,N,Y
+A813895,N,2020-02-20 14:16:00,Austin (TX),Stray,Normal,Dog,Intact Female,1.0,Other,Red/White,2020-02-24 17:42:00,Spayed Female,1.0,0.0,4,N,N
+A813894,Y,2020-02-20 13:41:00,Travis (TX),Stray,Normal,Dog,Intact Male,1.0,Other,Other,2020-02-24 18:54:00,Neutered Male,1.0,0.0,4,N,N
+A813893,Y,2020-02-20 13:33:00,Austin (TX),Stray,Normal,Dog,Intact Male,2.0,Chihuahua Shorthair,Brown/White,2020-02-25 12:28:00,Intact Male,2.0,0.0,4,N,N
+A813892,N,2020-02-20 13:22:00,Travis (TX),Stray,Injured,Dog,Intact Female,2.0,Other,Other,2020-02-25 11:35:00,Intact Female,2.0,0.0,4,N,N
+A813891,N,2020-02-20 13:21:00,Austin (TX),Stray,Normal,Cat,Intact Male,2.0,Domestic Shorthair,Other,2020-02-24 11:23:00,Intact Male,2.0,0.0,3,N,N
+A813890,Y,2020-02-20 13:08:00,Austin (TX),Owner Surrender,Normal,Dog,Spayed Female,8.0,Maltese,White,2020-02-23 14:52:00,Spayed Female,8.0,0.0,3,N,N
+A813889,Y,2020-02-20 13:07:00,Austin (TX),Stray,Normal,Dog,Intact Male,5.0,Other,Other,2020-02-25 14:16:00,Intact Male,5.0,0.0,5,N,N
+A813888,N,2020-02-20 12:58:00,Austin (TX),Stray,Injured,Cat,Intact Male,2.0,Domestic Shorthair,Other,2020-02-20 14:36:00,Intact Male,2.0,0.0,0,N,N
+A813886,Y,2020-02-20 12:48:00,Austin (TX),Owner Surrender,Normal,Cat,Spayed Female,0.5833333333333334,Domestic Shorthair,Black/White,2020-02-22 15:29:00,Spayed Female,0.5833333333333334,0.0,2,N,Y
+A813883,Y,2020-02-20 12:29:00,Austin (TX),Stray,Normal,Dog,Intact Female,1.0,Other,Black/White,2020-03-02 12:51:00,Intact Female,1.0,0.0,11,N,N
+A813881,Y,2020-02-20 11:53:00,Travis (TX),Stray,Normal,Cat,Spayed Female,11.0,Domestic Shorthair,Other,2020-03-10 14:19:00,Spayed Female,11.0,0.0,19,N,N
+A813878,Y,2020-02-20 11:54:00,Austin (TX),Stray,Injured,Cat,Intact Female,0.25,Domestic Shorthair,Tortie,2020-03-05 16:00:00,Spayed Female,0.25,0.0,14,N,Y
+A813875,N,2020-02-20 11:42:00,Austin (TX),Stray,Normal,Dog,Intact Male,0.16666666666666666,Other,Red/White,2020-02-24 16:35:00,Neutered Male,0.25,0.0,4,N,Y
+A813871,N,2020-02-20 11:00:00,Manor (TX),Stray,Normal,Dog,Intact Female,0.75,Shih Tzu,Black/White,2020-02-24 17:23:00,Spayed Female,0.75,0.0,4,N,Y
+A813868,Y,2020-02-20 09:40:00,Austin (TX),Stray,Normal,Dog,Intact Male,2.0,German Shepherd,Other,2020-02-20 11:31:00,Intact Male,2.0,0.0,0,N,N
+A813867,N,2020-02-20 09:49:00,Austin (TX),Wildlife,Sick,Raccoon,Unknown,2.0,Other,Other,2020-02-21 09:42:00,Unknown,2.0,1.0,0,Y,N
+A813865,N,2020-02-20 09:05:00,Travis (TX),Wildlife,Sick,Skunk,Unknown,1.0,Other,Black/White,2020-02-20 11:55:00,Unknown,1.0,1.0,0,Y,N
+A813863,N,2020-02-20 08:06:00,Travis (TX),Owner Surrender,Nursing,Dog,Intact Male,0.0027397260273972607,Chihuahua Shorthair Mix,Black,2020-02-25 08:38:00,Intact Male,0.01643835616438356,1.0,5,N,Y
+A813861,Y,2020-02-19 20:09:00,Austin (TX),Stray,Normal,Dog,Intact Female,0.5,Other,Black/White,2020-02-25 11:21:00,Spayed Female,0.5,0.0,5,N,Y
+A813860,Y,2020-02-19 18:52:00,Austin (TX),Stray,Normal,Dog,Spayed Female,0.9166666666666666,Maltese,White,2020-02-20 11:08:00,Spayed Female,1.0,0.0,0,N,Y
+A813859,Y,2020-02-19 18:09:00,Austin (TX),Stray,Normal,Dog,Intact Female,3.0,Siberian Husky,Other,2020-02-20 14:30:00,Intact Female,3.0,0.0,0,N,N
+A813857,Y,2020-02-19 17:02:00,Travis (TX),Stray,Normal,Dog,Intact Male,3.0,Labrador Retriever Mix,White/Tan,2020-02-25 16:54:00,Intact Male,3.0,0.0,5,N,N
+A813855,N,2020-02-19 17:11:00,Austin (TX),Stray,Normal,Dog,Intact Male,0.25,Other,Black,2020-02-24 17:00:00,Neutered Male,0.25,0.0,4,N,Y
+A813851,Y,2020-02-19 16:11:00,Austin (TX),Stray,Normal,Cat,Neutered Male,6.0,Domestic Shorthair,Black/White,2020-02-23 12:06:00,Neutered Male,6.0,0.0,3,N,N
+A813849,Y,2020-02-19 15:55:00,Jonestown (TX),Owner Surrender,Normal,Cat,Neutered Male,1.0,Other,Other,2020-03-08 16:54:00,Neutered Male,1.0,0.0,18,N,N
+A813847,Y,2020-02-19 14:02:00,Austin (TX),Stray,Injured,Dog,Intact Male,3.0,Other,Black/Brown,2020-02-25 18:14:00,Neutered Male,3.0,0.0,6,N,N
+A813844,Y,2020-02-19 12:51:00,Austin (TX),Owner Surrender,Normal,Dog,Intact Female,14.0,Other,Black/Brown,2020-02-25 11:36:00,Intact Female,14.0,0.0,5,N,N
+A813843,Y,2020-02-19 12:51:00,Austin (TX),Owner Surrender,Normal,Dog,Neutered Male,9.0,Other,White/Tan,2020-02-25 11:36:00,Neutered Male,9.0,0.0,5,N,N
+A813840,Y,2020-02-19 12:51:00,Austin (TX),Owner Surrender,Normal,Dog,Neutered Male,9.0,Other,White/Tan,2020-03-05 13:35:00,Neutered Male,9.0,0.0,15,N,N
+A813835,N,2020-02-19 12:59:00,Austin (TX),Wildlife,Sick,Coyote,Unknown,2.0,Other,Brown,2020-02-23 09:08:00,Unknown,2.0,1.0,3,Y,N
+A813834,Y,2020-02-19 12:47:00,Austin (TX),Abandoned,Normal,Dog,Intact Male,1.0,Other,Black/White,2020-02-19 13:10:00,Intact Male,1.0,0.0,0,N,N
+A813833,Y,2020-02-19 11:55:00,Travis (TX),Owner Surrender,Normal,Dog,Intact Male,4.0,Other,Brown/White,2020-03-04 11:56:00,Neutered Male,4.0,0.0,14,N,N
+A813830,Y,2020-02-19 12:03:00,Austin (TX),Stray,Normal,Dog,Intact Male,0.9166666666666666,Other,Blue/White,2020-02-25 14:52:00,Intact Male,1.0,0.0,6,N,Y
+A813829,N,2020-02-19 11:52:00,Travis (TX),Owner Surrender,Nursing,Dog,Intact Male,0.0027397260273972607,Chihuahua Shorthair Mix,Brown,2020-03-24 12:43:00,Intact Male,0.09615384615384616,0.0,34,N,Y
+A813828,N,2020-02-19 11:52:00,Travis (TX),Owner Surrender,Nursing,Dog,Intact Male,0.0027397260273972607,Chihuahua Shorthair Mix,Brown,2020-03-24 12:43:00,Intact Male,0.09615384615384616,0.0,34,N,Y
+A813827,N,2020-02-19 11:52:00,Travis (TX),Owner Surrender,Nursing,Dog,Intact Male,0.0027397260273972607,Chihuahua Shorthair Mix,Brown,2020-03-24 12:43:00,Intact Male,0.09615384615384616,0.0,34,N,Y
+A813826,N,2020-02-19 11:52:00,Travis (TX),Owner Surrender,Nursing,Dog,Unknown,0.0027397260273972607,Chihuahua Shorthair Mix,Red,2020-03-02 09:06:00,Unknown,0.019230769230769232,1.0,11,N,Y
+A813824,Y,2020-02-19 11:40:00,Park (TX),Stray,Normal,Dog,Intact Female,0.5,Other,Red/White,2020-02-25 17:31:00,Spayed Female,0.5,0.0,6,N,Y
+A813823,Y,2020-02-19 10:40:00,Austin (TX),Owner Surrender,Normal,Dog,Neutered Male,3.0,Other,Other,2020-02-20 11:09:00,Neutered Male,3.0,0.0,1,N,N
+A813822,Y,2020-02-19 10:27:00,Austin (TX),Public Assist,Normal,Dog,Neutered Male,6.0,Other,Brown/White,2020-02-20 17:51:00,Neutered Male,6.0,0.0,1,N,N
+A813819,Y,2020-02-19 07:54:00,Austin (TX),Abandoned,Normal,Dog,Neutered Male,5.0,Other,Brown/White,2020-02-26 11:32:00,Neutered Male,5.0,0.0,7,N,N
+A813818,N,2020-02-19 07:50:00,Austin (TX),Wildlife,Normal,Bat,Unknown,1.0,Other,Black,2020-02-20 10:55:00,Unknown,1.0,1.0,1,Y,N
+A813817,Y,2020-02-19 07:39:00,Austin (TX),Stray,Normal,Dog,Intact Male,0.25,Other,Other,2020-02-23 11:38:00,Intact Male,0.25,0.0,4,N,Y
+A813816,N,2020-02-19 07:33:00,Austin (TX),Stray,Injured,Cat,Unknown,2.0,Domestic Shorthair,Black,2020-02-19 12:58:00,Unknown,2.0,1.0,0,N,N
+A813814,N,2020-02-18 20:56:00,Austin (TX),Stray,Normal,Dog,Intact Female,0.9166666666666666,Other,White/Tan,2020-02-25 11:39:00,Intact Female,1.0,0.0,6,N,Y
+A813813,N,2020-02-18 20:56:00,Austin (TX),Stray,Normal,Dog,Intact Female,0.9166666666666666,Other,Black,2020-02-25 11:38:00,Intact Female,1.0,0.0,6,N,Y
+A813809,N,2020-02-18 18:55:00,Austin (TX),Stray,Normal,Cat,Intact Female,1.0,Domestic Shorthair,White/Orange Tabby,2020-02-21 18:42:00,Intact Female,1.0,0.0,2,N,N
+A813808,N,2020-02-18 18:54:00,Austin (TX),Stray,Injured,Cat,Intact Female,12.0,Domestic Shorthair,Other,2020-02-24 00:00:00,Intact Female,12.0,0.0,5,N,N
+A813806,N,2020-02-18 18:21:00,Austin (TX),Wildlife,Normal,Bat,Unknown,1.0,Other,Brown,2020-02-18 18:52:00,Unknown,1.0,1.0,0,Y,N
+A813804,N,2020-02-18 16:49:00,Austin (TX),Stray,Normal,Dog,Intact Male,2.0,Other,Other,2020-02-19 11:21:00,Intact Male,2.0,0.0,0,N,N
+A813802,Y,2020-02-18 16:32:00,Webberville (TX),Owner Surrender,Normal,Cat,Intact Female,0.6666666666666666,Domestic Longhair,Brown Tabby,2020-02-21 18:30:00,Spayed Female,0.6666666666666666,0.0,3,N,Y
+A813801,Y,2020-02-18 16:32:00,Webberville (TX),Owner Surrender,Normal,Cat,Intact Female,0.6666666666666666,Domestic Longhair,Brown Tabby/White,2020-02-22 17:06:00,Spayed Female,0.6666666666666666,0.0,4,N,Y
+A813800,Y,2020-02-18 16:51:00,Austin (TX),Stray,Normal,Dog,Intact Female,1.0,Labrador Retriever,Red/White,2020-02-28 12:25:00,Spayed Female,1.0,0.0,9,N,N
+A813798,N,2020-02-18 16:06:00,Austin (TX),Owner Surrender,Normal,Guinea Pig,Unknown,0.25,Other,Tricolor,2020-02-23 15:32:00,Unknown,0.25,0.0,4,N,Y
+A813797,N,2020-02-18 16:06:00,Austin (TX),Owner Surrender,Normal,Guinea Pig,Unknown,0.25,Other,Tricolor,2020-02-23 15:32:00,Unknown,0.25,0.0,4,N,Y
+A813796,N,2020-02-18 16:06:00,Austin (TX),Owner Surrender,Normal,Guinea Pig,Unknown,0.25,Other,Tricolor,2020-02-23 15:32:00,Unknown,0.25,0.0,4,N,Y
+A813795,N,2020-02-18 16:06:00,Austin (TX),Owner Surrender,Normal,Guinea Pig,Unknown,0.25,Other,Tricolor,2020-02-23 15:31:00,Unknown,0.25,0.0,4,N,Y
+A813794,N,2020-02-18 16:06:00,Austin (TX),Owner Surrender,Normal,Guinea Pig,Unknown,0.5,Other,Tricolor,2020-02-23 15:30:00,Unknown,0.5,0.0,4,N,Y
+A813793,N,2020-02-18 16:06:00,Austin (TX),Owner Surrender,Normal,Guinea Pig,Unknown,0.5,Other,Tricolor,2020-02-23 15:30:00,Unknown,0.5,0.0,4,N,Y
+A813792,Y,2020-02-18 16:06:00,Austin (TX),Owner Surrender,Normal,Guinea Pig,Unknown,1.0,Other,Tricolor,2020-02-23 15:29:00,Unknown,1.0,0.0,4,N,N
+A813791,Y,2020-02-18 16:06:00,Austin (TX),Owner Surrender,Normal,Guinea Pig,Unknown,1.0,Other,Tricolor,2020-02-23 15:28:00,Unknown,1.0,0.0,4,N,N
+A813786,Y,2020-02-26 19:46:00,Travis (TX),Stray,Normal,Dog,Neutered Male,5.0,Other,Black,2020-03-07 13:13:00,Neutered Male,5.0,0.0,9,N,N
+A813785,Y,2020-03-07 13:13:00,Travis (TX),Stray,Normal,Dog,Neutered Male,1.0,Other,Black/Brown,2020-03-11 16:41:00,Neutered Male,1.0,0.0,4,N,N
+A813783,N,2020-02-18 14:45:00,Austin (TX),Stray,Injured,Cat,Intact Male,2.0,Other,Other,2020-02-18 16:06:00,Intact Male,2.0,1.0,0,N,N
+A813781,N,2020-02-18 14:19:00,Austin (TX),Stray,Normal,Dog,Intact Female,0.25,Other,Other,2020-02-22 17:17:00,Spayed Female,0.25,0.0,4,N,Y
+A813780,N,2020-02-18 14:06:00,Travis (TX),Stray,Normal,Cat,Neutered Male,1.0,Domestic Shorthair,Brown Tabby/White,2020-02-23 17:35:00,Neutered Male,1.0,0.0,5,N,N
+A813779,N,2020-02-18 13:35:00,Austin (TX),Stray,Normal,Cat,Intact Male,0.5,Domestic Shorthair,Brown Tabby/White,2020-02-23 17:35:00,Intact Male,0.5,0.0,5,N,Y
+A813778,N,2020-02-18 13:35:00,Austin (TX),Stray,Normal,Cat,Intact Male,0.4166666666666667,Domestic Shorthair,Brown Tabby/White,2020-02-23 17:34:00,Intact Male,0.4166666666666667,0.0,5,N,Y
+A813775,N,2020-02-18 12:39:00,Travis (TX),Owner Surrender,Normal,Dog,Intact Male,0.00821917808219178,Chihuahua Shorthair Mix,Tricolor,2020-02-19 12:00:00,Intact Male,0.010958904109589041,0.0,0,N,Y
+A813774,N,2020-02-18 12:39:00,Travis (TX),Owner Surrender,Normal,Dog,Intact Male,0.00821917808219178,Chihuahua Shorthair Mix,White/Chocolate,2020-02-19 12:00:00,Intact Male,0.010958904109589041,0.0,0,N,Y
+A813773,N,2020-02-18 12:39:00,Travis (TX),Owner Surrender,Normal,Dog,Intact Female,0.00821917808219178,Chihuahua Shorthair Mix,Other,2020-02-19 11:59:00,Intact Female,0.010958904109589041,0.0,0,N,Y
+A813772,N,2020-02-18 12:39:00,Travis (TX),Owner Surrender,Normal,Dog,Intact Male,0.00821917808219178,Chihuahua Shorthair Mix,Black/White,2020-02-19 11:59:00,Intact Male,0.010958904109589041,0.0,0,N,Y
+A813771,Y,2020-02-18 12:39:00,Travis (TX),Owner Surrender,Normal,Dog,Intact Female,3.0,Chihuahua Shorthair Mix,Brown/White,2020-02-19 11:59:00,Intact Female,3.0,0.0,0,N,N
+A813769,Y,2020-02-18 12:39:00,Travis (TX),Owner Surrender,Normal,Dog,Intact Male,3.0,Chihuahua Shorthair Mix,Brown/White,2020-02-19 12:04:00,Intact Male,3.0,0.0,0,N,N
+A813768,Y,2020-02-18 13:19:00,Austin (TX),Owner Surrender,Normal,Rabbit Sh,Intact Male,1.0,Other,White/Chocolate,2020-02-21 17:40:00,Intact Male,1.0,0.0,3,N,N
+A813767,Y,2020-02-18 13:19:00,Austin (TX),Owner Surrender,Normal,Californian,Intact Male,1.0,Other,White/Chocolate,2020-03-05 16:04:00,Intact Male,1.0,0.0,16,N,N
+A813766,Y,2020-02-18 12:39:00,Travis (TX),Owner Surrender,Normal,Dog,Intact Male,3.0,Chihuahua Shorthair Mix,Other,2020-02-19 12:04:00,Intact Male,3.0,0.0,0,N,N
+A813765,Y,2020-02-18 12:39:00,Travis (TX),Owner Surrender,Normal,Dog,Intact Male,3.0,Chihuahua Shorthair Mix,White/Tan,2020-02-19 12:04:00,Intact Male,3.0,0.0,0,N,N
+A813764,Y,2020-02-18 12:39:00,Travis (TX),Owner Surrender,Normal,Dog,Intact Male,3.0,Chihuahua Shorthair Mix,Tricolor,2020-02-19 12:03:00,Intact Male,3.0,0.0,0,N,N
+A813763,Y,2020-02-18 12:39:00,Travis (TX),Owner Surrender,Normal,Dog,Intact Female,3.0,Chihuahua Shorthair Mix,White/Tan,2020-02-20 16:09:00,Spayed Female,3.0,0.0,2,N,N
+A813762,Y,2020-02-18 12:39:00,Travis (TX),Owner Surrender,Normal,Dog,Intact Female,3.0,Chihuahua Shorthair Mix,Brown/White,2020-02-19 12:04:00,Intact Female,3.0,0.0,0,N,N
+A813761,Y,2020-02-18 13:14:00,Austin (TX),Stray,Injured,Cat,Intact Female,0.25,Domestic Shorthair,Other,2020-02-22 16:26:00,Spayed Female,0.25,0.0,4,N,Y
+A813760,Y,2020-02-18 12:49:00,Austin (TX),Stray,Normal,Dog,Intact Male,1.0,Labrador Retriever,Brown/White,2020-02-25 11:40:00,Neutered Male,1.0,0.0,6,N,N
+A813757,N,2020-02-18 12:26:00,Austin (TX),Stray,Normal,Dog,Intact Female,1.0,German Shepherd/Australian Cattle Dog,Other,2020-02-20 13:05:00,Intact Female,1.0,0.0,2,N,N
+A813756,Y,2020-02-18 12:23:00,Austin (TX),Owner Surrender,Normal,Cat,Neutered Male,10.0,Domestic Shorthair,Other,2020-02-22 11:15:00,Neutered Male,10.0,0.0,3,N,N
+A813754,N,2020-02-18 12:08:00,Austin (TX),Stray,Normal,Dog,Intact Male,0.16666666666666666,Other,Other,2020-02-22 15:08:00,Neutered Male,0.16666666666666666,0.0,4,N,Y
+A813753,N,2020-02-18 12:00:00,Travis (TX),Owner Surrender,Sick,Cat,Intact Male,0.16666666666666666,Domestic Shorthair,Other,2020-02-21 17:40:00,Intact Male,0.16666666666666666,1.0,3,N,Y
+A813752,Y,2020-02-18 11:45:00,Austin (TX),Stray,Normal,Dog,Intact Male,0.25,Other,White,2020-03-06 16:49:00,Neutered Male,0.25,0.0,17,N,Y
+A813750,Y,2020-02-18 11:13:00,Austin (TX),Stray,Normal,Dog,Intact Male,2.0,Labrador Retriever Mix,Tan,2020-02-18 17:24:00,Intact Male,2.0,0.0,0,N,N
+A813749,N,2020-02-18 11:19:00,Austin (TX),Stray,Normal,Cat,Unknown,1.0,Domestic Medium Hair,Brown Tabby/White,2020-02-23 17:34:00,Unknown,1.0,0.0,5,N,N
+A813746,N,2020-02-18 08:41:00,Austin (TX),Wildlife,Sick,Bat,Unknown,1.0,Other,Black,2020-02-24 12:54:00,Unknown,1.0,1.0,6,Y,N
+A813744,Y,2020-02-17 23:42:00,Austin (TX),Stray,Normal,Dog,Spayed Female,3.0,Other,Black/Tan,2020-02-25 13:17:00,Spayed Female,3.0,0.0,7,N,N
+A813743,Y,2020-02-17 23:42:00,Austin (TX),Stray,Normal,Dog,Spayed Female,3.0,Other,White/Tan,2020-02-25 13:16:00,Spayed Female,3.0,0.0,7,N,N
+A813742,Y,2020-02-17 22:27:00,Austin (TX),Stray,Sick,Cat,Intact Male,0.16666666666666666,Domestic Shorthair,Black,2020-02-24 18:22:00,Intact Male,0.16666666666666666,0.0,6,N,Y
+A813741,Y,2020-02-17 19:23:00,Austin (TX),Stray,Normal,Dog,Intact Male,3.0,Other,Other,2020-02-28 11:51:00,Intact Male,3.0,0.0,10,N,N
+A813739,N,2020-02-17 16:59:00,Austin (TX),Public Assist,Normal,Cat,Intact Female,3.0,Domestic Longhair,Blue/White,2020-02-28 12:42:00,Intact Female,3.0,0.0,10,N,N
+A813737,Y,2020-02-17 15:56:00,Outside Jurisdiction,Stray,Normal,Dog,Intact Female,3.0,German Shepherd,Black/Tan,2020-02-19 19:07:00,Intact Female,3.0,0.0,2,N,N
+A813735,Y,2020-02-17 11:26:00,Outside Jurisdiction,Stray,Normal,Dog,Intact Male,5.0,German Shepherd,Other,2020-02-19 19:08:00,Intact Male,5.0,0.0,2,N,N
+A813733,N,2020-02-17 11:49:00,Austin (TX),Stray,Injured,Cat,Intact Male,8.0,Domestic Medium Hair,Orange Tabby,2020-02-21 17:57:00,Intact Male,8.0,0.0,4,N,N
+A813732,N,2020-02-17 11:17:00,Austin (TX),Stray,Normal,Dog,Intact Male,4.0,Chihuahua Shorthair,White/Tan,2020-02-25 12:26:00,Intact Male,4.0,0.0,8,N,N
+A813731,N,2020-02-17 11:06:00,Austin (TX),Stray,Normal,Dog,Intact Male,2.0,Chihuahua Shorthair,White/Tan,2020-02-24 17:05:00,Neutered Male,2.0,0.0,7,N,N
+A813729,N,2020-02-17 10:32:00,Austin (TX),Stray,Normal,Dog,Intact Female,2.0,Other,Black/White,2020-02-29 12:45:00,Spayed Female,2.0,0.0,12,N,N
+A813728,Y,2020-02-17 10:32:00,Austin (TX),Stray,Injured,Dog,Intact Male,2.0,Chihuahua Shorthair,Black/Tan,2020-03-25 13:01:00,Neutered Male,2.0,0.0,37,N,N
+A813725,Y,2020-02-16 23:56:00,Austin (TX),Public Assist,Normal,Dog,Neutered Male,2.0,Other,Black/Brown,2020-02-18 11:26:00,Neutered Male,2.0,0.0,1,N,N
+A813724,Y,2020-03-10 11:26:00,Austin (TX),Owner Surrender,Normal,Dog,Neutered Male,0.16666666666666666,Labrador Retriever,Black/White,2020-03-10 16:58:00,Neutered Male,0.16666666666666666,0.0,0,N,Y
+A813720,Y,2020-02-16 16:58:00,Austin (TX),Stray,Normal,Dog,Spayed Female,1.0,Other,Tricolor,2020-03-05 10:09:00,Spayed Female,1.0,0.0,17,N,N
+A813719,Y,2020-02-16 17:09:00,Manor (TX),Stray,Normal,Dog,Intact Male,2.0,Other,Black/White,2020-02-21 12:50:00,Intact Male,3.0,0.0,4,N,N
+A813718,Y,2020-02-23 18:08:00,Travis (TX),Owner Surrender,Normal,Cat,Neutered Male,0.6666666666666666,Domestic Shorthair,White/Orange Tabby,2020-02-24 14:07:00,Neutered Male,0.6666666666666666,0.0,0,N,Y
+A813715,Y,2020-02-16 16:13:00,Austin (TX),Stray,Normal,Cat,Spayed Female,4.0,Domestic Shorthair,Other,2020-02-29 15:58:00,Spayed Female,4.0,0.0,12,N,N
+A813714,Y,2020-02-16 15:35:00,Austin (TX),Stray,Normal,Dog,Intact Male,1.0,Chihuahua Shorthair Mix,Brown/White,2020-03-04 11:53:00,Neutered Male,1.0,0.0,16,N,N
+A813713,Y,2020-02-16 15:20:00,Austin (TX),Owner Surrender,Normal,Cat,Neutered Male,4.0,Other,Other,2020-02-23 14:48:00,Neutered Male,4.0,0.0,6,N,N
+A813712,N,2020-02-16 15:18:00,Austin (TX),Stray,Normal,Cat,Unknown,3.0,Domestic Shorthair,Brown Tabby,2020-02-20 17:37:00,Unknown,3.0,0.0,4,N,N
+A813711,Y,2020-02-16 15:20:00,Austin (TX),Owner Surrender,Normal,Cat,Neutered Male,1.0,Domestic Shorthair,Other,2020-02-22 16:08:00,Neutered Male,1.0,0.0,6,N,N
+A813710,N,2020-02-16 15:05:00,Austin (TX),Wildlife,Sick,Bat,Unknown,1.0,Other,Brown,2020-02-16 15:32:00,Unknown,1.0,1.0,0,Y,N
+A813708,Y,2020-02-16 14:16:00,Austin (TX),Stray,Normal,Dog,Intact Male,1.0,Other,White,2020-02-18 15:00:00,Intact Male,1.0,0.0,2,N,N
+A813705,Y,2020-02-16 13:25:00,Austin (TX),Stray,Normal,Dog,Intact Female,0.25,Other,Tricolor,2020-02-28 19:32:00,Spayed Female,0.25,0.0,12,N,Y
+A813704,Y,2020-02-16 13:25:00,Austin (TX),Stray,Normal,Dog,Intact Male,0.25,Other,Tricolor,2020-02-23 16:55:00,Neutered Male,0.25,0.0,7,N,Y
+A813703,N,2020-02-16 13:20:00,Austin (TX),Stray,Normal,Dog,Intact Male,1.0,Pit Bull Mix,Other,2020-02-18 14:46:00,Intact Male,1.0,0.0,2,N,N
+A813702,N,2020-02-16 13:11:00,Austin (TX),Stray,Normal,Dog,Neutered Male,7.0,Chihuahua Shorthair Mix,Other,2020-02-21 16:22:00,Neutered Male,7.0,0.0,5,N,N
+A813698,Y,2020-02-16 12:17:00,Travis (TX),Owner Surrender,Normal,Dog,Intact Female,4.0,Australian Cattle Dog,Other,2020-02-18 12:19:00,Intact Female,4.0,0.0,2,N,N
+A813697,Y,2020-02-16 12:17:00,Travis (TX),Owner Surrender,Normal,Dog,Intact Female,5.0,Australian Cattle Dog,Black/White,2020-02-18 12:18:00,Intact Female,5.0,0.0,2,N,N
+A813696,N,2020-02-16 12:00:00,Austin (TX),Stray,Normal,Dog,Neutered Male,13.0,Other,Brown,2020-02-16 15:59:00,Neutered Male,13.0,0.0,0,N,N
+A813695,N,2020-02-16 11:42:00,Austin (TX),Stray,Normal,Cat,Intact Male,1.0,Domestic Shorthair,Other,2020-03-18 16:46:00,Neutered Male,1.0,0.0,31,N,N
+A813694,Y,2020-03-12 10:44:00,Travis (TX),Stray,Normal,Dog,Neutered Male,1.0,Other,Black/Brown,2020-03-12 16:28:00,Neutered Male,1.0,0.0,0,N,N
+A813693,N,2020-02-16 11:14:00,Austin (TX),Stray,Normal,Cat,Intact Female,0.4166666666666667,Domestic Shorthair,Other,2020-02-22 17:09:00,Spayed Female,0.4166666666666667,0.0,6,N,Y
+A813683,Y,2020-02-15 18:16:00,Ridge (TX),Stray,Normal,Dog,Intact Male,1.0,German Shepherd,Black/Brown,2020-02-25 11:39:00,Intact Male,1.0,0.0,9,N,N
+A813682,Y,2020-02-16 11:11:00,Manor (TX),Stray,Normal,Dog,Neutered Male,1.0,Siberian Husky,Other,2020-02-16 15:03:00,Neutered Male,1.0,0.0,0,N,N
+A813680,Y,2020-02-15 16:46:00,Austin (TX),Owner Surrender,Normal,Dog,Intact Female,0.16666666666666666,Pit Bull Mix,Brown/White,2020-02-16 17:08:00,Spayed Female,0.16666666666666666,0.0,1,N,Y
+A813675,Y,2020-02-27 12:30:00,Austin (TX),Stray,Normal,Dog,Intact Male,2.0,Siberian Husky,Black/White,2020-03-10 13:47:00,Neutered Male,2.0,0.0,12,N,N
+A813674,N,2020-02-15 16:32:00,Austin (TX),Wildlife,Sick,Bat,Unknown,2.0,Other,Brown,2020-02-24 12:55:00,Unknown,2.0,1.0,8,Y,N
+A813673,Y,2020-02-15 15:31:00,Travis (TX),Stray,Injured,Dog,Intact Female,2.0,Great Pyrenees,White,2020-02-26 17:16:00,Spayed Female,2.0,0.0,11,N,N
+A813672,N,2020-02-15 15:31:00,Travis (TX),Stray,Injured,Dog,Intact Male,2.0,Other,White,2020-02-20 16:47:00,Neutered Male,2.0,0.0,5,N,N
+A813671,Y,2020-02-15 15:42:00,Austin (TX),Stray,Normal,Dog,Intact Male,1.0,Labrador Retriever,Red,2020-02-26 16:28:00,Neutered Male,1.0,0.0,11,N,N
+A813670,Y,2020-02-15 15:31:00,Travis (TX),Stray,Injured,Dog,Intact Male,2.0,Other,Brown/White,2020-02-29 16:18:00,Neutered Male,2.0,0.0,14,N,N
+A813669,N,2020-02-15 15:31:00,Travis (TX),Stray,Injured,Dog,Intact Male,2.0,Great Pyrenees,White,2020-02-21 18:22:00,Neutered Male,2.0,0.0,6,N,N
+A813665,N,2020-02-15 14:01:00,Austin (TX),Stray,Normal,Dog,Intact Male,1.0,Chihuahua Shorthair,White/Tan,2020-02-23 14:36:00,Neutered Male,1.0,0.0,8,N,N
+A813664,Y,2020-02-15 13:26:00,Austin (TX),Stray,Normal,Dog,Intact Male,0.75,Chihuahua Shorthair,Tricolor,2020-02-20 16:15:00,Neutered Male,0.75,0.0,5,N,Y
+A813662,Y,2020-02-15 13:10:00,Manor (TX),Stray,Injured,Dog,Intact Female,14.0,Shih Tzu,Other,2020-02-15 14:26:00,Intact Female,14.0,0.0,0,N,N
+A813658,Y,2020-02-15 12:26:00,Travis (TX),Owner Surrender,Normal,Dog,Intact Female,4.0,Chihuahua Shorthair Mix,Red/White,2020-03-24 12:43:00,Intact Female,4.0,0.0,38,N,N
+A813656,Y,2020-02-15 12:26:00,Travis (TX),Owner Surrender,Normal,Dog,Intact Female,4.0,Chihuahua Shorthair Mix,Brown/White,2020-03-18 11:38:00,Intact Female,4.0,0.0,31,N,N
+A813655,N,2020-02-15 12:10:00,Travis (TX),Stray,Normal,Dog,Intact Male,0.07692307692307693,Chihuahua Shorthair,White/Tan,2020-02-16 14:01:00,Intact Male,0.07692307692307693,0.0,1,N,Y
+A813654,N,2020-02-15 12:10:00,Travis (TX),Stray,Normal,Dog,Intact Female,0.07692307692307693,Chihuahua Shorthair,Tricolor,2020-02-16 14:00:00,Intact Female,0.07692307692307693,0.0,1,N,Y
+A813653,N,2020-02-15 12:10:00,Travis (TX),Stray,Normal,Dog,Intact Male,0.07692307692307693,Chihuahua Shorthair,Black/Brown,2020-02-16 14:00:00,Intact Male,0.07692307692307693,0.0,1,N,Y
+A813652,N,2020-02-15 12:10:00,Travis (TX),Stray,Normal,Dog,Intact Male,0.07692307692307693,Chihuahua Shorthair,White/Tan,2020-02-16 13:59:00,Intact Male,0.07692307692307693,0.0,1,N,Y
+A813648,Y,2020-02-15 11:04:00,Austin (TX),Owner Surrender,Normal,Hedgehog,Intact Male,2.0,Other,Brown,2020-02-16 15:22:00,Intact Male,2.0,0.0,1,N,N
+A813646,N,2020-02-15 10:43:00,Travis (TX),Stray,Normal,Dog,Intact Female,3.0,Other,White,2020-02-20 16:47:00,Spayed Female,3.0,0.0,5,N,N
+A813644,Y,2020-02-15 10:32:00,Austin (TX),Stray,Normal,Dog,Spayed Female,7.0,Labrador Retriever,Other,2020-02-15 14:23:00,Spayed Female,7.0,0.0,0,N,N
+A813641,N,2020-02-14 20:47:00,Austin (TX),Wildlife,Normal,Bat,Unknown,2.0,Other,Brown,2020-02-15 09:53:00,Unknown,2.0,1.0,0,Y,N
+A813640,N,2020-02-14 20:17:00,Austin (TX),Stray,Normal,Dog,Neutered Male,1.0,Chihuahua Shorthair,Black/White,2020-02-19 17:24:00,Neutered Male,1.0,0.0,4,N,N

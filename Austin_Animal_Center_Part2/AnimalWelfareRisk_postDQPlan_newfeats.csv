@@ -1,0 +1,1001 @@
+Animal_ID,Named,DateTime_Intake,Found_Location,Intake_Type,Intake_Condition,Animal_Type,Sex_upon_Intake,Age_upon_Intake,Breed,Color,DateTime_Outcome,Sex_upon_Outcome,Age_upon_Outcome,binary_outcome,Length_of_Stay,Wild,Younger_than_1_Intake
+A751569,Y,2017-06-09 15:26:00,Austin (TX),Stray,Normal,Cat,Intact Female,0.25,Domestic Shorthair,Black,2017-06-19 17:34:00,Intact Female,0.25,0.0,10,N,Y
+A742125,Y,2017-01-15 12:24:00,Austin (TX),Stray,Sick,Cat,Intact Male,1.0,Domestic Shorthair,Black/White,2017-02-04 14:27:00,Intact Male,1.0,0.0,20,N,N
+A715769,Y,2015-11-09 14:41:00,Austin (TX),Owner Surrender,Normal,Cat,Neutered Male,14.0,Domestic Shorthair,Orange Tabby,2015-12-10 13:11:00,Neutered Male,14.0,0.0,30,N,N
+A719223,Y,2016-01-15 14:47:00,Austin (TX),Owner Surrender,Normal,Cat,Intact Female,11.0,Other,Black,2016-02-15 12:10:00,Spayed Female,11.0,0.0,30,N,N
+A724757,N,2016-04-21 13:53:00,Austin (TX),Stray,Normal,Cat,Unknown,0.038461538461538464,Domestic Shorthair,Other,2016-04-21 17:03:00,Unknown,0.038461538461538464,0.0,0,N,Y
+A667020,Y,2013-11-11 12:39:00,Austin (TX),Stray,Normal,Cat,Intact Male,0.08333333333333333,Domestic Shorthair,White/Orange Tabby,2013-11-30 09:45:00,Intact Male,0.16666666666666666,0.0,18,N,Y
+A685509,N,2014-08-08 12:46:00,Austin (TX),Stray,Normal,Cat,Intact Male,0.0576923076923077,Domestic Shorthair,White/Orange Tabby,2014-08-08 18:20:00,Intact Male,0.0576923076923077,0.0,0,N,Y
+A743376,Y,2017-02-09 12:50:00,Austin (TX),Stray,Normal,Dog,Intact Male,1.0,Other,Other,2017-02-10 09:19:00,Intact Male,1.0,0.0,0,N,N
+A797747,N,2019-06-17 14:04:00,Austin (TX),Stray,Normal,Cat,Intact Male,0.08333333333333333,Domestic Shorthair,Brown Tabby,2019-06-30 18:07:00,Intact Male,0.16666666666666666,0.0,13,N,Y
+A793791,Y,2019-04-29 18:56:00,Austin (TX),Stray,Normal,Cat,Intact Male,0.019230769230769232,Domestic Shorthair,Black,2019-07-13 15:02:00,Neutered Male,0.16666666666666666,0.0,74,N,Y
+A714978,Y,2015-10-29 17:07:00,Austin (TX),Owner Surrender,Normal,Cat,Intact Female,0.08333333333333333,Domestic Shorthair,Black/White,2015-12-12 15:00:00,Spayed Female,0.25,0.0,43,N,Y
+A712266,N,2015-09-20 00:44:00,Austin (TX),Wildlife,Normal,Bat,Unknown,0.07692307692307693,Other,Black/Brown,2015-09-20 07:57:00,Unknown,0.07692307692307693,1.0,0,Y,Y
+A717291,N,2015-12-05 14:22:00,Austin (TX),Stray,Normal,Cat,Intact Female,0.6666666666666666,Domestic Shorthair,Brown Tabby,2015-12-09 19:39:00,Spayed Female,0.6666666666666666,0.0,4,N,Y
+A787374,N,2019-01-11 18:45:00,Austin (TX),Stray,Normal,Cat,Unknown,0.038461538461538464,Domestic Shorthair,Other,2019-01-12 08:09:00,Unknown,0.038461538461538464,0.0,0,N,Y
+A753602,Y,2017-07-08 14:59:00,Travis (TX),Stray,Normal,Dog,Intact Male,2.0,Pit Bull Mix,Blue/White,2017-07-28 10:31:00,Neutered Male,2.0,0.0,19,N,N
+A809737,Y,2019-11-30 13:28:00,Travis (TX),Owner Surrender,Normal,Guinea Pig,Intact Male,3.0,Other,Calico,2019-12-04 12:21:00,Intact Male,3.0,0.0,3,N,N
+A773602,N,2018-06-03 12:46:00,Austin (TX),Wildlife,Sick,Raccoon,Unknown,3.0,Other,Other,2018-06-03 13:31:00,Unknown,3.0,1.0,0,Y,N
+A720902,N,2016-02-17 13:05:00,Austin (TX),Stray,Normal,Dog,Intact Female,0.16666666666666666,Chihuahua Shorthair Mix,Brown,2016-02-21 17:42:00,Spayed Female,0.16666666666666666,0.0,4,N,Y
+A781907,N,2018-10-07 16:51:00,Austin (TX),Stray,Nursing,Cat,Intact Female,0.038461538461538464,Domestic Shorthair,Blue Tabby,2018-10-07 17:05:00,Intact Female,0.038461538461538464,0.0,0,N,Y
+A723843,Y,2016-04-18 18:26:00,Austin (TX),Owner Surrender,Normal,Cat,Neutered Male,13.0,Other,Brown Tabby,2016-05-22 18:00:00,Neutered Male,13.0,0.0,33,N,N
+A798886,Y,2019-07-01 16:28:00,Austin (TX),Stray,Normal,Dog,Intact Male,2.0,Pit Bull,Blue/White,2019-07-08 17:44:00,Neutered Male,2.0,0.0,7,N,N
+A736938,N,2016-10-19 15:25:00,Austin (TX),Stray,Normal,Cat,Intact Female,1.0,Domestic Shorthair,Other,2016-10-20 09:00:00,Spayed Female,1.0,0.0,0,N,N
+A722475,N,2016-03-17 13:25:00,Austin (TX),Stray,Normal,Cat,Intact Male,2.0,Domestic Longhair,Brown Tabby,2016-03-17 15:05:00,Intact Male,2.0,1.0,0,N,N
+A794038,N,2019-05-03 12:15:00,Austin (TX),Stray,Normal,Cat,Intact Male,0.07692307692307693,Domestic Medium Hair,Blue Tabby,2019-05-05 19:35:00,Intact Male,0.07692307692307693,0.0,2,N,Y
+A694312,N,2014-12-25 12:31:00,Austin (TX),Stray,Normal,Dog,Intact Female,0.0,Pit Bull Mix,White/Chocolate,2014-12-27 12:12:00,Intact Female,0.0054794520547945215,0.0,1,N,Y
+A753741,Y,2017-07-10 13:52:00,Austin (TX),Stray,Normal,Dog,Spayed Female,5.0,Chihuahua Shorthair Mix,Black/Brown,2017-07-17 15:53:00,Spayed Female,5.0,0.0,7,N,N
+A799446,N,2019-07-08 17:03:00,Austin (TX),Stray,Nursing,Cat,Intact Male,0.07692307692307693,Domestic Shorthair,Black,2019-09-20 09:23:00,Neutered Male,0.25,0.0,73,N,Y
+A666219,Y,2013-10-29 00:02:00,Austin (TX),Stray,Normal,Dog,Intact Male,0.5,Labrador Retriever Mix,Black/White,2013-12-16 14:29:00,Neutered Male,0.6666666666666666,0.0,48,N,Y
+A689443,N,2014-10-04 11:14:00,Austin (TX),Stray,Normal,Dog,Intact Female,0.08333333333333333,Other,Black/Tan,2014-10-09 17:29:00,Spayed Female,0.16666666666666666,0.0,5,N,Y
+A675619,Y,2014-03-30 11:49:00,Austin (TX),Stray,Normal,Dog,Intact Male,2.0,Chihuahua Shorthair Mix,White/Chocolate,2014-04-05 17:48:00,Neutered Male,2.0,0.0,6,N,N
+A693177,Y,2014-12-03 12:50:00,Austin (TX),Stray,Normal,Dog,Intact Female,7.0,Chihuahua Shorthair Mix,Black/Tan,2014-12-07 18:02:00,Spayed Female,7.0,0.0,4,N,N
+A556804,Y,2013-11-16 16:38:00,Austin (TX),Owner Surrender,Normal,Cat,Spayed Female,11.0,Domestic Shorthair,Black/White,2013-11-30 12:19:00,Spayed Female,11.0,0.0,13,N,N
+A808539,Y,2019-11-10 13:38:00,Austin (TX),Stray,Normal,Dog,Neutered Male,4.0,Labrador Retriever Mix,White/Chocolate,2019-11-15 13:05:00,Neutered Male,4.0,0.0,4,N,N
+A792843,N,2019-04-16 11:31:00,Austin (TX),Wildlife,Injured,Opossum,Intact Male,1.0,Other,Other,2019-04-16 15:04:00,Intact Male,1.0,1.0,0,Y,N
+A732385,Y,2016-08-06 17:16:00,Austin (TX),Owner Surrender,Sick,Cat,Intact Female,0.08333333333333333,Domestic Shorthair,Other,2016-08-16 17:34:00,Intact Female,0.16666666666666666,0.0,10,N,Y
+A748377,Y,2017-05-02 13:50:00,Austin (TX),Stray,Normal,Dog,Intact Male,3.0,Pit Bull Mix,White/Tan,2017-08-19 19:02:00,Neutered Male,3.0,0.0,109,N,N
+A689447,Y,2014-10-04 11:29:00,Austin (TX),Stray,Normal,Cat,Intact Female,0.0576923076923077,Domestic Shorthair,Black/White,2014-12-14 10:53:00,Intact Female,0.25,1.0,70,N,Y
+A795462,N,2019-05-20 18:21:00,Austin (TX),Owner Surrender,Normal,Dog,Intact Male,0.038461538461538464,Other,Other,2019-05-31 18:30:00,Intact Male,0.07692307692307693,0.0,11,N,Y
+A727450,Y,2016-05-22 13:04:00,Austin (TX),Stray,Normal,Cat,Intact Female,0.08333333333333333,Domestic Shorthair,Black,2016-07-09 17:44:00,Spayed Female,0.16666666666666666,0.0,48,N,Y
+A756688,Y,2018-10-14 10:38:00,Austin (TX),Stray,Normal,Dog,Intact Female,2.0,Pit Bull Mix,Brown Brindle/White,2018-10-24 11:37:00,Intact Female,2.0,0.0,10,N,N
+A669201,Y,2015-09-16 17:41:00,Austin (TX),Public Assist,Normal,Dog,Neutered Male,2.0,Chihuahua Shorthair Mix,Black/Brown,2015-10-06 17:53:00,Neutered Male,2.0,0.0,20,N,N
+A668481,N,2013-12-04 12:29:00,Austin (TX),Stray,Normal,Cat,Intact Female,0.0576923076923077,Domestic Shorthair,Torbie,2013-12-04 14:39:00,Intact Female,0.0576923076923077,0.0,0,N,Y
+A725708,Y,2016-05-02 10:58:00,Austin (TX),Stray,Normal,Dog,Neutered Male,0.16666666666666666,Labrador Retriever Mix,White,2016-05-21 00:00:00,Neutered Male,0.25,0.0,18,N,Y
+A762366,Y,2017-11-19 11:47:00,Austin (TX),Owner Surrender,Normal,Cat,Spayed Female,9.0,Domestic Shorthair,Torbie,2018-01-30 09:13:00,Spayed Female,9.0,0.0,71,N,N
+A800035,Y,2019-07-15 15:16:00,Austin (TX),Owner Surrender,Normal,Dog,Intact Male,6.0,Other,Black/White,2019-07-31 12:52:00,Neutered Male,6.0,0.0,15,N,N
+A713163,Y,2015-10-03 12:45:00,Austin (TX),Stray,Normal,Cat,Intact Male,4.0,Domestic Shorthair,Blue Tabby,2015-11-11 00:00:00,Neutered Male,4.0,0.0,38,N,N
+A755224,N,2017-07-31 13:02:00,Austin (TX),Stray,Injured,Dog,Intact Male,8.0,Miniature Poodle Mix,White,2017-08-01 16:46:00,Intact Male,8.0,0.0,1,N,N
+A696336,N,2015-02-03 10:19:00,Austin (TX),Stray,Normal,Dog,Unknown,0.019230769230769232,Chihuahua Shorthair Mix,Black/White,2015-02-06 16:55:00,Unknown,0.019230769230769232,0.0,3,N,Y
+A799281,Y,2019-07-06 17:43:00,Austin (TX),Stray,Normal,Dog,Intact Male,2.0,Other,Other,2019-07-28 22:51:00,Neutered Male,2.0,0.0,22,N,N
+A740384,Y,2016-12-16 13:35:00,Travis (TX),Stray,Normal,Dog,Intact Female,0.08333333333333333,Australian Cattle Dog Mix,Black/White,2017-01-06 17:09:00,Spayed Female,0.08333333333333333,0.0,21,N,Y
+A784080,N,2018-11-11 11:58:00,Austin (TX),Owner Surrender,Normal,Cat,Intact Female,0.08333333333333333,Domestic Shorthair,Brown Tabby,2019-02-20 15:58:00,Spayed Female,0.3333333333333333,0.0,101,N,Y
+A708359,Y,2015-07-30 15:56:00,Outside Jurisdiction,Stray,Normal,Dog,Spayed Female,0.5,Other,Black/Brown,2016-12-15 18:36:00,Spayed Female,1.0,0.0,130,N,Y
+A786510,N,2018-12-26 16:47:00,Austin (TX),Stray,Normal,Cat,Intact Female,0.16666666666666666,Domestic Medium Hair,Calico,2018-12-31 16:26:00,Spayed Female,0.16666666666666666,0.0,4,N,Y
+A764965,N,2018-01-10 11:00:00,Austin (TX),Stray,Normal,Dog,Intact Female,1.0,Yorkshire Terrier Mix,Black/White,2018-01-15 12:59:00,Spayed Female,1.0,0.0,5,N,N
+A779155,Y,2018-08-26 13:50:00,Austin (TX),Owner Surrender,Normal,Cat,Spayed Female,8.0,Domestic Shorthair,Brown Tabby,2018-09-01 11:59:00,Spayed Female,8.0,0.0,5,N,N
+A743905,Y,2017-02-19 10:12:00,Austin (TX),Public Assist,Normal,Dog,Neutered Male,8.0,Other,Black,2017-02-20 11:23:00,Neutered Male,8.0,0.0,1,N,N
+A750526,N,2017-05-28 12:56:00,Austin (TX),Stray,Normal,Cat,Intact Female,0.0576923076923077,Domestic Shorthair,Torbie,2017-07-14 13:35:00,Spayed Female,0.16666666666666666,0.0,47,N,Y
+A713264,Y,2015-10-05 10:08:00,Austin (TX),Stray,Normal,Dog,Intact Male,0.5833333333333334,Other,Black/Brown,2015-10-06 15:30:00,Intact Male,0.5833333333333334,0.0,1,N,Y
+A782680,Y,2018-10-19 14:56:00,Pflugerville (TX),Stray,Normal,Dog,Spayed Female,5.0,Pit Bull Mix,Brown Brindle/White,2018-10-20 11:48:00,Spayed Female,5.0,0.0,0,N,N
+A757991,Y,2017-09-09 16:54:00,Austin (TX),Stray,Sick,Dog,Intact Male,8.0,Australian Cattle Dog Mix,Brown Brindle/White,2017-12-07 14:08:00,Neutered Male,8.0,0.0,88,N,N
+A794057,N,2019-05-03 14:19:00,Austin (TX),Stray,Normal,Cat,Intact Female,1.0,Domestic Shorthair,Torbie,2019-05-11 17:27:00,Spayed Female,1.0,0.0,8,N,N
+A758028,Y,2017-09-10 13:14:00,Austin (TX),Stray,Normal,Dog,Intact Male,4.0,Labrador Retriever Mix,White/Tan,2017-09-11 11:32:00,Intact Male,4.0,0.0,0,N,N
+A690611,N,2014-10-23 11:16:00,Travis (TX),Owner Surrender,Normal,Dog,Intact Male,0.08333333333333333,Other,Other,2014-10-25 12:46:00,Intact Male,0.16666666666666666,0.0,2,N,Y
+A727493,Y,2016-05-22 16:03:00,Austin (TX),Stray,Normal,Cat,Intact Female,0.07692307692307693,Domestic Longhair,Black,2016-06-30 12:29:00,Spayed Female,0.16666666666666666,0.0,38,N,Y
+A692279,N,2014-11-17 23:15:00,Austin (TX),Wildlife,Normal,Bat,Unknown,0.5,Other,Brown,2014-11-18 08:01:00,Unknown,0.5,1.0,0,Y,Y
+A763935,N,2017-12-18 16:19:00,Austin (TX),Stray,Normal,Cat,Intact Female,0.3333333333333333,Domestic Shorthair,Other,2017-12-24 11:22:00,Intact Female,0.3333333333333333,0.0,5,N,Y
+A715498,Y,2015-11-05 11:50:00,Manor (TX),Stray,Normal,Dog,Intact Female,2.0,Pit Bull Mix,Brown/White,2016-01-13 09:03:00,Spayed Female,2.0,0.0,68,N,N
+A711913,Y,2015-09-20 11:48:00,Austin (TX),Owner Surrender,Normal,Dog,Spayed Female,0.16666666666666666,German Shepherd Mix,Black/Tan,2015-09-23 13:17:00,Spayed Female,0.16666666666666666,0.0,3,N,Y
+A704743,N,2015-06-08 15:31:00,Austin (TX),Stray,Sick,Cat,Unknown,0.07692307692307693,Domestic Shorthair,Other,2015-06-08 15:40:00,Unknown,0.07692307692307693,1.0,0,N,Y
+A666555,Y,2013-11-03 14:47:00,Austin (TX),Stray,Injured,Dog,Intact Male,2.0,Chihuahua Shorthair Mix,Black/White,2013-12-14 17:41:00,Neutered Male,2.0,0.0,41,N,N
+A758983,Y,2017-09-24 17:43:00,Austin (TX),Stray,Normal,Dog,Intact Male,0.3333333333333333,Boxer Mix,Other,2017-10-01 17:49:00,Neutered Male,0.3333333333333333,0.0,7,N,Y
+A812726,Y,2020-01-27 15:47:00,Austin (TX),Stray,Normal,Dog,Intact Female,0.4166666666666667,Other,Black/White,2020-01-28 15:05:00,Intact Female,0.4166666666666667,0.0,0,N,Y
+A677766,Y,2014-04-29 11:13:00,Travis (TX),Stray,Normal,Dog,Intact Male,1.0,Labrador Retriever Mix,Black/White,2014-05-07 17:24:00,Neutered Male,1.0,0.0,8,N,N
+A705050,Y,2015-06-12 13:33:00,Austin (TX),Stray,Normal,Cat,Spayed Female,0.16666666666666666,Domestic Shorthair,Tortie,2015-07-02 00:00:00,Spayed Female,0.16666666666666666,0.0,19,N,Y
+A795743,Y,2019-05-24 11:03:00,Austin (TX),Owner Surrender,Normal,Cat,Intact Male,0.08333333333333333,Domestic Shorthair,Black/White,2019-08-17 11:24:00,Neutered Male,0.3333333333333333,0.0,85,N,Y
+A747623,N,2017-04-22 12:41:00,Austin (TX),Stray,Normal,Dog,Intact Male,0.08333333333333333,Other,White/Tan,2017-05-17 16:32:00,Neutered Male,0.16666666666666666,0.0,25,N,Y
+A724169,Y,2017-05-30 13:08:00,Austin (TX),Public Assist,Normal,Dog,Intact Female,3.0,Pit Bull Mix,Black/White,2019-12-09 14:18:00,Intact Female,5.0,0.0,130,N,N
+A753682,Y,2017-07-09 16:19:00,Austin (TX),Stray,Normal,Dog,Neutered Male,4.0,German Shepherd Mix,Brown/White,2017-07-10 16:14:00,Neutered Male,4.0,0.0,0,N,N
+A792254,N,2019-04-08 13:25:00,Austin (TX),Stray,Normal,Dog,Intact Female,0.010958904109589041,Yorkshire Terrier Mix,White/Chocolate,2019-04-11 13:00:00,Intact Female,0.019230769230769232,0.0,2,N,Y
+A757644,Y,2017-09-04 15:57:00,Outside Jurisdiction,Public Assist,Normal,Dog,Intact Female,0.5833333333333334,Labrador Retriever Mix,Black,2017-10-04 17:47:00,Intact Female,0.6666666666666666,0.0,30,N,Y
+A776637,Y,2018-07-17 07:53:00,Austin (TX),Stray,Normal,Dog,Intact Male,0.3333333333333333,Labrador Retriever Mix,Other,2018-07-23 17:21:00,Neutered Male,0.3333333333333333,0.0,6,N,Y
+A773431,Y,2018-05-31 20:22:00,Austin (TX),Stray,Normal,Dog,Intact Male,2.0,Other,Brown/White,2018-06-06 21:55:00,Neutered Male,2.0,0.0,6,N,N
+A672724,Y,2014-02-15 16:32:00,Austin (TX),Stray,Normal,Dog,Intact Male,3.0,Other,Other,2014-02-20 17:26:00,Neutered Male,3.0,0.0,5,N,N
+A679569,N,2014-05-23 10:00:00,Austin (TX),Stray,Sick,Dog,Intact Male,0.16666666666666666,Labrador Retriever Mix,Black/White,2014-05-29 11:32:00,Neutered Male,0.16666666666666666,0.0,6,N,Y
+A681589,N,2014-06-17 23:23:00,Austin (TX),Public Assist,Normal,Cat,Intact Female,1.0,Domestic Medium Hair,Other,2014-06-21 09:00:00,Intact Female,2.0,0.0,3,N,N
+A646245,Y,2017-02-15 17:49:00,Austin (TX),Owner Surrender,Normal,Cat,Neutered Male,4.0,Domestic Shorthair,Black,2017-03-10 12:18:00,Neutered Male,4.0,0.0,22,N,N
+A686594,N,2014-08-24 08:31:00,Austin (TX),Stray,Normal,Dog,Intact Male,0.3333333333333333,Other,Black/White,2014-08-31 11:39:00,Intact Male,0.3333333333333333,0.0,7,N,Y
+A695532,Y,2015-01-17 14:42:00,Austin (TX),Stray,Normal,Dog,Neutered Male,2.0,Other,Brown/White,2015-01-17 17:22:00,Neutered Male,2.0,0.0,0,N,N
+A776533,N,2019-08-05 11:47:00,Austin (TX),Stray,Normal,Dog,Neutered Male,3.0,Other,White/Tan,2019-08-09 15:45:00,Neutered Male,3.0,0.0,4,N,N
+A710824,Y,2015-08-28 12:50:00,Austin (TX),Stray,Injured,Dog,Intact Female,1.0,Other,Tan,2015-09-27 12:35:00,Spayed Female,1.0,0.0,29,N,N
+A784873,N,2018-11-21 11:57:00,Austin (TX),Stray,Sick,Cat,Intact Female,0.08333333333333333,Domestic Shorthair,Other,2018-11-25 14:17:00,Intact Female,0.08333333333333333,0.0,4,N,Y
+A741009,Y,2016-12-26 17:21:00,Hills (TX),Stray,Normal,Dog,Intact Male,1.0,Other,Black/White,2016-12-27 11:11:00,Intact Male,1.0,0.0,0,N,N
+A803934,Y,2019-09-23 18:38:00,Austin (TX),Owner Surrender,Normal,Dog,Spayed Female,5.0,Other,White/Tan,2019-10-08 15:50:00,Spayed Female,5.0,0.0,14,N,N
+A679229,N,2014-05-17 16:09:00,Austin (TX),Stray,Sick,Dog,Intact Female,0.25,Chihuahua Shorthair Mix,Black/White,2014-05-17 18:39:00,Intact Female,0.25,0.0,0,N,Y
+A778724,Y,2018-08-19 13:01:00,Austin (TX),Stray,Normal,Dog,Intact Male,0.08333333333333333,Labrador Retriever Mix,Brown,2018-08-24 20:53:00,Neutered Male,0.16666666666666666,0.0,5,N,Y
+A718909,Y,2016-01-09 12:11:00,Austin (TX),Owner Surrender,Normal,Cat,Spayed Female,2.0,Domestic Medium Hair,Black/White,2016-04-26 11:40:00,Spayed Female,2.0,0.0,107,N,N
+A779573,Y,2018-09-03 11:06:00,Valle (TX),Owner Surrender,Normal,Dog,Spayed Female,6.0,Other,Other,2018-09-24 00:00:00,Spayed Female,7.0,0.0,20,N,N
+A696995,Y,2015-03-08 13:07:00,Austin (TX),Owner Surrender,Normal,Dog,Neutered Male,12.0,Other,Other,2015-03-12 12:47:00,Neutered Male,12.0,0.0,3,N,N
+A449968,Y,2015-10-30 14:49:00,Pflugerville (TX),Owner Surrender,Normal,Cat,Spayed Female,10.0,Domestic Shorthair,Brown Tabby,2015-12-19 12:41:00,Spayed Female,10.0,0.0,49,N,N
+A701036,N,2015-04-23 10:12:00,Austin (TX),Stray,Feral,Cat,Intact Male,3.0,American Shorthair Mix,Black/White,2015-05-11 11:33:00,Intact Male,3.0,0.0,18,N,N
+A765390,N,2018-01-19 09:00:00,Austin (TX),Wildlife,Injured,Raccoon,Unknown,2.0,Other,Other,2018-01-21 09:41:00,Unknown,2.0,1.0,2,Y,N
+A696579,Y,2015-02-07 14:59:00,Austin (TX),Stray,Normal,Dog,Intact Male,5.0,Chihuahua Shorthair Mix,Brown,2015-02-17 14:02:00,Neutered Male,5.0,0.0,9,N,N
+A667332,N,2013-11-16 12:07:00,Austin (TX),Stray,Normal,Cat,Unknown,2.0,Domestic Shorthair,Brown Tabby,2013-11-18 15:36:00,Unknown,2.0,0.0,2,N,N
+A385442,Y,2014-01-11 15:15:00,Austin (TX),Stray,Normal,Dog,Neutered Male,10.0,Labrador Retriever Mix,Other,2014-01-11 16:00:00,Neutered Male,10.0,0.0,0,N,N
+A738794,N,2016-11-21 10:21:00,Austin (TX),Stray,Normal,Dog,Intact Male,2.0,Miniature Poodle Mix,White,2016-11-26 13:05:00,Intact Male,2.0,0.0,5,N,N
+A762224,Y,2017-11-16 12:28:00,Austin (TX),Owner Surrender,Normal,Dog,Unknown,1.0,Other,Black/Tan,2017-11-16 18:46:00,Unknown,1.0,0.0,0,N,N
+A667076,Y,2013-11-12 13:10:00,Austin (TX),Stray,Normal,Dog,Intact Female,1.0,Pit Bull Mix,Brown/White,2014-04-07 17:41:00,Spayed Female,1.0,0.0,130,N,N
+A809939,Y,2019-12-04 13:25:00,Austin (TX),Stray,Normal,Rabbit Sh,Intact Male,2.0,Other,Brown,2020-01-03 15:13:00,Neutered Male,2.0,0.0,30,N,N
+A755159,Y,2018-02-26 14:50:00,Austin (TX),Stray,Normal,Dog,Neutered Male,0.75,Chihuahua Shorthair Mix,Tan,2018-03-05 17:41:00,Neutered Male,0.8333333333333334,0.0,7,N,Y
+A776561,N,2018-07-15 17:24:00,Austin (TX),Wildlife,Sick,Raccoon,Unknown,1.0,Other,Other,2018-07-15 19:19:00,Unknown,1.0,1.0,0,Y,N
+A757581,N,2017-09-04 11:25:00,Austin (TX),Stray,Normal,Cat,Intact Male,0.08333333333333333,Domestic Medium Hair,Blue/White,2017-10-15 12:56:00,Intact Male,0.16666666666666666,1.0,41,N,Y
+A756984,Y,2017-08-28 16:34:00,Austin (TX),Stray,Normal,Cat,Intact Male,0.08333333333333333,Domestic Shorthair,Brown Tabby,2017-09-01 14:36:00,Intact Male,0.16666666666666666,0.0,3,N,Y
+A763599,Y,2017-12-11 16:36:00,Austin (TX),Owner Surrender,Normal,Cat,Neutered Male,4.0,Domestic Shorthair,Other,2018-04-20 13:50:00,Neutered Male,4.0,0.0,129,N,N
+A798884,N,2019-07-01 15:43:00,Austin (TX),Stray,Normal,Cat,Unknown,0.5833333333333334,Other,Other,2019-07-05 18:34:00,Unknown,0.6666666666666666,0.0,4,N,Y
+A721919,N,2016-03-07 11:29:00,Austin (TX),Stray,Normal,Cat,Intact Male,1.0,Domestic Shorthair,Black/White,2016-03-12 18:58:00,Neutered Male,1.0,0.0,5,N,N
+A766408,Y,2018-02-08 13:50:00,Austin (TX),Stray,Normal,Dog,Intact Female,1.0,Pit Bull Mix,Black/White,2018-02-17 16:16:00,Spayed Female,1.0,0.0,9,N,N
+A667138,Y,2013-11-13 19:32:00,Austin (TX),Owner Surrender,Normal,Cat,Neutered Male,11.0,Domestic Medium Hair,White,2013-11-22 14:18:00,Neutered Male,11.0,0.0,8,N,N
+A710712,Y,2015-08-26 16:08:00,Austin (TX),Stray,Normal,Dog,Neutered Male,1.0,Other,Other,2015-08-28 15:58:00,Neutered Male,1.0,0.0,1,N,N
+A796772,N,2019-06-05 10:58:00,Austin (TX),Stray,Normal,Cat,Intact Male,0.0576923076923077,Domestic Shorthair,Orange Tabby,2019-07-14 14:32:00,Intact Male,0.16666666666666666,0.0,39,N,Y
+A806996,N,2019-10-19 12:40:00,Travis (TX),Owner Surrender,Normal,Dog,Intact Female,0.16666666666666666,Labrador Retriever,White/Tan,2019-10-20 17:05:00,Spayed Female,0.16666666666666666,0.0,1,N,Y
+A728467,Y,2016-06-04 15:44:00,Travis (TX),Stray,Normal,Dog,Spayed Female,8.0,Pit Bull Mix,Other,2016-06-29 13:21:00,Spayed Female,8.0,0.0,24,N,N
+A629687,Y,2014-10-22 12:47:00,Austin (TX),Stray,Normal,Dog,Neutered Male,2.0,Other,Other,2014-10-25 13:52:00,Neutered Male,2.0,0.0,3,N,N
+A804061,Y,2019-09-10 11:45:00,Austin (TX),Stray,Normal,Cat,Intact Male,0.07692307692307693,Domestic Shorthair,Blue Tabby,2019-10-24 16:41:00,Neutered Male,0.16666666666666666,0.0,44,N,Y
+A788712,N,2019-02-07 13:56:00,Travis (TX),Stray,Normal,Dog,Intact Male,1.0,Cairn Terrier Mix,Other,2019-02-11 16:59:00,Neutered Male,1.0,0.0,4,N,N
+A711750,Y,2015-09-11 15:48:00,Austin (TX),Stray,Normal,Dog,Neutered Male,2.0,Other,Brown Brindle/White,2015-09-11 18:45:00,Neutered Male,2.0,0.0,0,N,N
+A726338,N,2016-05-09 17:03:00,Manor (TX),Stray,Normal,Dog,Intact Male,0.08333333333333333,Great Pyrenees Mix,Other,2016-06-22 18:41:00,Neutered Male,0.16666666666666666,0.0,44,N,Y
+A699696,Y,2015-04-01 11:41:00,Austin (TX),Stray,Normal,Dog,Spayed Female,3.0,Other,Black/White,2015-04-02 15:56:00,Spayed Female,3.0,0.0,1,N,N
+A681561,N,2014-06-18 14:46:00,Austin (TX),Stray,Normal,Cat,Intact Male,0.08333333333333333,Domestic Shorthair,White/Orange Tabby,2014-06-19 13:20:00,Intact Male,0.08333333333333333,0.0,0,N,Y
+A693430,Y,2014-12-08 13:29:00,Austin (TX),Public Assist,Normal,Dog,Spayed Female,7.0,Other,Black,2014-12-17 12:49:00,Spayed Female,7.0,0.0,8,N,N
+A785697,Y,2018-12-10 11:46:00,Austin (TX),Public Assist,Normal,Dog,Spayed Female,5.0,Boxer Mix,Brown/White,2018-12-16 21:42:00,Spayed Female,5.0,0.0,6,N,N
+A803096,N,2019-08-27 14:40:00,Manor (TX),Stray,Normal,Cat,Intact Male,0.08333333333333333,Domestic Medium Hair,Brown Tabby,2019-08-31 14:54:00,Intact Male,0.08333333333333333,0.0,4,N,Y
+A788261,Y,2019-01-29 13:16:00,Manor (TX),Owner Surrender,Injured,Dog,Spayed Female,1.0,Other,Black/White,2019-01-29 14:38:00,Spayed Female,1.0,1.0,0,N,N
+A786347,N,2018-12-22 15:18:00,Austin (TX),Stray,Normal,Cat,Spayed Female,0.3333333333333333,Domestic Shorthair,Black/White,2019-01-02 12:18:00,Spayed Female,0.3333333333333333,0.0,10,N,Y
+A800051,Y,2019-07-15 16:00:00,Austin (TX),Stray,Nursing,Cat,Intact Male,0.019230769230769232,Domestic Shorthair,Black/White,2019-07-15 18:52:00,Intact Male,0.019230769230769232,0.0,0,N,Y
+A681575,Y,2014-07-12 15:19:00,Austin (TX),Owner Surrender,Normal,Dog,Spayed Female,0.08333333333333333,Other,Tricolor,2014-07-13 14:26:00,Spayed Female,0.08333333333333333,0.0,0,N,Y
+A688273,Y,2014-09-17 10:54:00,Austin (TX),Owner Surrender,Normal,Dog,Intact Female,0.16666666666666666,Chihuahua Shorthair Mix,Other,2014-09-20 16:04:00,Spayed Female,0.16666666666666666,0.0,3,N,Y
+A675083,N,2014-03-22 17:51:00,Travis (TX),Wildlife,Normal,Bat,Unknown,1.0,Other,Brown,2014-03-22 18:34:00,Unknown,1.0,1.0,0,Y,N
+A724187,Y,2016-04-13 13:08:00,Austin (TX),Stray,Normal,Dog,Intact Male,0.8333333333333334,Labrador Retriever Mix,Other,2016-04-14 18:15:00,Neutered Male,0.8333333333333334,0.0,1,N,Y
+A787189,N,2019-01-09 11:07:00,Travis (TX),Stray,Normal,Cat,Intact Female,2.0,Domestic Shorthair,Blue Tabby,2019-01-11 15:24:00,Intact Female,2.0,0.0,2,N,N
+A804351,Y,2019-09-13 14:52:00,Austin (TX),Owner Surrender,Normal,Cat,Intact Female,0.08333333333333333,Domestic Medium Hair,Blue/White,2019-10-16 12:46:00,Spayed Female,0.16666666666666666,0.0,32,N,Y
+A739138,Y,2016-11-28 15:33:00,Travis (TX),Stray,Normal,Dog,Intact Female,1.0,German Shepherd Mix,Black/Brown,2016-12-04 00:00:00,Spayed Female,1.0,0.0,5,N,N
+A626164,Y,2013-11-04 13:02:00,Austin (TX),Owner Surrender,Normal,Cat,Neutered Male,1.0,Domestic Shorthair,Black,2014-01-30 16:11:00,Neutered Male,1.0,0.0,87,N,N
+A765295,Y,2018-01-25 18:27:00,Manor (TX),Owner Surrender,Normal,Dog,Neutered Male,1.0,Cairn Terrier Mix,Brown,2018-01-26 18:26:00,Neutered Male,1.0,0.0,0,N,N
+A717409,Y,2015-12-19 18:18:00,Travis (TX),Owner Surrender,Normal,Cat,Spayed Female,9.0,Domestic Medium Hair,Black/White,2015-12-30 11:09:00,Spayed Female,9.0,0.0,10,N,N
+A650905,Y,2015-01-06 14:48:00,Austin (TX),Owner Surrender,Normal,Dog,Intact Female,3.0,Other,Other,2015-01-21 12:47:00,Intact Female,3.0,1.0,14,N,N
+A718606,Y,2016-10-29 12:01:00,Austin (TX),Stray,Normal,Dog,Spayed Female,2.0,Staffordshire Mix,White/Chocolate,2016-11-28 05:30:00,Spayed Female,2.0,0.0,29,N,N
+A761356,N,2017-11-03 11:20:00,Austin (TX),Stray,Normal,Cat,Intact Male,0.08333333333333333,Domestic Shorthair,Orange Tabby,2017-11-09 14:46:00,Intact Male,0.08333333333333333,0.0,6,N,Y
+A798863,N,2019-07-01 14:45:00,Austin (TX),Stray,Normal,Cat,Intact Female,8.0,Domestic Medium Hair,Calico,2019-07-10 13:40:00,Intact Female,8.0,0.0,8,N,N
+A805620,Y,2019-11-18 10:33:00,Austin (TX),Stray,Injured,Cat,Neutered Male,3.0,Domestic Shorthair,Orange Tabby,2019-12-08 11:52:00,Neutered Male,3.0,0.0,20,N,N
+A664001,Y,2013-11-24 11:25:00,Austin (TX),Owner Surrender,Normal,Cat,Neutered Male,0.5,Domestic Shorthair,Blue Tabby,2013-11-27 16:09:00,Neutered Male,0.5833333333333334,0.0,3,N,Y
+A744936,Y,2017-08-03 18:24:00,Austin (TX),Public Assist,Normal,Dog,Intact Male,1.0,Chihuahua Shorthair Mix,Black/White,2017-08-13 17:36:00,Neutered Male,1.0,0.0,9,N,N
+A805956,N,2019-10-04 12:10:00,Austin (TX),Stray,Normal,Dog,Intact Female,0.4166666666666667,Pit Bull,White,2019-10-08 16:16:00,Spayed Female,0.4166666666666667,0.0,4,N,Y
+A667928,Y,2013-11-25 11:04:00,Valle (TX),Stray,Normal,Dog,Intact Male,0.07692307692307693,Other,Tan,2013-12-18 17:10:00,Neutered Male,0.08333333333333333,0.0,23,N,Y
+A696270,N,2015-02-01 16:14:00,Austin (TX),Wildlife,Normal,Bat,Unknown,1.0,Other,Black/Brown,2015-02-01 16:43:00,Unknown,1.0,1.0,0,Y,N
+A751006,Y,2017-06-03 11:47:00,Austin (TX),Stray,Normal,Cat,Intact Male,0.08333333333333333,Domestic Shorthair,Calico,2017-07-28 10:40:00,Neutered Male,0.25,0.0,54,N,Y
+A773230,Y,2018-05-29 13:26:00,Manor (TX),Stray,Normal,Dog,Intact Female,0.0054794520547945215,Other,Other,2018-07-18 17:03:00,Intact Female,0.08333333333333333,0.0,50,N,Y
+A739498,N,2016-12-03 15:18:00,Austin (TX),Stray,Normal,Cat,Intact Female,0.0576923076923077,Domestic Longhair,Blue Tabby,2016-12-03 17:25:00,Intact Female,0.0576923076923077,0.0,0,N,Y
+A708087,Y,2015-07-22 14:54:00,Austin (TX),Stray,Normal,Cat,Intact Female,0.07692307692307693,Domestic Shorthair,Brown Tabby/White,2015-08-23 19:33:00,Spayed Female,0.08333333333333333,0.0,32,N,Y
+A792210,N,2019-04-07 17:56:00,Austin (TX),Stray,Normal,Cat,Intact Male,0.07692307692307693,Domestic Shorthair,Brown Tabby,2019-06-06 14:37:00,Neutered Male,0.16666666666666666,0.0,59,N,Y
+A776469,N,2018-07-14 11:34:00,Austin (TX),Stray,Normal,Cat,Intact Female,1.0,Domestic Shorthair,Blue Tabby,2018-07-18 14:36:00,Intact Female,1.0,0.0,4,N,N
+A755102,Y,2017-07-29 11:49:00,Travis (TX),Stray,Normal,Cat,Spayed Female,8.0,Domestic Longhair,Torbie,2017-08-20 15:20:00,Spayed Female,8.0,0.0,22,N,N
+A732378,Y,2016-08-06 16:14:00,Austin (TX),Stray,Nursing,Cat,Intact Female,0.07692307692307693,Domestic Medium Hair,Calico,2016-12-07 14:51:00,Spayed Female,0.4166666666666667,0.0,122,N,Y
+A793191,Y,2019-04-20 17:19:00,Travis (TX),Stray,Normal,Dog,Spayed Female,4.0,German Shepherd Mix,Black/Tan,2019-04-21 12:24:00,Spayed Female,4.0,0.0,0,N,N
+A678667,Y,2014-05-11 14:46:00,Austin (TX),Owner Surrender,Normal,Cat,Intact Male,0.0,Domestic Shorthair,Blue,2014-08-04 13:53:00,Neutered Male,0.08333333333333333,0.0,84,N,Y
+A768797,Y,2018-03-25 11:16:00,Austin (TX),Stray,Normal,Dog,Intact Female,1.0,Pit Bull Mix,White,2018-05-04 15:55:00,Spayed Female,1.0,0.0,40,N,N
+A784074,N,2018-11-11 11:58:00,Austin (TX),Stray,Normal,Dog,Intact Female,0.16666666666666666,Australian Cattle Dog Mix,Brown/White,2019-02-01 18:01:00,Spayed Female,0.4166666666666667,0.0,82,N,Y
+A700599,Y,2015-04-16 15:31:00,Austin (TX),Stray,Normal,Dog,Spayed Female,12.0,Dachshund Mix,Other,2015-05-01 15:02:00,Spayed Female,12.0,0.0,14,N,N
+A794961,N,2019-05-14 13:58:00,Austin (TX),Stray,Nursing,Cat,Intact Male,0.038461538461538464,Domestic Shorthair,Other,2019-05-22 16:28:00,Intact Male,0.0576923076923077,0.0,8,N,Y
+A707697,N,2015-07-16 11:15:00,Austin (TX),Stray,Normal,Cat,Unknown,1.0,Domestic Medium Hair,Brown Tabby,2015-07-17 09:00:00,Unknown,1.0,0.0,0,N,N
+A805796,N,2019-10-02 11:38:00,Austin (TX),Stray,Normal,Dog,Intact Male,5.0,Other,Black/White,2019-10-10 16:07:00,Neutered Male,5.0,0.0,8,N,N
+A775616,Y,2018-07-02 17:38:00,Austin (TX),Stray,Normal,Dog,Intact Female,3.0,Other,Other,2018-07-05 14:09:00,Intact Female,3.0,0.0,2,N,N
+A787301,Y,2019-01-10 18:15:00,Austin (TX),Stray,Normal,Dog,Intact Male,1.0,Other,Other,2019-01-11 12:17:00,Intact Male,2.0,0.0,0,N,N
+A775615,N,2018-07-02 16:56:00,Austin (TX),Stray,Normal,Cat,Intact Male,1.0,Domestic Shorthair,Other,2018-07-06 18:35:00,Intact Male,1.0,0.0,4,N,N
+A678154,Y,2014-05-04 17:53:00,Austin (TX),Stray,Injured,Cat,Neutered Male,0.3333333333333333,Domestic Shorthair,Brown Tabby,2014-05-07 13:06:00,Neutered Male,0.4166666666666667,0.0,2,N,Y
+A691543,Y,2014-11-06 10:59:00,Outside Jurisdiction,Stray,Normal,Dog,Intact Male,1.0,Other,Other,2014-11-11 13:44:00,Neutered Male,1.0,0.0,5,N,N
+A811878,Y,2020-01-11 11:31:00,Travis (TX),Owner Surrender,Normal,Dog,Intact Female,0.08333333333333333,Labrador Retriever Mix,Black/White,2020-01-12 17:18:00,Spayed Female,0.16666666666666666,0.0,1,N,Y
+A709178,Y,2015-08-05 16:00:00,Austin (TX),Stray,Normal,Cat,Neutered Male,1.0,Domestic Shorthair,Brown Tabby,2015-09-10 17:02:00,Neutered Male,1.0,0.0,36,N,N
+A801307,Y,2019-08-02 14:33:00,Travis (TX),Public Assist,Normal,Dog,Intact Male,0.4166666666666667,Other,White/Tan,2019-08-06 16:57:00,Neutered Male,0.5,0.0,4,N,Y
+A705421,Y,2015-07-26 11:23:00,Travis (TX),Owner Surrender,Normal,Dog,Neutered Male,0.4166666666666667,Other,Tricolor,2015-07-29 18:06:00,Neutered Male,0.4166666666666667,0.0,3,N,Y
+A759928,Y,2017-10-09 18:02:00,Austin (TX),Stray,Normal,Dog,Neutered Male,3.0,Other,Black/White,2017-10-09 19:02:00,Neutered Male,3.0,0.0,0,N,N
+A771200,N,2018-05-01 18:32:00,Austin (TX),Stray,Normal,Cat,Unknown,1.0,Domestic Medium Hair,Orange Tabby,2018-05-05 19:20:00,Unknown,1.0,0.0,4,N,N
+A686063,N,2014-08-16 09:15:00,Austin (TX),Stray,Injured,Cat,Neutered Male,2.0,Domestic Medium Hair,Black,2014-08-16 10:16:00,Neutered Male,2.0,1.0,0,N,N
+A714669,Y,2015-12-01 15:29:00,Austin (TX),Stray,Normal,Dog,Intact Male,2.0,Pit Bull Mix,Black/White,2015-12-05 15:56:00,Intact Male,2.0,0.0,4,N,N
+A704799,N,2015-06-09 11:30:00,Austin (TX),Stray,Normal,Cat,Intact Female,0.019230769230769232,Domestic Shorthair,Blue Tabby,2015-06-20 12:29:00,Intact Female,0.0576923076923077,0.0,11,N,Y
+A780699,Y,2018-09-19 08:59:00,Austin (TX),Stray,Normal,Dog,Intact Male,2.0,Pit Bull Mix,Black/White,2018-10-31 14:28:00,Intact Male,2.0,0.0,42,N,N
+A687264,Y,2014-09-02 16:00:00,Austin (TX),Owner Surrender,Normal,Dog,Intact Female,0.5,Other,Tan,2014-09-03 13:51:00,Intact Female,0.5,0.0,0,N,Y
+A707033,Y,2015-07-07 09:11:00,Austin (TX),Stray,Normal,Dog,Intact Male,4.0,Other,White,2015-07-12 16:53:00,Neutered Male,4.0,0.0,5,N,N
+A699298,Y,2015-03-25 12:13:00,Austin (TX),Stray,Normal,Dog,Intact Male,2.0,Pit Bull Mix,Black/White,2015-04-02 12:47:00,Neutered Male,2.0,0.0,8,N,N
+A714807,Y,2016-05-10 08:08:00,Austin (TX),Stray,Normal,Dog,Intact Male,2.0,Pit Bull Mix,Brown Brindle/White,2016-07-03 15:07:00,Neutered Male,2.0,0.0,54,N,N
+A695919,Y,2015-01-25 14:35:00,Austin (TX),Stray,Normal,Dog,Intact Male,2.0,Boxer Mix,Other,2015-02-01 13:24:00,Neutered Male,2.0,0.0,6,N,N
+A712049,N,2015-09-16 11:05:00,Austin (TX),Stray,Normal,Cat,Intact Female,0.25,Domestic Shorthair,Tortie,2015-09-17 09:00:00,Intact Female,0.25,0.0,0,N,Y
+A709341,Y,2015-08-07 14:55:00,Austin (TX),Stray,Normal,Dog,Spayed Female,13.0,Chihuahua Shorthair Mix,Black/Tan,2015-08-07 18:13:00,Spayed Female,13.0,0.0,0,N,N
+A677862,N,2014-04-30 13:09:00,Austin (TX),Stray,Normal,Cat,Unknown,1.0,Domestic Shorthair,Blue,2014-05-01 16:28:00,Unknown,1.0,0.0,1,N,N
+A705756,Y,2015-06-20 18:23:00,Austin (TX),Stray,Normal,Cat,Intact Female,0.08333333333333333,Domestic Shorthair,Calico,2015-07-19 18:07:00,Spayed Female,0.16666666666666666,0.0,28,N,Y
+A679090,Y,2014-05-16 12:44:00,Austin (TX),Stray,Normal,Dog,Intact Male,4.0,Other,Other,2014-05-22 16:16:00,Neutered Male,4.0,0.0,6,N,N
+A670973,Y,2014-01-16 23:34:00,Travis (TX),Stray,Normal,Dog,Intact Male,1.0,Labrador Retriever Mix,Black,2014-02-02 11:18:00,Neutered Male,1.0,0.0,16,N,N
+A751139,Y,2017-06-04 13:57:00,Austin (TX),Owner Surrender,Normal,Cat,Intact Female,0.07692307692307693,Domestic Shorthair,Black,2017-07-28 22:38:00,Spayed Female,0.16666666666666666,0.0,54,N,Y
+A709667,N,2015-08-12 07:32:00,Austin (TX),Stray,Sick,Dog,Intact Male,0.08333333333333333,Labrador Retriever Mix,Black/White,2015-08-12 11:40:00,Intact Male,0.08333333333333333,0.0,0,N,Y
+A751220,Y,2017-06-05 13:26:00,Austin (TX),Stray,Normal,Dog,Intact Female,0.75,Chihuahua Shorthair Mix,White/Tan,2017-06-10 16:53:00,Spayed Female,0.8333333333333334,0.0,5,N,Y
+A728707,Y,2016-06-11 18:17:00,Austin (TX),Owner Surrender,Normal,Dog,Neutered Male,0.16666666666666666,Other,Other,2016-12-09 09:44:00,Neutered Male,0.6666666666666666,0.0,130,N,Y
+A740060,Y,2016-12-10 15:50:00,Austin (TX),Stray,Normal,Cat,Intact Female,1.0,Domestic Shorthair,Brown Tabby,2017-01-21 15:26:00,Spayed Female,1.0,0.0,41,N,N
+A705784,N,2015-07-02 12:00:00,Austin (TX),Stray,Normal,Cat,Spayed Female,0.8333333333333334,Domestic Shorthair,Brown Tabby/White,2015-08-24 11:00:00,Spayed Female,1.0,0.0,52,N,Y
+A801962,Y,2019-08-12 13:42:00,Austin (TX),Stray,Normal,Cat,Intact Female,2.0,Domestic Shorthair,Orange Tabby,2019-10-07 17:58:00,Spayed Female,2.0,0.0,56,N,N
+A788240,Y,2019-01-29 00:41:00,Travis (TX),Public Assist,Injured,Dog,Neutered Male,6.0,Other,Blue,2019-01-29 08:47:00,Neutered Male,6.0,0.0,0,N,N
+A743367,N,2017-02-11 11:33:00,Austin (TX),Stray,Normal,Dog,Intact Female,2.0,Other,Black/Tan,2017-02-15 17:18:00,Spayed Female,2.0,0.0,4,N,N
+A742754,Y,2017-03-27 18:19:00,Austin (TX),Owner Surrender,Normal,Dog,Spayed Female,5.0,Miniature Poodle Mix,Other,2017-03-28 12:26:00,Spayed Female,5.0,0.0,0,N,N
+A691731,Y,2014-11-08 14:50:00,Austin (TX),Stray,Normal,Dog,Spayed Female,2.0,Pit Bull Mix,White/Tan,2014-12-31 15:32:00,Spayed Female,2.0,0.0,53,N,N
+A723714,N,2016-04-05 13:30:00,Austin (TX),Stray,Normal,Cat,Intact Female,0.0027397260273972607,Domestic Shorthair,Brown Tabby/White,2016-04-05 14:42:00,Intact Female,0.0027397260273972607,0.0,0,N,Y
+A679611,N,2014-05-23 16:47:00,Austin (TX),Stray,Normal,Dog,Intact Male,3.0,Other,Other,2014-06-09 11:05:00,Intact Male,3.0,1.0,16,N,N
+A803058,N,2019-08-26 17:36:00,Austin (TX),Stray,Normal,Cat,Intact Male,2.0,Domestic Shorthair,Other,2019-08-30 10:49:00,Intact Male,2.0,0.0,3,N,N
+A760158,Y,2017-10-13 15:18:00,Austin (TX),Stray,Normal,Dog,Intact Female,0.5833333333333334,Labrador Retriever Mix,Other,2017-10-23 17:15:00,Spayed Female,0.5833333333333334,0.0,10,N,Y
+A710407,N,2015-08-22 14:42:00,Austin (TX),Stray,Normal,Hamster,Unknown,1.0,Other,Brown,2015-08-27 00:00:00,Unknown,1.0,0.0,4,N,N
+A724067,Y,2016-04-11 10:53:00,Austin (TX),Owner Surrender,Normal,Dog,Spayed Female,6.0,Australian Kelpie Mix,Black/Tan,2016-04-11 18:50:00,Spayed Female,6.0,0.0,0,N,N
+A790093,Y,2019-03-04 16:20:00,Austin (TX),Stray,Normal,Dog,Intact Female,2.0,Staffordshire Mix,Black/White,2019-06-19 19:24:00,Spayed Female,2.0,0.0,107,N,N
+A689908,Y,2014-10-11 11:47:00,Leander (TX),Owner Surrender,Normal,Cat,Intact Female,0.3333333333333333,Domestic Shorthair,Brown Tabby,2014-10-19 17:30:00,Spayed Female,0.3333333333333333,0.0,8,N,Y
+A683135,N,2014-07-07 16:39:00,Austin (TX),Stray,Normal,Cat,Intact Female,2.0,Domestic Medium Hair,Black/White,2014-07-08 09:00:00,Intact Female,2.0,0.0,0,N,N
+A714545,N,2015-10-25 07:46:00,Austin (TX),Stray,Normal,Cat,Intact Male,0.16666666666666666,Domestic Shorthair,Other,2015-11-03 17:50:00,Neutered Male,0.16666666666666666,0.0,9,N,Y
+A665174,Y,2013-10-14 16:28:00,Austin (TX),Owner Surrender,Normal,Dog,Neutered Male,2.0,Pit Bull Mix,Brown Brindle/White,2013-12-02 15:56:00,Neutered Male,2.0,0.0,48,N,N
+A799660,Y,2019-07-10 17:33:00,Austin (TX),Stray,Nursing,Dog,Intact Male,0.00821917808219178,Labrador Retriever Mix,Brown,2019-07-10 19:29:00,Intact Male,0.00821917808219178,0.0,0,N,Y
+A767062,N,2018-02-22 14:02:00,Austin (TX),Stray,Normal,Dog,Intact Female,1.0,Chihuahua Shorthair Mix,White/Chocolate,2018-02-26 17:07:00,Spayed Female,1.0,0.0,4,N,N
+A750322,Y,2019-02-25 14:44:00,Austin (TX),Stray,Normal,Dog,Intact Female,10.0,Pit Bull Mix,Brown/White,2019-02-25 15:30:00,Intact Female,10.0,0.0,0,N,N
+A718703,N,2016-01-05 15:11:00,Austin (TX),Stray,Normal,Lizard,Unknown,1.0,Other,Other,2016-01-12 13:18:00,Unknown,1.0,0.0,6,N,N
+A702632,N,2015-05-16 12:41:00,Austin (TX),Stray,Normal,Dog,Intact Male,0.08333333333333333,Labrador Retriever Mix,Black/White,2015-05-20 17:42:00,Neutered Male,0.16666666666666666,0.0,4,N,Y
+A794726,N,2019-05-11 13:34:00,Austin (TX),Owner Surrender,Normal,Dog,Intact Male,0.08333333333333333,Other,Black,2019-05-12 18:37:00,Neutered Male,0.16666666666666666,0.0,1,N,Y
+A729648,Y,2016-06-21 15:28:00,Austin (TX),Stray,Normal,Dog,Intact Male,5.0,Pit Bull Mix,Blue/White,2016-08-28 00:00:00,Neutered Male,5.0,0.0,67,N,N
+A675673,N,2014-03-31 12:23:00,Austin (TX),Stray,Normal,Dog,Intact Female,2.0,Other,Other,2014-04-06 17:23:00,Spayed Female,2.0,0.0,6,N,N
+A762867,Y,2017-11-28 23:26:00,Austin (TX),Public Assist,Normal,Dog,Neutered Male,3.0,Jack Russell Terrier Mix,White/Tan,2017-11-29 17:08:00,Neutered Male,3.0,0.0,0,N,N
+A792674,Y,2019-04-13 17:57:00,Austin (TX),Stray,Normal,Cat,Spayed Female,1.0,Domestic Shorthair,Calico,2019-04-14 11:21:00,Spayed Female,1.0,0.0,0,N,N
+A737305,Y,2016-10-31 10:18:00,Austin (TX),Owner Surrender,Normal,Dog,Neutered Male,1.0,Pit Bull Mix,Other,2016-12-27 18:53:00,Neutered Male,1.0,0.0,57,N,N
+A750413,Y,2017-05-26 18:25:00,Austin (TX),Owner Surrender,Normal,Cat,Intact Male,1.0,Domestic Shorthair,Brown Tabby/White,2017-05-27 15:14:00,Intact Male,1.0,0.0,0,N,N
+A754162,Y,2017-07-16 16:01:00,Austin (TX),Stray,Normal,Cat,Spayed Female,4.0,Domestic Shorthair,Other,2017-07-17 13:21:00,Spayed Female,4.0,0.0,0,N,N
+A502125,Y,2015-11-03 13:11:00,Austin (TX),Public Assist,Normal,Dog,Spayed Female,7.0,Labrador Retriever,Black/White,2015-11-13 12:08:00,Spayed Female,7.0,0.0,9,N,N
+A786995,Y,2019-04-23 13:48:00,Austin (TX),Stray,Normal,Dog,Intact Male,1.0,Other,Blue,2019-07-17 17:25:00,Neutered Male,1.0,0.0,85,N,N
+A705675,Y,2015-06-20 11:35:00,Valle (TX),Stray,Normal,Dog,Intact Male,2.0,Chihuahua Shorthair Mix,Brown/White,2015-07-02 10:16:00,Intact Male,2.0,0.0,11,N,N
+A665672,Y,2013-10-21 15:19:00,Outside Jurisdiction,Stray,Normal,Cat,Intact Female,1.0,Domestic Shorthair,Tortie,2013-11-03 11:40:00,Intact Female,1.0,0.0,12,N,N
+A687012,Y,2016-02-04 13:42:00,Austin (TX),Owner Surrender,Normal,Dog,Spayed Female,3.0,Other,Black,2016-02-07 14:54:00,Spayed Female,3.0,0.0,3,N,N
+A713450,Y,2015-10-07 10:39:00,Austin (TX),Public Assist,Normal,Dog,Neutered Male,2.0,German Shepherd Mix,Black/Tan,2015-10-07 18:30:00,Neutered Male,2.0,0.0,0,N,N
+A717518,Y,2015-12-09 13:48:00,Austin (TX),Stray,Normal,Dog,Intact Female,0.08333333333333333,Australian Cattle Dog Mix,Other,2015-12-13 19:01:00,Spayed Female,0.16666666666666666,0.0,4,N,Y
+A721867,Y,2016-03-06 11:41:00,Leander (TX),Owner Surrender,Normal,Dog,Intact Female,0.08333333333333333,Australian Cattle Dog Mix,Brown/White,2016-03-08 18:48:00,Spayed Female,0.16666666666666666,0.0,2,N,Y
+A728879,Y,2016-06-09 23:44:00,Austin (TX),Stray,Sick,Cat,Spayed Female,17.0,Domestic Shorthair,Brown Tabby,2016-06-11 13:01:00,Spayed Female,17.0,0.0,1,N,N
+A732967,Y,2016-08-15 15:42:00,Travis (TX),Stray,Normal,Dog,Intact Female,1.0,Pit Bull Mix,Brown/White,2016-11-07 16:40:00,Spayed Female,1.0,0.0,84,N,N
+A761473,N,2017-11-05 14:11:00,Austin (TX),Stray,Normal,Cat,Intact Male,0.07692307692307693,Siamese Mix,Other,2017-12-15 07:47:00,Neutered Male,0.16666666666666666,0.0,39,N,Y
+A798368,N,2019-06-25 11:15:00,Austin (TX),Stray,Normal,Cat,Intact Male,0.16666666666666666,Domestic Shorthair,White/Orange Tabby,2019-06-30 14:08:00,Neutered Male,0.16666666666666666,0.0,5,N,Y
+A763578,Y,2017-12-11 12:35:00,Austin (TX),Owner Surrender,Normal,Cat,Intact Female,0.16666666666666666,Domestic Shorthair,Tortie,2017-12-13 12:37:00,Spayed Female,0.16666666666666666,0.0,2,N,Y
+A761924,Y,2017-11-11 16:14:00,Austin (TX),Stray,Normal,Cat,Intact Male,0.08333333333333333,Domestic Medium Hair,Black/White,2017-12-20 08:09:00,Neutered Male,0.16666666666666666,0.0,38,N,Y
+A712044,Y,2015-09-16 10:55:00,Austin (TX),Stray,Normal,Dog,Intact Male,0.16666666666666666,Other,Other,2015-09-22 18:09:00,Neutered Male,0.16666666666666666,0.0,6,N,Y
+A776958,N,2018-07-21 13:42:00,Travis (TX),Public Assist,Normal,Dog,Intact Female,3.0,Other,Black/Brown,2018-08-03 16:04:00,Intact Female,3.0,0.0,13,N,N
+A691031,Y,2014-10-29 12:06:00,Austin (TX),Euthanasia Request,Sick,Cat,Intact Female,0.25,Domestic Shorthair,Black/White,2014-11-01 14:47:00,Intact Female,0.25,0.0,3,N,Y
+A762409,N,2017-11-20 08:11:00,Austin (TX),Stray,Sick,Dog,Intact Male,2.0,Chihuahua Shorthair Mix,Brown/White,2017-11-20 15:11:00,Intact Male,2.0,0.0,0,N,N
+A692741,N,2014-11-24 18:44:00,Travis (TX),Stray,Normal,Cat,Intact Female,0.6666666666666666,Domestic Shorthair,Black,2014-11-25 09:00:00,Intact Female,0.6666666666666666,0.0,0,N,Y
+A748669,Y,2017-05-05 11:21:00,Austin (TX),Stray,Normal,Cat,Intact Female,0.0576923076923077,Domestic Shorthair,Torbie,2017-06-14 17:11:00,Spayed Female,0.16666666666666666,0.0,40,N,Y
+A610260,Y,2017-06-17 18:48:00,Austin (TX),Stray,Normal,Dog,Spayed Female,5.0,Other,Other,2017-06-20 11:44:00,Spayed Female,5.0,0.0,2,N,N
+A678815,Y,2014-05-13 11:05:00,Austin (TX),Stray,Normal,Cat,Intact Female,0.08333333333333333,Domestic Shorthair,Brown Tabby/White,2014-06-19 16:35:00,Spayed Female,0.16666666666666666,0.0,37,N,Y
+A772782,N,2018-05-23 13:55:00,Travis (TX),Stray,Normal,Dog,Intact Female,0.16666666666666666,Labrador Retriever Mix,Brown/White,2018-05-30 18:55:00,Spayed Female,0.16666666666666666,0.0,7,N,Y
+A751963,N,2017-06-16 07:50:00,Austin (TX),Stray,Normal,Dog,Intact Male,3.0,Other,Black/Tan,2017-06-22 18:27:00,Neutered Male,3.0,0.0,6,N,N
+A807666,Y,2019-10-28 11:10:00,Austin (TX),Stray,Normal,Dog,Intact Female,0.25,Other,Tricolor,2019-11-03 17:53:00,Spayed Female,0.25,0.0,6,N,Y
+A674107,Y,2014-03-07 13:15:00,Travis (TX),Stray,Aged,Dog,Spayed Female,10.0,Labrador Retriever Mix,Other,2014-03-14 12:43:00,Spayed Female,10.0,0.0,6,N,N
+A737481,Y,2016-10-29 14:09:00,Austin (TX),Stray,Normal,Cat,Intact Female,0.16666666666666666,Domestic Medium Hair,Orange Tabby,2016-11-06 13:20:00,Intact Female,0.16666666666666666,0.0,7,N,Y
+A696950,N,2015-02-15 11:18:00,Austin (TX),Stray,Normal,Cat,Spayed Female,2.0,Domestic Shorthair,Tortie,2015-02-16 09:00:00,Spayed Female,2.0,0.0,0,N,N
+A794696,Y,2019-05-11 10:55:00,Manor (TX),Stray,Normal,Dog,Intact Male,2.0,Other,Other,2019-05-22 13:11:00,Intact Male,2.0,0.0,11,N,N
+A684570,Y,2014-07-25 15:21:00,Austin (TX),Stray,Normal,Cat,Intact Male,0.0576923076923077,Domestic Medium Hair,Blue,2014-10-18 18:05:00,Neutered Male,0.25,0.0,85,N,Y
+A751098,N,2017-06-04 11:44:00,Pflugerville (TX),Stray,Normal,Dog,Intact Female,0.16666666666666666,Beagle Mix,Black/Tan,2017-06-08 18:40:00,Spayed Female,0.16666666666666666,0.0,4,N,Y
+A722007,Y,2016-03-09 09:28:00,Austin (TX),Stray,Injured,Dog,Intact Male,2.0,Chihuahua Shorthair Mix,Tricolor,2016-07-29 10:34:00,Neutered Male,2.0,0.0,130,N,N
+A770933,N,2018-04-27 12:32:00,Austin (TX),Stray,Normal,Dog,Intact Male,8.0,Yorkshire Terrier Mix,Other,2018-04-30 16:20:00,Intact Male,8.0,0.0,3,N,N
+A773004,Y,2018-05-26 11:39:00,Austin (TX),Stray,Normal,Dog,Intact Male,1.0,Chihuahua Shorthair Mix,Other,2018-05-31 15:30:00,Neutered Male,1.0,0.0,5,N,N
+A737750,Y,2016-11-03 18:13:00,Austin (TX),Stray,Normal,Cat,Intact Female,0.08333333333333333,Domestic Shorthair,Brown Tabby,2016-11-10 18:28:00,Intact Female,0.08333333333333333,0.0,7,N,Y
+A784029,Y,2018-11-10 13:55:00,Austin (TX),Stray,Injured,Dog,Intact Female,5.0,Other,Brown/White,2018-11-14 14:28:00,Intact Female,5.0,0.0,4,N,N
+A585942,Y,2013-10-27 15:59:00,Austin (TX),Stray,Normal,Dog,Neutered Male,8.0,Rat Terrier Mix,Brown/White,2014-02-22 17:24:00,Neutered Male,8.0,0.0,118,N,N
+A775809,N,2018-07-05 10:59:00,Austin (TX),Stray,Normal,Cat,Intact Female,0.08333333333333333,Siamese Mix,Other,2018-07-05 14:51:00,Intact Female,0.08333333333333333,0.0,0,N,Y
+A795311,N,2019-05-19 12:21:00,Austin (TX),Stray,Normal,Cat,Unknown,2.0,Domestic Shorthair,Blue/White,2019-05-23 00:00:00,Unknown,2.0,0.0,3,N,N
+A788484,Y,2019-03-02 16:33:00,Outside Jurisdiction,Owner Surrender,Normal,Dog,Spayed Female,1.0,Other,White,2019-03-02 19:17:00,Spayed Female,1.0,0.0,0,N,N
+A691716,Y,2014-11-30 11:46:00,Austin (TX),Owner Surrender,Normal,Dog,Spayed Female,5.0,Labrador Retriever Mix,Black/White,2014-12-04 17:02:00,Spayed Female,5.0,0.0,4,N,N
+A737721,N,2016-11-03 11:55:00,Austin (TX),Stray,Normal,Dog,Intact Female,0.3333333333333333,Chihuahua Shorthair Mix,Black/White,2016-11-05 17:28:00,Intact Female,0.3333333333333333,0.0,2,N,Y
+A687302,Y,2014-09-03 11:42:00,Austin (TX),Owner Surrender,Normal,Dog,Neutered Male,3.0,Other,Black/Tan,2014-09-09 09:53:00,Neutered Male,3.0,1.0,5,N,N
+A743066,Y,2017-12-26 11:01:00,Austin (TX),Stray,Normal,Dog,Spayed Female,4.0,German Shepherd Mix,White,2017-12-26 11:47:00,Spayed Female,4.0,0.0,0,N,N
+A797766,Y,2019-06-17 15:07:00,Austin (TX),Stray,Normal,Dog,Intact Female,0.5,Labrador Retriever Mix,White/Tan,2019-06-28 10:27:00,Intact Female,0.5833333333333334,0.0,10,N,Y
+A783358,Y,2018-10-29 14:47:00,Austin (TX),Stray,Normal,Dog,Intact Male,2.0,German Shepherd Mix,Black/Tan,2018-11-25 17:47:00,Neutered Male,2.0,0.0,27,N,N
+A789296,Y,2019-02-18 18:49:00,Austin (TX),Owner Surrender,Normal,Cat,Spayed Female,10.0,Domestic Longhair,Other,2019-12-07 11:18:00,Spayed Female,10.0,0.0,130,N,N
+A628569,Y,2014-09-16 11:22:00,Austin (TX),Owner Surrender,Normal,Cat,Neutered Male,2.0,Domestic Shorthair,Orange Tabby,2014-09-17 14:07:00,Neutered Male,2.0,0.0,1,N,N
+A755864,Y,2017-08-10 07:34:00,Austin (TX),Stray,Normal,Dog,Intact Female,1.0,Chihuahua Shorthair Mix,Tricolor,2017-08-14 17:07:00,Spayed Female,1.0,0.0,4,N,N
+A768197,Y,2018-03-14 15:11:00,Austin (TX),Stray,Injured,Dog,Spayed Female,2.0,Labrador Retriever Mix,Other,2018-05-02 15:37:00,Spayed Female,2.0,0.0,49,N,N
+A746431,N,2017-04-03 08:26:00,Austin (TX),Stray,Normal,Dog,Intact Female,1.0,Labrador Retriever Mix,Black,2017-04-07 17:41:00,Spayed Female,1.0,0.0,4,N,N
+A745760,Y,2017-08-18 11:09:00,Travis (TX),Stray,Normal,Dog,Neutered Male,6.0,Dachshund Mix,Brown/White,2017-08-23 18:42:00,Neutered Male,6.0,0.0,5,N,N
+A669385,Y,2013-12-19 15:41:00,Austin (TX),Stray,Normal,Dog,Spayed Female,3.0,Australian Kelpie Mix,Black,2014-01-01 18:34:00,Spayed Female,3.0,0.0,13,N,N
+A805250,Y,2019-09-24 14:34:00,Austin (TX),Owner Surrender,Normal,Cat,Intact Female,6.0,Domestic Shorthair,Brown Tabby/White,2019-09-25 15:31:00,Intact Female,6.0,0.0,1,N,N
+A729912,Y,2016-06-25 14:07:00,Austin (TX),Stray,Normal,Dog,Neutered Male,6.0,Other,Brown/White,2016-06-29 18:59:00,Neutered Male,6.0,0.0,4,N,N
+A701835,N,2015-05-05 11:09:00,Pflugerville (TX),Stray,Normal,Cat,Unknown,0.01643835616438356,Domestic Shorthair,Black,2015-05-05 13:26:00,Unknown,0.01643835616438356,0.0,0,N,Y
+A647241,Y,2016-10-09 15:57:00,Austin (TX),Stray,Normal,Dog,Intact Male,5.0,German Shepherd Mix,Black,2016-10-09 17:38:00,Intact Male,5.0,0.0,0,N,N
+A745790,Y,2017-03-24 09:52:00,Austin (TX),Owner Surrender,Normal,Dog,Intact Female,4.0,Other,Other,2017-03-25 11:29:00,Intact Female,4.0,0.0,1,N,N
+A682936,N,2014-07-05 08:02:00,Austin (TX),Stray,Nursing,Cat,Intact Male,0.038461538461538464,Domestic Shorthair,Brown Tabby/White,2014-07-05 12:42:00,Intact Male,0.038461538461538464,0.0,0,N,Y
+A810536,Y,2019-12-15 11:48:00,Travis (TX),Stray,Normal,Dog,Intact Male,0.08333333333333333,Other,Black/Brown,2019-12-19 17:26:00,Neutered Male,0.16666666666666666,0.0,4,N,Y
+A803156,N,2019-08-28 11:29:00,Austin (TX),Stray,Normal,Cat,Intact Female,1.0,Domestic Shorthair,Tortie,2019-08-31 16:43:00,Intact Female,1.0,0.0,3,N,N
+A732240,N,2016-08-04 15:58:00,Austin (TX),Stray,Normal,Cat,Unknown,0.0576923076923077,Domestic Shorthair,Black/White,2016-08-04 19:04:00,Unknown,0.0576923076923077,0.0,0,N,Y
+A697352,Y,2015-02-22 11:20:00,Austin (TX),Stray,Normal,Dog,Neutered Male,0.75,Other,Brown,2015-02-22 14:07:00,Neutered Male,0.75,0.0,0,N,Y
+A683120,N,2014-07-07 15:04:00,Lakeway (TX),Stray,Normal,Cat,Intact Male,0.16666666666666666,Siamese Mix,Other,2014-07-08 11:56:00,Intact Male,0.16666666666666666,0.0,0,N,Y
+A801221,Y,2019-08-01 14:43:00,Austin (TX),Stray,Normal,Cat,Intact Female,5.0,Domestic Medium Hair,Brown Tabby,2019-08-26 14:54:00,Intact Female,5.0,0.0,25,N,N
+A664857,N,2013-10-10 07:47:00,Austin (TX),Stray,Normal,Cat,Intact Male,0.5,Domestic Shorthair,Black/White,2013-10-14 17:34:00,Neutered Male,0.5,0.0,4,N,Y
+A679935,Y,2014-05-28 12:02:00,Austin (TX),Stray,Normal,Cat,Intact Male,0.08333333333333333,Other,Other,2014-06-01 17:34:00,Neutered Male,0.16666666666666666,0.0,4,N,Y
+A701287,N,2015-04-27 11:08:00,Austin (TX),Stray,Normal,Cat,Intact Female,0.038461538461538464,Domestic Shorthair,Calico,2015-04-27 13:33:00,Intact Female,0.038461538461538464,0.0,0,N,Y
+A680862,N,2014-06-09 11:40:00,Austin (TX),Stray,Normal,Bird,Unknown,0.038461538461538464,Other,Other,2014-06-10 00:00:00,Unknown,0.038461538461538464,0.0,0,N,Y
+A736653,Y,2016-10-14 15:58:00,Austin (TX),Public Assist,Other,Dog,Neutered Male,2.0,Pit Bull Mix,Brown Brindle/White,2016-10-17 11:22:00,Neutered Male,2.0,0.0,2,N,N
+A780836,Y,2018-09-20 17:00:00,Austin (TX),Stray,Normal,Dog,Intact Female,0.07692307692307693,Pit Bull Mix,Other,2018-10-23 15:00:00,Spayed Female,0.16666666666666666,0.0,32,N,Y
+A672159,Y,2014-02-05 10:58:00,Austin (TX),Owner Surrender,Normal,Cat,Intact Female,0.08333333333333333,Domestic Shorthair,Torbie,2014-03-29 12:17:00,Spayed Female,0.25,0.0,52,N,Y
+A753933,Y,2017-07-13 11:30:00,Austin (TX),Stray,Normal,Dog,Intact Male,0.5833333333333334,Beagle Mix,Black,2017-07-18 17:41:00,Neutered Male,0.6666666666666666,0.0,5,N,Y
+A802999,N,2019-08-25 22:58:00,Travis (TX),Public Assist,Normal,Bat,Unknown,1.0,Other,Brown,2019-08-26 12:09:00,Unknown,1.0,1.0,0,Y,N
+A806602,Y,2019-10-13 10:57:00,Austin (TX),Stray,Normal,Dog,Intact Female,0.08333333333333333,Australian Cattle Dog Mix,Brown/White,2019-11-26 15:59:00,Spayed Female,0.25,0.0,44,N,Y
+A687441,Y,2014-09-05 11:34:00,Park (TX),Public Assist,Normal,Dog,Neutered Male,3.0,Other,Brown/White,2014-09-12 11:49:00,Neutered Male,3.0,0.0,7,N,N
+A666600,N,2013-11-04 13:40:00,Austin (TX),Owner Surrender,Normal,Dog,Intact Male,0.0,Other,White,2013-11-04 14:54:00,Intact Male,0.0,0.0,0,N,Y
+A760944,Y,2017-10-26 14:04:00,Austin (TX),Owner Surrender,Normal,Cat,Intact Female,0.25,Domestic Shorthair,Black/White,2017-10-30 17:19:00,Spayed Female,0.25,0.0,4,N,Y
+A780262,N,2018-09-12 10:20:00,Austin (TX),Stray,Normal,Cat,Neutered Male,9.0,Domestic Shorthair,Brown Tabby,2018-09-15 14:42:00,Neutered Male,9.0,0.0,3,N,N
+A712521,N,2015-09-24 15:50:00,Austin (TX),Wildlife,Sick,Skunk,Unknown,2.0,Other,Black/White,2015-09-24 15:57:00,Unknown,2.0,1.0,0,Y,N
+A799491,Y,2019-07-09 12:52:00,Pflugerville (TX),Stray,Normal,Cat,Intact Male,0.08333333333333333,Domestic Medium Hair,Orange Tabby,2019-07-13 17:33:00,Neutered Male,0.16666666666666666,0.0,4,N,Y
+A801251,N,2019-08-02 07:37:00,Austin (TX),Stray,Normal,Cat,Unknown,0.038461538461538464,Domestic Shorthair,Black,2019-08-02 13:03:00,Unknown,0.038461538461538464,0.0,0,N,Y
+A734236,N,2016-09-03 13:06:00,Austin (TX),Stray,Normal,Dog,Unknown,0.5,Cairn Terrier Mix,Other,2016-09-05 11:49:00,Unknown,0.5,0.0,1,N,Y
+A767661,Y,2018-03-05 11:06:00,Austin (TX),Stray,Normal,Dog,Intact Female,2.0,Labrador Retriever Mix,Black,2018-03-07 14:34:00,Intact Female,2.0,0.0,2,N,N
+A780514,N,2018-09-16 11:12:00,Travis (TX),Stray,Normal,Dog,Intact Female,0.16666666666666666,Rat Terrier Mix,Brown/White,2018-09-20 16:51:00,Spayed Female,0.16666666666666666,0.0,4,N,Y
+A736200,Y,2016-10-06 14:39:00,Austin (TX),Stray,Sick,Dog,Intact Female,0.08333333333333333,Labrador Retriever Mix,White,2016-10-11 12:18:00,Intact Female,0.16666666666666666,0.0,4,N,Y
+A712787,Y,2015-09-28 12:47:00,Austin (TX),Owner Surrender,Normal,Cat,Spayed Female,7.0,Domestic Shorthair,Calico,2015-11-02 17:00:00,Spayed Female,7.0,0.0,35,N,N
+A697538,Y,2015-02-25 11:48:00,Austin (TX),Stray,Normal,Dog,Intact Male,5.0,Other,Other,2015-03-01 17:51:00,Neutered Male,5.0,0.0,4,N,N
+A738927,Y,2016-11-23 14:57:00,Austin (TX),Stray,Normal,Dog,Intact Female,1.0,German Shepherd Mix,Other,2016-11-28 14:17:00,Intact Female,1.0,0.0,4,N,N
+A759270,N,2017-09-29 00:00:00,Valle (TX),Stray,Normal,Cat,Unknown,0.07692307692307693,Domestic Shorthair,Other,2017-09-29 18:00:00,Unknown,0.07692307692307693,0.0,0,N,Y
+A751504,Y,2017-06-09 08:38:00,Austin (TX),Stray,Feral,Cat,Intact Male,0.08333333333333333,Domestic Shorthair,Black,2017-07-08 11:51:00,Intact Male,0.16666666666666666,0.0,29,N,Y
+A638232,Y,2015-02-26 13:49:00,Austin (TX),Stray,Normal,Cat,Spayed Female,2.0,Domestic Shorthair,Black,2015-02-27 12:15:00,Spayed Female,2.0,0.0,0,N,N
+A799129,Y,2019-07-05 12:59:00,Austin (TX),Stray,Normal,Dog,Intact Male,0.08333333333333333,Labrador Retriever Mix,Tricolor,2019-07-27 15:14:00,Neutered Male,0.16666666666666666,0.0,22,N,Y
+A727575,N,2016-05-23 12:54:00,Austin (TX),Stray,Sick,Dog,Intact Female,0.16666666666666666,Labrador Retriever Mix,White/Tan,2016-05-23 18:28:00,Intact Female,0.16666666666666666,0.0,0,N,Y
+A733242,N,2016-08-19 12:21:00,Travis (TX),Stray,Normal,Cat,Intact Male,0.07692307692307693,Domestic Shorthair,Other,2016-08-20 19:23:00,Intact Male,0.07692307692307693,0.0,1,N,Y
+A756581,N,2017-08-22 12:24:00,Austin (TX),Stray,Normal,Dog,Intact Female,0.5833333333333334,Other,Brown/White,2017-08-28 12:54:00,Spayed Female,0.6666666666666666,0.0,6,N,Y
+A784311,N,2018-11-14 07:12:00,Austin (TX),Stray,Injured,Cat,Intact Female,0.08333333333333333,Domestic Longhair,Brown Tabby,2018-11-14 11:59:00,Intact Female,0.08333333333333333,0.0,0,N,Y
+A811290,N,2019-12-31 15:09:00,Austin (TX),Wildlife,Sick,Bat,Unknown,3.0,Other,Brown,2020-01-01 11:30:00,Unknown,3.0,1.0,0,Y,N
+A773862,Y,2018-06-06 15:34:00,Austin (TX),Stray,Normal,Dog,Intact Male,0.08333333333333333,Chihuahua Shorthair Mix,Brown/White,2018-06-28 14:36:00,Neutered Male,0.16666666666666666,0.0,21,N,Y
+A719518,Y,2016-01-21 17:52:00,Austin (TX),Stray,Normal,Cat,Intact Female,0.4166666666666667,Domestic Shorthair,Other,2016-01-26 17:21:00,Spayed Female,0.4166666666666667,0.0,4,N,Y
+A765204,Y,2018-03-05 16:22:00,Austin (TX),Owner Surrender,Normal,Dog,Spayed Female,2.0,Other,White/Tan,2018-03-10 19:00:00,Spayed Female,2.0,0.0,5,N,N
+A743584,N,2017-02-13 09:40:00,Austin (TX),Stray,Normal,Dog,Intact Female,2.0,Pit Bull Mix,Black/White,2017-02-17 17:06:00,Spayed Female,2.0,0.0,4,N,N
+A765764,Y,2018-01-26 12:46:00,Austin (TX),Owner Surrender,Normal,Cat,Spayed Female,10.0,Domestic Longhair,Other,2018-02-02 18:04:00,Spayed Female,10.0,0.0,7,N,N
+A698075,N,2015-03-05 16:10:00,Austin (TX),Stray,Normal,Dog,Intact Female,1.0,Other,Black/White,2015-03-09 17:33:00,Spayed Female,1.0,0.0,4,N,N
+A730007,Y,2016-06-27 11:28:00,Austin (TX),Owner Surrender,Normal,Cat,Intact Male,0.08333333333333333,Domestic Shorthair,Black,2016-08-06 17:06:00,Neutered Male,0.16666666666666666,0.0,40,N,Y
+A811483,N,2020-01-04 13:20:00,Austin (TX),Stray,Normal,Cat,Unknown,1.0,Domestic Shorthair,Brown Tabby/White,2020-01-08 10:36:00,Unknown,1.0,0.0,3,N,N
+A665231,N,2013-10-15 14:08:00,Austin (TX),Owner Surrender,Nursing,Dog,Intact Male,0.08333333333333333,Australian Kelpie Mix,Tricolor,2013-10-15 16:10:00,Intact Male,0.08333333333333333,0.0,0,N,Y
+A695768,Y,2015-01-22 12:11:00,Austin (TX),Stray,Normal,Dog,Spayed Female,1.0,Other,Other,2015-01-22 14:27:00,Spayed Female,1.0,0.0,0,N,N
+A753302,Y,2017-07-04 14:11:00,Travis (TX),Owner Surrender,Normal,Dog,Spayed Female,1.0,Chihuahua Shorthair Mix,Brown,2017-07-07 18:31:00,Spayed Female,1.0,0.0,3,N,N
+A755091,Y,2017-07-29 11:04:00,Austin (TX),Stray,Normal,Dog,Intact Male,2.0,Yorkshire Terrier Mix,Tan,2017-07-29 19:46:00,Intact Male,2.0,0.0,0,N,N
+A759377,Y,2017-10-01 11:27:00,Austin (TX),Stray,Normal,Dog,Intact Female,0.5833333333333334,Chihuahua Shorthair Mix,Black/White,2017-10-09 17:31:00,Spayed Female,0.6666666666666666,0.0,8,N,Y
+A779311,Y,2018-08-29 18:27:00,Austin (TX),Stray,Normal,Cat,Intact Female,0.9166666666666666,Domestic Shorthair,Brown Tabby,2018-10-22 14:16:00,Spayed Female,1.0,0.0,53,N,Y
+A734351,N,2016-09-05 14:13:00,Austin (TX),Stray,Normal,Dog,Intact Female,0.75,Yorkshire Terrier Mix,Brown,2016-09-09 18:00:00,Spayed Female,0.8333333333333334,0.0,4,N,Y
+A701039,Y,2015-04-23 11:13:00,Austin (TX),Stray,Normal,Cat,Intact Male,0.038461538461538464,Domestic Shorthair,Brown Tabby,2015-06-16 09:29:00,Intact Male,0.16666666666666666,0.0,53,N,Y
+A808560,Y,2019-11-10 15:16:00,Austin (TX),Stray,Normal,Cat,Intact Female,0.08333333333333333,Domestic Shorthair,Brown Tabby,2019-11-13 11:54:00,Intact Female,0.08333333333333333,0.0,2,N,Y
+A786395,N,2018-12-23 14:30:00,Austin (TX),Wildlife,Sick,Raccoon,Unknown,1.0,Other,Black/White,2018-12-23 15:21:00,Unknown,1.0,1.0,0,Y,N
+A761250,N,2017-11-01 16:25:00,Austin (TX),Stray,Normal,Dog,Intact Male,0.6666666666666666,Other,Other,2017-11-06 17:13:00,Neutered Male,0.6666666666666666,0.0,5,N,Y
+A689503,Y,2014-10-30 10:48:00,Austin (TX),Owner Surrender,Normal,Cat,Neutered Male,0.75,Domestic Shorthair,Black,2014-11-13 13:37:00,Neutered Male,0.8333333333333334,0.0,14,N,Y
+A803926,N,2019-09-08 14:02:00,Austin (TX),Owner Surrender,Normal,Cat,Intact Female,0.07692307692307693,Domestic Shorthair,Brown Tabby,2019-10-14 17:18:00,Spayed Female,0.16666666666666666,0.0,36,N,Y
+A768326,Y,2018-03-17 11:55:00,Austin (TX),Stray,Normal,Dog,Intact Female,2.0,Chihuahua Shorthair Mix,Other,2018-03-21 18:24:00,Spayed Female,2.0,0.0,4,N,N
+A794033,Y,2019-05-03 12:07:00,Austin (TX),Stray,Normal,Dog,Intact Female,1.0,Labrador Retriever Mix,Other,2019-05-31 18:13:00,Spayed Female,1.0,0.0,28,N,N
+A689465,Y,2014-10-05 11:40:00,Austin (TX),Public Assist,Normal,Dog,Spayed Female,3.0,Australian Cattle Dog Mix,Other,2014-10-09 11:16:00,Spayed Female,3.0,0.0,3,N,N
+A782002,Y,2018-10-09 13:31:00,Austin (TX),Stray,Normal,Dog,Intact Male,5.0,German Shepherd Mix,Black/Tan,2018-10-12 14:06:00,Intact Male,5.0,0.0,3,N,N
+A684465,Y,2014-07-24 11:23:00,Austin (TX),Stray,Normal,Dog,Intact Female,0.08333333333333333,Beagle Mix,Other,2014-07-28 17:10:00,Spayed Female,0.16666666666666666,0.0,4,N,Y
+A663273,Y,2013-10-30 14:22:00,Austin (TX),Owner Surrender,Sick,Dog,Intact Female,2.0,Other,Other,2014-01-01 13:44:00,Spayed Female,2.0,1.0,62,N,N
+A694905,Y,2019-12-20 11:09:00,Austin (TX),Stray,Normal,Dog,Spayed Female,6.0,Other,Brown/White,2019-12-20 14:58:00,Spayed Female,6.0,0.0,0,N,N
+A699994,N,2015-04-05 21:39:00,Austin (TX),Wildlife,Sick,Bat,Unknown,0.4166666666666667,Other,Brown,2015-04-06 10:08:00,Unknown,0.5,1.0,0,Y,Y
+A669707,Y,2013-12-26 10:45:00,Travis (TX),Public Assist,Normal,Dog,Intact Female,1.0,Yorkshire Terrier Mix,Black/Brown,2013-12-26 17:45:00,Intact Female,1.0,0.0,0,N,N
+A683999,N,2014-07-18 12:06:00,Austin (TX),Stray,Normal,Cat,Unknown,0.019230769230769232,Domestic Shorthair,Brown Tabby,2014-07-18 18:25:00,Unknown,0.019230769230769232,0.0,0,N,Y
+A705310,Y,2015-06-15 16:42:00,Austin (TX),Stray,Normal,Dog,Intact Female,2.0,Pit Bull Mix,Black/White,2015-06-26 18:46:00,Spayed Female,2.0,0.0,11,N,N
+A675000,N,2014-03-21 12:32:00,Austin (TX),Wildlife,Normal,Bat,Unknown,1.0,Other,Brown,2014-03-23 08:53:00,Unknown,1.0,1.0,1,Y,N
+A791417,Y,2019-03-25 15:45:00,Austin (TX),Stray,Normal,Dog,Intact Male,1.0,Rat Terrier Mix,Other,2019-03-29 18:10:00,Neutered Male,1.0,0.0,4,N,N
+A706320,N,2015-06-27 13:38:00,Austin (TX),Stray,Normal,Cat,Intact Female,0.0576923076923077,Domestic Shorthair,Other,2015-06-27 16:31:00,Intact Female,0.0576923076923077,0.0,0,N,Y
+A772138,Y,2018-05-16 19:06:00,Austin (TX),Stray,Normal,Dog,Intact Male,0.3333333333333333,Other,White/Tan,2018-12-04 16:12:00,Intact Male,0.9166666666666666,0.0,130,N,Y
+A806664,N,2019-10-14 08:34:00,Austin (TX),Stray,Injured,Cat,Unknown,0.4166666666666667,Domestic Shorthair,Other,2019-10-14 10:20:00,Unknown,0.4166666666666667,1.0,0,N,Y
+A781055,Y,2018-09-24 08:34:00,Austin (TX),Stray,Normal,Cat,Intact Male,0.08333333333333333,Domestic Shorthair,Black,2018-12-13 12:27:00,Neutered Male,0.3333333333333333,0.0,80,N,Y
+A698927,Y,2015-03-19 18:28:00,Austin (TX),Stray,Normal,Dog,Intact Male,0.75,Other,Tricolor,2015-03-21 18:27:00,Neutered Male,0.8333333333333334,0.0,1,N,Y
+A619073,Y,2014-12-20 13:10:00,Outside Jurisdiction,Owner Surrender,Normal,Dog,Neutered Male,3.0,Other,Black/Tan,2014-12-26 15:27:00,Neutered Male,3.0,0.0,6,N,N
+A686094,Y,2014-08-16 13:56:00,Leander (TX),Owner Surrender,Normal,Cat,Intact Male,0.3333333333333333,Domestic Shorthair,White/Orange Tabby,2014-08-25 16:49:00,Neutered Male,0.3333333333333333,0.0,9,N,Y
+A727842,Y,2016-05-26 15:08:00,Austin (TX),Stray,Normal,Cat,Intact Female,0.08333333333333333,Domestic Shorthair,White/Orange Tabby,2016-08-10 12:53:00,Spayed Female,0.25,0.0,75,N,Y
+A792697,Y,2019-04-14 12:07:00,Austin (TX),Stray,Normal,Dog,Intact Female,1.0,Other,Black/White,2019-05-19 19:15:00,Spayed Female,1.0,0.0,35,N,N
+A688670,Y,2014-09-22 11:09:00,Austin (TX),Stray,Normal,Dog,Intact Female,0.08333333333333333,Other,Tricolor,2014-09-26 17:05:00,Spayed Female,0.08333333333333333,0.0,4,N,Y
+A743876,Y,2017-02-18 16:15:00,Austin (TX),Stray,Normal,Cat,Intact Female,0.07692307692307693,Domestic Shorthair,Tortie,2017-04-12 15:02:00,Spayed Female,0.16666666666666666,0.0,52,N,Y
+A681846,N,2014-06-21 07:32:00,Austin (TX),Stray,Normal,Cat,Intact Male,2.0,Domestic Shorthair,Black/White,2014-06-22 09:00:00,Intact Male,2.0,0.0,1,N,N
+A670811,Y,2014-01-14 14:20:00,Austin (TX),Stray,Normal,Cat,Intact Female,0.8333333333333334,Domestic Medium Hair,Blue/White,2014-01-21 15:10:00,Intact Female,0.8333333333333334,0.0,7,N,Y
+A709050,Y,2015-08-04 12:12:00,Austin (TX),Stray,Normal,Dog,Neutered Male,5.0,Pit Bull Mix,Other,2015-08-04 14:14:00,Neutered Male,5.0,0.0,0,N,N
+A752196,N,2017-06-19 15:41:00,Austin (TX),Stray,Injured,Cat,Intact Female,2.0,American Shorthair Mix,Brown Tabby,2017-06-21 13:40:00,Intact Female,2.0,0.0,1,N,N
+A779613,N,2018-09-03 15:41:00,Austin (TX),Stray,Normal,Cat,Intact Female,1.0,Domestic Shorthair,Tortie,2018-09-04 15:12:00,Intact Female,1.0,0.0,0,N,N
+A748684,N,2017-05-05 12:13:00,Austin (TX),Stray,Normal,Cat,Unknown,0.038461538461538464,Domestic Shorthair,Black,2017-05-05 15:03:00,Unknown,0.038461538461538464,0.0,0,N,Y
+A808090,Y,2019-11-04 07:32:00,Austin (TX),Stray,Normal,Cat,Intact Female,0.0054794520547945215,Domestic Shorthair,Torbie,2019-11-04 12:11:00,Intact Female,0.0054794520547945215,0.0,0,N,Y
+A758803,Y,2017-09-22 11:01:00,Austin (TX),Stray,Normal,Dog,Intact Male,0.4166666666666667,German Shepherd Mix,Black/White,2017-09-27 00:00:00,Intact Male,0.4166666666666667,0.0,4,N,Y
+A740303,N,2016-12-14 15:53:00,Travis (TX),Stray,Normal,Cat,Intact Female,0.038461538461538464,Domestic Shorthair,Brown Tabby/White,2016-12-15 15:36:00,Intact Female,0.038461538461538464,0.0,0,N,Y
+A743239,Y,2017-02-06 14:59:00,Austin (TX),Public Assist,Normal,Dog,Spayed Female,8.0,Other,Tricolor,2017-02-06 18:58:00,Spayed Female,8.0,0.0,0,N,N
+A773965,N,2018-06-08 00:00:00,Austin (TX),Stray,Normal,Cat,Unknown,0.0576923076923077,Domestic Shorthair,Black/White,2018-06-08 11:36:00,Unknown,0.0576923076923077,0.0,0,N,Y
+A734631,Y,2016-09-10 11:47:00,Austin (TX),Stray,Normal,Cat,Intact Female,1.0,Domestic Shorthair,Black,2016-09-24 22:18:00,Spayed Female,1.0,0.0,14,N,N
+A705521,Y,2015-06-18 14:06:00,Travis (TX),Stray,Normal,Dog,Neutered Male,1.0,Other,Black,2015-06-19 14:43:00,Neutered Male,1.0,0.0,1,N,N
+A782172,N,2018-10-11 12:40:00,Austin (TX),Stray,Normal,Dog,Neutered Male,3.0,Other,Brown/White,2018-10-12 12:06:00,Neutered Male,3.0,0.0,0,N,N
+A753543,N,2017-07-07 18:20:00,Austin (TX),Stray,Normal,Cat,Intact Female,0.0576923076923077,Domestic Medium Hair,Black/White,2018-02-07 08:21:00,Intact Female,0.5833333333333334,0.0,130,N,Y
+A775346,Y,2018-06-28 12:47:00,Austin (TX),Stray,Normal,Cat,Intact Male,0.25,Domestic Shorthair,Brown Tabby,2018-08-22 16:03:00,Neutered Male,0.3333333333333333,0.0,55,N,Y
+A755092,Y,2017-07-29 11:04:00,Austin (TX),Stray,Normal,Dog,Intact Male,2.0,Chihuahua Shorthair Mix,White/Chocolate,2017-07-29 19:46:00,Intact Male,2.0,0.0,0,N,N
+A722280,Y,2016-06-17 18:23:00,Austin (TX),Public Assist,Normal,Dog,Neutered Male,3.0,Pit Bull Mix,White,2016-09-28 09:52:00,Neutered Male,3.0,0.0,102,N,N
+A789161,N,2019-02-16 12:43:00,Austin (TX),Wildlife,Normal,Bat,Unknown,1.0,Other,Brown,2019-02-18 09:06:00,Unknown,1.0,1.0,1,Y,N
+A704011,Y,2015-05-31 15:52:00,Austin (TX),Public Assist,Normal,Dog,Spayed Female,5.0,Other,Tan,2015-06-03 11:37:00,Spayed Female,5.0,0.0,2,N,N
+A693291,N,2014-12-05 12:19:00,Vista (TX),Stray,Normal,Dog,Intact Female,0.16666666666666666,Labrador Retriever Mix,Brown/White,2014-12-09 17:53:00,Spayed Female,0.16666666666666666,0.0,4,N,Y
+A754685,Y,2017-07-22 20:10:00,Austin (TX),Stray,Normal,Dog,Intact Male,0.3333333333333333,Other,Other,2017-07-29 13:49:00,Neutered Male,0.4166666666666667,0.0,6,N,Y
+A646647,Y,2014-05-08 12:00:00,Austin (TX),Owner Surrender,Normal,Cat,Neutered Male,1.0,Domestic Shorthair,White/Orange Tabby,2014-06-10 16:39:00,Neutered Male,1.0,0.0,33,N,N
+A765955,Y,2018-01-30 13:22:00,Austin (TX),Owner Surrender,Normal,Cat,Intact Female,0.08333333333333333,Other,Other,2018-02-28 07:28:00,Spayed Female,0.16666666666666666,0.0,28,N,Y
+A701651,Y,2015-05-02 16:32:00,Austin (TX),Stray,Normal,Dog,Intact Male,0.16666666666666666,Other,Brown,2015-05-06 17:00:00,Neutered Male,0.16666666666666666,0.0,4,N,Y
+A787561,N,2019-01-15 15:43:00,Manor (TX),Owner Surrender,Normal,Cat,Intact Male,0.08333333333333333,Domestic Shorthair,Brown Tabby,2019-01-18 17:58:00,Neutered Male,0.16666666666666666,0.0,3,N,Y
+A677819,N,2014-03-29 13:08:00,Austin (TX),Stray,Normal,Rabbit Sh,Unknown,0.0,Other,Black/White,2014-04-29 18:50:00,Unknown,0.0,0.0,31,N,Y
+A718375,Y,2015-12-29 06:36:00,Austin (TX),Public Assist,Normal,Cat,Neutered Male,6.0,Domestic Shorthair,Brown Tabby,2016-01-16 14:40:00,Neutered Male,6.0,0.0,18,N,N
+A769360,Y,2018-04-04 09:29:00,Austin (TX),Stray,Normal,Dog,Intact Male,4.0,Chihuahua Shorthair Mix,White,2018-04-18 14:14:00,Neutered Male,4.0,0.0,14,N,N
+A772155,N,2018-05-15 12:28:00,Austin (TX),Stray,Normal,Cat,Intact Female,3.0,Siamese Mix,Other,2018-05-20 18:43:00,Intact Female,3.0,0.0,5,N,N
+A737893,N,2016-11-06 12:41:00,Austin (TX),Stray,Normal,Dog,Intact Male,6.0,Dachshund Mix,Other,2016-11-11 10:36:00,Neutered Male,7.0,0.0,4,N,N
+A716500,N,2015-11-20 11:10:00,Austin (TX),Stray,Normal,Dog,Intact Female,0.019230769230769232,German Shepherd Mix,Other,2015-11-20 15:29:00,Intact Female,0.019230769230769232,0.0,0,N,Y
+A727540,Y,2016-05-23 11:41:00,Austin (TX),Stray,Normal,Dog,Intact Female,0.16666666666666666,Labrador Retriever,Black/White,2016-05-27 17:00:00,Spayed Female,0.16666666666666666,0.0,4,N,Y
+A745741,N,2017-03-23 10:18:00,Austin (TX),Stray,Normal,Cat,Intact Male,0.010958904109589041,Domestic Shorthair,Black/White,2017-05-23 13:12:00,Neutered Male,0.16666666666666666,0.0,61,N,Y
+A768332,Y,2018-03-17 12:56:00,Travis (TX),Stray,Injured,Dog,Intact Male,14.0,Miniature Poodle Mix,Other,2018-03-17 16:02:00,Intact Male,14.0,0.0,0,N,N
+A524680,Y,2013-11-29 11:32:00,Austin (TX),Stray,Normal,Dog,Spayed Female,7.0,Other,White/Tan,2013-11-30 14:48:00,Spayed Female,7.0,0.0,1,N,N
+A730539,Y,2016-07-06 11:40:00,Austin (TX),Stray,Injured,Cat,Neutered Male,2.0,Domestic Shorthair,Brown Tabby,2016-10-30 13:19:00,Neutered Male,2.0,0.0,116,N,N
+A808833,Y,2019-11-14 12:16:00,Austin (TX),Stray,Normal,Dog,Spayed Female,2.0,Other,Black/White,2019-11-16 13:04:00,Spayed Female,2.0,0.0,2,N,N
+A702739,Y,2015-05-17 12:43:00,Austin (TX),Stray,Normal,Dog,Intact Female,0.4166666666666667,Other,Brown Brindle/White,2015-05-27 14:18:00,Spayed Female,0.5,0.0,10,N,Y
+A765013,Y,2018-01-11 12:50:00,Austin (TX),Owner Surrender,Normal,Dog,Intact Female,3.0,Chihuahua Shorthair Mix,White/Tan,2018-01-13 16:05:00,Spayed Female,3.0,0.0,2,N,N
+A715665,Y,2015-11-07 16:39:00,Travis (TX),Owner Surrender,Normal,Dog,Intact Female,0.08333333333333333,Other,Brown/White,2015-11-09 16:30:00,Spayed Female,0.08333333333333333,0.0,1,N,Y
+A666578,Y,2013-11-04 11:05:00,Austin (TX),Owner Surrender,Normal,Dog,Spayed Female,3.0,Other,Brown,2013-11-04 14:32:00,Spayed Female,3.0,0.0,0,N,N
+A746823,Y,2017-04-09 15:47:00,Austin (TX),Stray,Normal,Dog,Neutered Male,1.0,German Shepherd Mix,Black/Brown,2017-04-12 12:27:00,Neutered Male,1.0,0.0,2,N,N
+A691703,Y,2014-11-10 18:08:00,Leander (TX),Public Assist,Normal,Dog,Intact Male,1.0,Other,Black/White,2014-11-10 19:12:00,Intact Male,1.0,0.0,0,N,N
+A677773,N,2014-04-29 11:56:00,Valle (TX),Stray,Normal,Cat,Intact Female,0.01643835616438356,Domestic Shorthair,Orange Tabby,2014-04-29 13:38:00,Intact Female,0.01643835616438356,0.0,0,N,Y
+A697921,Y,2015-03-03 17:05:00,Austin (TX),Owner Surrender,Normal,Dog,Intact Female,1.0,Other,Black,2015-03-16 12:10:00,Spayed Female,1.0,0.0,12,N,N
+A741822,Y,2017-01-09 15:47:00,Austin (TX),Stray,Normal,Dog,Neutered Male,3.0,Chihuahua Shorthair Mix,Black/White,2017-01-13 14:49:00,Neutered Male,3.0,0.0,3,N,N
+A692492,N,2014-11-21 13:00:00,Manor (TX),Stray,Normal,Cat,Spayed Female,2.0,Domestic Medium Hair,Other,2014-11-30 14:00:00,Spayed Female,2.0,0.0,9,N,N
+A679938,Y,2018-09-10 10:25:00,Austin (TX),Stray,Normal,Dog,Neutered Male,6.0,Chihuahua Shorthair Mix,Black/Tan,2018-09-18 16:42:00,Neutered Male,6.0,0.0,8,N,N
+A767835,Y,2018-03-18 12:19:00,Austin (TX),Stray,Normal,Cat,Neutered Male,2.0,Domestic Shorthair,Other,2018-03-18 13:23:00,Neutered Male,2.0,0.0,0,N,N
+A798563,Y,2019-06-27 00:00:00,Travis (TX),Owner Surrender,Normal,Dog,Intact Male,0.08333333333333333,Other,Black/White,2019-06-27 14:44:00,Intact Male,0.08333333333333333,0.0,0,N,Y
+A694032,N,2014-12-18 18:51:00,Austin (TX),Owner Surrender,Normal,Cat,Intact Male,0.16666666666666666,Domestic Shorthair,Black,2014-12-21 19:09:00,Neutered Male,0.16666666666666666,0.0,3,N,Y
+A805352,N,2019-09-25 17:58:00,Pflugerville (TX),Owner Surrender,Normal,Cat,Intact Male,0.16666666666666666,Domestic Shorthair,White/Orange Tabby,2019-09-30 16:29:00,Neutered Male,0.16666666666666666,0.0,4,N,Y
+A800857,Y,2019-07-28 05:20:00,Travis (TX),Public Assist,Normal,Dog,Spayed Female,6.0,Other,Tricolor,2019-07-28 13:24:00,Spayed Female,6.0,0.0,0,N,N
+A678365,N,2014-05-08 10:34:00,Austin (TX),Stray,Normal,Dog,Intact Female,0.16666666666666666,Other,Black/White,2014-05-13 17:38:00,Spayed Female,0.25,0.0,5,N,Y
+A692465,Y,2014-11-20 18:22:00,Austin (TX),Euthanasia Request,Sick,Dog,Intact Female,0.08333333333333333,Miniature Poodle Mix,Other,2014-11-20 18:48:00,Intact Female,0.08333333333333333,1.0,0,N,Y
+A705723,Y,2016-07-22 11:00:00,Austin (TX),Stray,Normal,Dog,Spayed Female,3.0,Other,Black/White,2016-07-23 15:31:00,Spayed Female,3.0,0.0,1,N,N
+A714525,Y,2015-10-24 15:54:00,Austin (TX),Stray,Normal,Dog,Neutered Male,2.0,Other,Brown,2015-11-04 18:52:00,Neutered Male,2.0,0.0,11,N,N
+A762644,Y,2017-11-22 12:08:00,Travis (TX),Stray,Injured,Dog,Intact Male,2.0,Pit Bull Mix,Black/White,2018-01-13 17:57:00,Neutered Male,2.0,0.0,52,N,N
+A677489,N,2014-04-25 14:40:00,Austin (TX),Owner Surrender,Sick,Cat,Intact Female,0.07692307692307693,Domestic Shorthair,Blue/White,2014-04-28 10:43:00,Intact Female,0.07692307692307693,0.0,2,N,Y
+A695717,Y,2015-08-31 18:48:00,Austin (TX),Public Assist,Normal,Dog,Neutered Male,1.0,Pit Bull Mix,Black/White,2017-04-29 14:53:00,Neutered Male,3.0,0.0,130,N,N
+A664557,Y,2014-11-22 13:12:00,Austin (TX),Public Assist,Normal,Dog,Spayed Female,1.0,Other,Black/White,2014-12-07 16:17:00,Spayed Female,1.0,0.0,15,N,N
+A335182,Y,2014-01-02 07:52:00,Austin (TX),Stray,Normal,Dog,Spayed Female,10.0,Other,Other,2014-01-03 11:04:00,Spayed Female,10.0,0.0,1,N,N
+A795453,N,2019-05-20 16:48:00,Austin (TX),Stray,Normal,Dog,Intact Male,0.08333333333333333,Other,Other,2019-05-28 17:37:00,Neutered Male,0.16666666666666666,0.0,8,N,Y
+A735004,Y,2016-09-16 17:43:00,Valle (TX),Stray,Normal,Dog,Intact Male,1.0,Other,White/Tan,2016-10-23 00:00:00,Neutered Male,1.0,0.0,36,N,N
+A733626,N,2016-08-24 18:48:00,Austin (TX),Stray,Normal,Dog,Intact Male,4.0,Chihuahua Shorthair Mix,White/Chocolate,2016-08-27 14:47:00,Intact Male,4.0,0.0,2,N,N
+A793870,N,2019-05-01 11:44:00,Austin (TX),Owner Surrender,Normal,Dog,Intact Male,0.08333333333333333,Chihuahua Shorthair Mix,Black/Brown,2019-05-05 18:13:00,Neutered Male,0.16666666666666666,0.0,4,N,Y
+A802622,N,2019-08-20 15:33:00,Austin (TX),Stray,Normal,Cat,Intact Female,0.08333333333333333,Domestic Shorthair,Blue Tabby,2019-09-22 14:31:00,Spayed Female,0.25,0.0,32,N,Y
+A741286,Y,2016-12-30 13:17:00,Pflugerville (TX),Stray,Normal,Cat,Neutered Male,10.0,Domestic Shorthair,Other,2017-02-10 17:58:00,Neutered Male,10.0,0.0,42,N,N
+A774106,Y,2018-06-10 13:18:00,Valle (TX),Stray,Normal,Cat,Intact Female,0.07692307692307693,Domestic Shorthair,Other,2018-08-27 15:08:00,Spayed Female,0.25,0.0,78,N,Y
+A803607,Y,2019-09-03 13:37:00,Austin (TX),Owner Surrender,Normal,Cat,Intact Male,0.4166666666666667,Domestic Shorthair,Black/White,2019-09-09 18:17:00,Neutered Male,0.4166666666666667,0.0,6,N,Y
+A729461,Y,2016-06-18 16:09:00,Austin (TX),Owner Surrender,Normal,Dog,Spayed Female,2.0,Other,Black/White,2016-06-21 15:06:00,Spayed Female,2.0,0.0,2,N,N
+A691105,Y,2014-10-30 10:27:00,Austin (TX),Stray,Normal,Dog,Intact Male,0.75,Boxer Mix,Other,2014-11-14 18:07:00,Neutered Male,0.8333333333333334,0.0,15,N,Y
+A799949,Y,2019-07-14 12:45:00,Manor (TX),Owner Surrender,Sick,Dog,Neutered Male,6.0,Pit Bull,White/Tan,2019-07-16 16:26:00,Neutered Male,6.0,1.0,2,N,N
+A788374,Y,2019-02-01 13:25:00,Austin (TX),Stray,Normal,Dog,Intact Male,1.0,Other,Brown/White,2019-02-14 17:10:00,Neutered Male,1.0,0.0,13,N,N
+A678128,Y,2014-05-04 12:09:00,Austin (TX),Stray,Normal,Cat,Intact Female,0.07692307692307693,Domestic Shorthair,Brown Tabby,2014-07-13 18:37:00,Spayed Female,0.25,0.0,70,N,Y
+A664051,Y,2013-11-11 14:27:00,Austin (TX),Owner Surrender,Normal,Dog,Spayed Female,1.0,Labrador Retriever Mix,White,2014-02-06 16:13:00,Spayed Female,1.0,0.0,87,N,N
+A709461,Y,2015-08-09 13:34:00,Austin (TX),Stray,Normal,Dog,Intact Female,1.0,Chihuahua Shorthair Mix,Other,2015-09-27 15:11:00,Spayed Female,1.0,0.0,49,N,N
+A683798,Y,2016-07-21 12:16:00,Austin (TX),Stray,Normal,Cat,Spayed Female,3.0,Domestic Medium Hair,Black/White,2016-10-18 10:55:00,Spayed Female,3.0,0.0,88,N,N
+A679583,Y,2014-05-23 12:17:00,Austin (TX),Stray,Normal,Cat,Intact Female,4.0,Domestic Shorthair,Tortie,2014-05-29 19:08:00,Intact Female,4.0,0.0,6,N,N
+A622877,Y,2019-09-21 11:00:00,Austin (TX),Public Assist,Normal,Dog,Neutered Male,7.0,Other,Other,2019-09-30 12:19:00,Neutered Male,7.0,0.0,9,N,N
+A677707,N,2014-04-28 10:47:00,Austin (TX),Stray,Nursing,Cat,Intact Male,0.07692307692307693,Domestic Shorthair,Blue Tabby,2014-04-28 14:53:00,Intact Male,0.07692307692307693,0.0,0,N,Y
+A748245,Y,2017-05-01 11:29:00,Austin (TX),Owner Surrender,Normal,Dog,Intact Female,0.08333333333333333,Chihuahua Shorthair Mix,Tan,2017-05-03 14:48:00,Intact Female,0.16666666666666666,0.0,2,N,Y
+A773576,Y,2018-06-03 12:04:00,Travis (TX),Owner Surrender,Normal,Dog,Intact Female,0.08333333333333333,Other,Tan,2018-06-05 17:46:00,Spayed Female,0.16666666666666666,0.0,2,N,Y
+A702860,Y,2015-05-18 14:24:00,Austin (TX),Stray,Normal,Dog,Neutered Male,8.0,Miniature Poodle Mix,Black,2015-06-06 16:49:00,Neutered Male,8.0,0.0,19,N,N
+A685764,Y,2014-08-12 11:41:00,Travis (TX),Stray,Normal,Dog,Intact Male,2.0,Labrador Retriever Mix,Black,2014-09-06 15:35:00,Neutered Male,2.0,0.0,25,N,N
+A723581,Y,2016-04-03 14:39:00,Austin (TX),Stray,Normal,Dog,Intact Female,0.08333333333333333,Australian Kelpie Mix,Tan,2016-04-07 17:29:00,Spayed Female,0.16666666666666666,0.0,4,N,Y
+A682926,Y,2014-07-05 07:12:00,Travis (TX),Stray,Injured,Dog,Intact Male,3.0,Chihuahua Shorthair Mix,White/Tan,2014-07-07 17:19:00,Neutered Male,3.0,0.0,2,N,N
+A693362,Y,2014-12-06 14:31:00,Austin (TX),Stray,Normal,Cat,Intact Female,0.07692307692307693,Domestic Shorthair,Blue/White,2015-02-01 17:48:00,Spayed Female,0.16666666666666666,0.0,57,N,Y
+A741640,Y,2017-01-05 13:14:00,Austin (TX),Owner Surrender,Normal,Cat,Intact Female,0.5,Domestic Shorthair,Brown Tabby,2017-01-12 00:00:00,Spayed Female,0.5,0.0,6,N,Y
+A672833,N,2014-02-17 15:44:00,Austin (TX),Wildlife,Sick,Raccoon,Unknown,1.0,Other,Black/Brown,2014-02-17 15:53:00,Unknown,1.0,1.0,0,Y,N
+A714654,N,2015-10-26 13:45:00,Travis (TX),Stray,Normal,Dog,Spayed Female,8.0,Other,Black,2015-10-31 12:09:00,Spayed Female,8.0,0.0,4,N,N
+A443738,Y,2015-07-04 10:51:00,Austin (TX),Stray,Normal,Dog,Spayed Female,9.0,Other,Other,2015-07-04 15:22:00,Spayed Female,9.0,0.0,0,N,N
+A679941,N,2014-05-28 12:27:00,Austin (TX),Stray,Normal,Dog,Intact Male,1.0,Chihuahua Shorthair Mix,Other,2014-06-05 14:17:00,Neutered Male,1.0,0.0,8,N,N
+A799015,N,2019-07-03 11:41:00,Austin (TX),Stray,Normal,Dog,Intact Male,1.0,Other,Black/Tan,2019-07-07 18:02:00,Neutered Male,1.0,0.0,4,N,N
+A666757,Y,2013-11-06 17:06:00,Valle (TX),Stray,Normal,Dog,Intact Male,0.3333333333333333,Other,White/Tan,2013-11-10 17:13:00,Neutered Male,0.3333333333333333,0.0,4,N,Y
+A759346,Y,2017-09-30 16:58:00,Austin (TX),Stray,Normal,Cat,Intact Female,0.16666666666666666,Domestic Shorthair,Orange Tabby,2017-10-21 10:54:00,Spayed Female,0.25,0.0,20,N,Y
+A724441,Y,2016-04-17 16:03:00,Manor (TX),Stray,Injured,Dog,Intact Male,2.0,Labrador Retriever Mix,Black,2016-07-08 15:34:00,Neutered Male,2.0,0.0,81,N,N
+A771043,Y,2018-05-01 12:57:00,Austin (TX),Owner Surrender,Normal,Dog,Spayed Female,1.0,Other,White/Tan,2018-07-07 11:56:00,Spayed Female,1.0,0.0,66,N,N
+A776373,Y,2018-07-12 14:24:00,Austin (TX),Stray,Normal,Cat,Intact Female,0.09615384615384616,Domestic Shorthair,Brown Tabby/White,2018-08-18 14:47:00,Spayed Female,0.16666666666666666,0.0,37,N,Y
+A683279,N,2014-07-08 17:20:00,Travis (TX),Stray,Nursing,Cat,Intact Male,0.0576923076923077,Domestic Shorthair,Black,2014-07-08 18:41:00,Intact Male,0.0576923076923077,0.0,0,N,Y
+A692235,Y,2014-11-17 11:13:00,Austin (TX),Owner Surrender,Normal,Cat,Intact Male,0.08333333333333333,Domestic Shorthair,White/Orange Tabby,2014-12-13 17:34:00,Neutered Male,0.16666666666666666,0.0,26,N,Y
+A773931,Y,2018-06-07 15:19:00,Manor (TX),Stray,Normal,Cat,Intact Female,2.0,Domestic Shorthair,Torbie,2018-07-08 18:15:00,Spayed Female,2.0,0.0,31,N,N
+A750467,Y,2017-05-27 13:47:00,Austin (TX),Stray,Normal,Dog,Intact Female,3.0,Chihuahua Shorthair Mix,Other,2017-05-31 17:57:00,Spayed Female,4.0,0.0,4,N,N
+A607903,Y,2017-05-19 12:20:00,Austin (TX),Owner Surrender,Injured,Dog,Spayed Female,6.0,Other,Other,2017-08-19 10:15:00,Spayed Female,6.0,0.0,91,N,N
+A799127,N,2019-07-05 12:41:00,Austin (TX),Owner Surrender,Normal,Dog,Intact Female,0.08333333333333333,Other,Other,2019-07-21 13:17:00,Spayed Female,0.08333333333333333,0.0,16,N,Y
+A693005,Y,2014-11-29 18:38:00,Austin (TX),Stray,Normal,Dog,Intact Male,1.0,Boxer Mix,Brown,2014-12-01 18:30:00,Neutered Male,1.0,0.0,1,N,N
+A779992,Y,2018-09-08 09:18:00,Austin (TX),Stray,Normal,Dog,Intact Male,1.0,Yorkshire Terrier Mix,Other,2018-09-08 17:31:00,Intact Male,1.0,0.0,0,N,N
+A698248,Y,2015-11-01 12:43:00,Austin (TX),Stray,Normal,Dog,Neutered Male,8.0,Labrador Retriever Mix,Brown,2015-11-01 13:39:00,Neutered Male,8.0,0.0,0,N,N
+A700562,Y,2015-04-16 10:15:00,Austin (TX),Stray,Injured,Cat,Spayed Female,2.0,Domestic Shorthair,Calico,2015-04-16 18:02:00,Spayed Female,2.0,0.0,0,N,N
+A699399,Y,2015-03-26 19:32:00,Austin (TX),Public Assist,Normal,Cat,Spayed Female,1.0,Domestic Shorthair,Torbie,2015-03-27 11:15:00,Spayed Female,2.0,0.0,0,N,N
+A689760,Y,2014-10-09 12:14:00,Austin (TX),Stray,Normal,Dog,Spayed Female,6.0,Labrador Retriever Mix,Brown/White,2014-10-12 18:13:00,Spayed Female,7.0,0.0,3,N,N
+A795239,N,2019-05-18 12:03:00,Austin (TX),Stray,Normal,Cat,Intact Male,0.08333333333333333,Domestic Medium Hair,Orange Tabby,2019-05-26 16:31:00,Neutered Male,0.16666666666666666,0.0,8,N,Y
+A713345,N,2015-10-05 18:04:00,Austin (TX),Stray,Normal,Cat,Intact Male,0.07692307692307693,Domestic Medium Hair,Other,2016-01-15 12:04:00,Neutered Male,0.3333333333333333,0.0,101,N,Y
+A806954,N,2019-10-18 14:21:00,Austin (TX),Stray,Normal,Cat,Intact Male,0.0576923076923077,Domestic Shorthair,Black,2019-10-18 16:58:00,Intact Male,0.0576923076923077,0.0,0,N,Y
+A751776,Y,2017-06-12 16:22:00,Austin (TX),Stray,Normal,Cat,Intact Male,0.25,Domestic Shorthair,Black,2017-06-17 13:41:00,Neutered Male,0.25,0.0,4,N,Y
+A681242,N,2014-06-14 11:19:00,Travis (TX),Stray,Normal,Cat,Intact Female,0.0576923076923077,Domestic Shorthair,Calico,2014-06-14 12:45:00,Intact Female,0.0576923076923077,0.0,0,N,Y
+A683650,Y,2014-10-23 11:19:00,Outside Jurisdiction,Owner Surrender,Normal,Dog,Neutered Male,2.0,Other,Other,2014-10-26 14:23:00,Neutered Male,2.0,0.0,3,N,N
+A773776,N,2018-06-05 13:05:00,Manor (TX),Stray,Normal,Dog,Intact Male,0.3333333333333333,Other,Black/Tan,2018-06-11 18:52:00,Neutered Male,0.4166666666666667,0.0,6,N,Y
+A798952,Y,2019-07-02 13:00:00,Pflugerville (TX),Owner Surrender,Normal,Cat,Spayed Female,2.0,Domestic Shorthair,Calico,2019-08-23 13:31:00,Spayed Female,2.0,0.0,52,N,N
+A729565,N,2016-06-20 12:54:00,Austin (TX),Stray,Normal,Cat,Intact Male,0.16666666666666666,Domestic Shorthair,Other,2016-06-24 17:04:00,Neutered Male,0.16666666666666666,0.0,4,N,Y
+A739197,Y,2016-11-29 11:17:00,Austin (TX),Stray,Normal,Dog,Intact Female,1.0,Other,White/Chocolate,2016-12-28 17:22:00,Spayed Female,1.0,0.0,29,N,N
+A784565,N,2018-11-16 16:04:00,Austin (TX),Stray,Normal,Cat,Intact Female,0.16666666666666666,Domestic Shorthair,Other,2018-11-23 13:15:00,Spayed Female,0.16666666666666666,0.0,6,N,Y
+A787413,N,2019-01-12 15:41:00,Austin (TX),Stray,Normal,Dog,Intact Female,4.0,Other,Tan,2019-01-19 17:16:00,Spayed Female,4.0,0.0,7,N,N
+A746036,N,2017-03-28 11:49:00,Austin (TX),Stray,Normal,Cat,Intact Female,0.038461538461538464,Domestic Shorthair,Blue Tabby,2017-03-28 12:58:00,Intact Female,0.038461538461538464,0.0,0,N,Y
+A793610,N,2019-04-27 00:00:00,Travis (TX),Stray,Normal,Cat,Unknown,0.019230769230769232,Domestic Shorthair,Brown Tabby,2019-04-27 13:05:00,Unknown,0.019230769230769232,0.0,0,N,Y
+A749152,N,2017-05-11 15:13:00,Austin (TX),Stray,Normal,Cat,Unknown,0.019230769230769232,Domestic Shorthair,Brown Tabby,2017-05-11 18:32:00,Unknown,0.019230769230769232,0.0,0,N,Y
+A668255,Y,2013-11-30 18:06:00,Austin (TX),Stray,Normal,Dog,Intact Male,2.0,Other,Brown Brindle/White,2013-12-02 17:45:00,Neutered Male,2.0,0.0,1,N,N
+A704384,Y,2015-06-04 11:13:00,Austin (TX),Stray,Normal,Cat,Intact Male,0.08333333333333333,Domestic Shorthair,Brown Tabby,2015-06-24 13:10:00,Neutered Male,0.16666666666666666,0.0,20,N,Y
+A721356,Y,2016-02-25 18:17:00,Austin (TX),Stray,Normal,Dog,Intact Female,5.0,Other,Black/White,2016-03-11 13:27:00,Spayed Female,5.0,0.0,14,N,N
+A758151,Y,2017-09-22 11:29:00,Austin (TX),Owner Surrender,Normal,Dog,Neutered Male,1.0,Pit Bull Mix,White,2019-09-15 11:08:00,Neutered Male,3.0,0.0,130,N,N
+A765118,N,2018-01-13 12:56:00,Austin (TX),Stray,Normal,Dog,Intact Male,2.0,Other,Black/White,2018-01-18 12:41:00,Intact Male,2.0,0.0,4,N,N
+A779389,Y,2018-08-31 11:02:00,Austin (TX),Stray,Normal,Dog,Intact Male,0.16666666666666666,Labrador Retriever Mix,Black,2018-09-04 13:06:00,Intact Male,0.16666666666666666,0.0,4,N,Y
+A710645,N,2015-08-25 15:59:00,Austin (TX),Stray,Injured,Ringtail,Unknown,1.0,Other,Other,2015-08-26 00:00:00,Unknown,1.0,0.0,0,N,N
+A781287,Y,2018-09-26 18:46:00,Austin (TX),Stray,Normal,Dog,Intact Female,0.25,Labrador Retriever Mix,White/Tan,2018-09-30 16:43:00,Spayed Female,0.25,0.0,3,N,Y
+A737374,Y,2019-11-26 12:10:00,Austin (TX),Public Assist,Normal,Dog,Intact Male,16.0,Other,Brown,2019-12-03 15:01:00,Intact Male,16.0,0.0,7,N,N
+A729106,N,2016-06-13 16:22:00,Austin (TX),Public Assist,Normal,Cat,Intact Male,0.07692307692307693,Domestic Shorthair,Blue,2016-06-23 16:39:00,Intact Male,0.08333333333333333,0.0,10,N,Y
+A664274,Y,2013-10-01 13:48:00,Austin (TX),Owner Surrender,Normal,Dog,Intact Female,8.0,Other,Other,2013-10-11 15:29:00,Spayed Female,8.0,0.0,10,N,N
+A768236,Y,2018-03-15 14:37:00,Austin (TX),Stray,Injured,Dog,Intact Male,10.0,Chihuahua Shorthair Mix,Black,2018-03-19 12:09:00,Intact Male,10.0,0.0,3,N,N
+A764292,Y,2017-12-27 12:30:00,Austin (TX),Owner Surrender,Normal,Dog,Intact Male,0.25,Labrador Retriever Mix,Black,2017-12-29 17:09:00,Neutered Male,0.25,0.0,2,N,Y
+A707640,Y,2015-07-15 14:34:00,Austin (TX),Stray,Normal,Dog,Intact Male,2.0,Other,Tricolor,2015-07-16 16:55:00,Intact Male,2.0,0.0,1,N,N
+A687918,Y,2014-09-12 08:01:00,Austin (TX),Stray,Sick,Cat,Intact Male,0.07692307692307693,Domestic Longhair,Black,2014-12-07 18:13:00,Neutered Male,0.25,0.0,86,N,Y
+A704960,Y,2015-06-11 12:24:00,Austin (TX),Stray,Normal,Dog,Intact Female,0.08333333333333333,Other,Brown/White,2015-06-15 17:02:00,Spayed Female,0.16666666666666666,0.0,4,N,Y
+A736976,Y,2016-10-20 13:14:00,Manor (TX),Stray,Normal,Dog,Spayed Female,2.0,Labrador Retriever Mix,Black,2016-10-25 16:39:00,Spayed Female,2.0,0.0,5,N,N
+A708276,Y,2015-07-25 11:28:00,Austin (TX),Stray,Normal,Cat,Intact Male,0.08333333333333333,Domestic Shorthair,Black,2015-08-16 16:40:00,Intact Male,0.16666666666666666,0.0,22,N,Y
+A787303,Y,2019-01-10 18:41:00,Austin (TX),Stray,Normal,Dog,Intact Female,0.6666666666666666,Other,Tan,2019-01-17 18:56:00,Intact Female,0.6666666666666666,0.0,7,N,Y
+A765297,Y,2018-01-17 12:09:00,Valle (TX),Stray,Normal,Dog,Spayed Female,4.0,Miniature Poodle Mix,White,2018-01-19 18:50:00,Spayed Female,4.0,0.0,2,N,N
+A752421,N,2017-06-22 11:02:00,Austin (TX),Stray,Normal,Dog,Intact Male,0.16666666666666666,Other,Brown,2017-06-26 12:48:00,Intact Male,0.16666666666666666,0.0,4,N,Y
+A789600,N,2019-02-24 13:14:00,Austin (TX),Stray,Normal,Dog,Intact Female,0.08333333333333333,Chihuahua Shorthair Mix,White,2019-02-28 17:51:00,Spayed Female,0.08333333333333333,0.0,4,N,Y
+A684893,Y,2014-07-31 13:46:00,Austin (TX),Public Assist,Normal,Dog,Spayed Female,3.0,German Shepherd Mix,Black/Brown,2014-08-08 11:59:00,Spayed Female,3.0,0.0,7,N,N
+A782028,N,2018-10-09 18:04:00,Austin (TX),Stray,Normal,Cat,Intact Male,0.16666666666666666,Domestic Shorthair,Blue/White,2018-10-15 18:29:00,Neutered Male,0.16666666666666666,0.0,6,N,Y
+A737190,Y,2016-10-23 15:20:00,Austin (TX),Stray,Normal,Cat,Intact Female,0.08333333333333333,Other,Other,2016-11-14 18:19:00,Spayed Female,0.16666666666666666,0.0,22,N,Y
+A757907,Y,2017-09-08 12:12:00,Austin (TX),Owner Surrender,Normal,Dog,Intact Male,2.0,Other,Black,2017-09-09 19:00:00,Neutered Male,2.0,0.0,1,N,N
+A733645,Y,2016-08-25 11:37:00,Outside Jurisdiction,Owner Surrender,Normal,Cat,Intact Female,0.019230769230769232,Domestic Shorthair,Torbie,2016-12-09 14:15:00,Spayed Female,0.25,0.0,106,N,Y
+A569886,Y,2014-05-08 15:01:00,Austin (TX),Stray,Normal,Dog,Spayed Female,6.0,Other,Black/Tan,2014-05-09 12:00:00,Spayed Female,6.0,0.0,0,N,N
+A748894,N,2017-05-08 12:58:00,Austin (TX),Stray,Normal,Cat,Intact Female,0.00821917808219178,Domestic Shorthair,White/Orange Tabby,2017-05-08 15:52:00,Intact Female,0.00821917808219178,0.0,0,N,Y
+A748045,N,2017-04-28 11:16:00,Austin (TX),Stray,Normal,Rat,Intact Female,1.0,Other,White,2017-04-29 13:21:00,Intact Female,1.0,0.0,1,N,N
+A808401,N,2019-11-08 13:10:00,Austin (TX),Stray,Normal,Cat,Unknown,1.0,Domestic Medium Hair,Orange Tabby,2019-11-12 10:19:00,Unknown,1.0,0.0,3,N,N
+A690158,N,2014-10-15 12:11:00,Austin (TX),Stray,Normal,Cat,Intact Male,1.0,Domestic Shorthair,Blue,2014-10-20 09:00:00,Intact Male,1.0,0.0,4,N,N
+A711910,Y,2016-09-23 13:16:00,Austin (TX),Stray,Normal,Dog,Spayed Female,9.0,Other,Other,2016-09-23 18:43:00,Spayed Female,9.0,0.0,0,N,N
+A776402,Y,2019-02-11 12:53:00,Austin (TX),Public Assist,Normal,Dog,Spayed Female,0.9166666666666666,Australian Kelpie Mix,Black/Tan,2019-02-20 17:57:00,Spayed Female,0.9166666666666666,0.0,9,N,Y
+A726178,N,2016-05-07 13:22:00,Travis (TX),Stray,Normal,Cat,Intact Female,0.07692307692307693,Domestic Medium Hair,Orange Tabby,2016-06-27 16:55:00,Spayed Female,0.16666666666666666,0.0,51,N,Y
+A711692,N,2015-09-11 07:21:00,Austin (TX),Stray,Nursing,Cat,Intact Male,0.0027397260273972607,Domestic Shorthair,Other,2015-09-11 12:40:00,Intact Male,0.0027397260273972607,0.0,0,N,Y
+A752106,Y,2017-06-18 11:04:00,Austin (TX),Stray,Normal,Dog,Intact Male,0.5833333333333334,Other,Other,2017-06-25 17:11:00,Neutered Male,0.5833333333333334,0.0,7,N,Y
+A680060,Y,2014-05-29 13:52:00,Austin (TX),Stray,Normal,Cat,Intact Female,0.0576923076923077,Domestic Shorthair,Other,2014-07-12 20:41:00,Spayed Female,0.16666666666666666,0.0,44,N,Y
+A783686,N,2018-11-04 14:05:00,Austin (TX),Stray,Normal,Cat,Intact Male,0.25,Domestic Shorthair,Orange Tabby,2018-11-04 14:53:00,Intact Male,0.25,1.0,0,N,Y
+A764134,N,2017-12-22 14:34:00,Austin (TX),Owner Surrender,Normal,Cat,Intact Male,0.25,Domestic Shorthair,Brown Tabby,2017-12-23 19:19:00,Neutered Male,0.25,0.0,1,N,Y
+A742945,Y,2017-01-31 12:01:00,Austin (TX),Stray,Normal,Dog,Intact Male,1.0,Other,White/Chocolate,2017-04-11 08:53:00,Neutered Male,1.0,0.0,69,N,N
+A698188,N,2015-03-07 07:23:00,Austin (TX),Stray,Nursing,Dog,Intact Male,0.0,Rat Terrier Mix,White,2015-03-13 16:06:00,Intact Male,0.01643835616438356,0.0,6,N,Y
+A761285,N,2017-11-02 11:47:00,Travis (TX),Stray,Normal,Cat,Intact Male,0.25,Domestic Shorthair,Brown Tabby/White,2017-11-06 14:05:00,Intact Male,0.25,0.0,4,N,Y
+A716626,N,2015-11-22 11:36:00,Austin (TX),Stray,Normal,Cat,Spayed Female,2.0,Domestic Shorthair,Blue,2015-11-26 20:20:00,Spayed Female,2.0,0.0,4,N,N
+A743493,Y,2017-02-11 13:00:00,Travis (TX),Stray,Normal,Dog,Neutered Male,2.0,Other,Black,2017-02-11 15:18:00,Neutered Male,2.0,0.0,0,N,N
+A717621,Y,2015-12-11 13:56:00,Austin (TX),Owner Surrender,Normal,Cat,Intact Female,1.0,Domestic Medium Hair,Black,2016-01-05 13:20:00,Spayed Female,1.0,0.0,24,N,N
+A751989,Y,2017-06-16 13:26:00,Travis (TX),Stray,Normal,Dog,Intact Female,3.0,Labrador Retriever,Black,2017-06-29 14:40:00,Spayed Female,3.0,0.0,13,N,N
+A799410,N,2019-07-08 13:46:00,Austin (TX),Owner Surrender,Sick,Cat,Intact Male,0.07692307692307693,Domestic Shorthair,Blue,2019-07-09 11:03:00,Intact Male,0.07692307692307693,1.0,0,N,Y
+A751060,Y,2017-06-03 16:41:00,Austin (TX),Stray,Normal,Cat,Intact Male,0.08333333333333333,Domestic Shorthair,Brown Tabby,2017-06-17 13:13:00,Neutered Male,0.16666666666666666,0.0,13,N,Y
+A803166,Y,2019-08-28 12:31:00,Travis (TX),Stray,Normal,Dog,Intact Male,2.0,Other,Black,2019-09-03 16:19:00,Intact Male,2.0,0.0,6,N,N
+A749147,Y,2017-05-11 15:02:00,Austin (TX),Stray,Normal,Cat,Intact Male,0.08333333333333333,Other,Other,2017-05-13 11:37:00,Intact Male,0.08333333333333333,0.0,1,N,Y
+A630261,Y,2017-05-09 09:41:00,Austin (TX),Stray,Injured,Dog,Spayed Female,8.0,German Shepherd Mix,Tan,2017-05-18 11:49:00,Spayed Female,8.0,0.0,9,N,N
+A694979,Y,2015-01-07 11:48:00,Outside Jurisdiction,Owner Surrender,Injured,Dog,Intact Female,1.0,Other,Brown/White,2015-02-12 16:01:00,Intact Female,1.0,0.0,36,N,N
+A687919,N,2014-09-12 08:01:00,Austin (TX),Stray,Sick,Cat,Intact Female,0.07692307692307693,Domestic Longhair,Black,2014-09-19 09:01:00,Intact Female,0.08333333333333333,1.0,7,N,Y
+A750222,Y,2017-05-25 17:38:00,Austin (TX),Public Assist,Normal,Dog,Spayed Female,13.0,Other,Black,2017-06-04 11:14:00,Spayed Female,13.0,0.0,9,N,N
+A739666,Y,2016-12-05 17:28:00,Austin (TX),Stray,Normal,Dog,Intact Male,0.75,Other,Black/Brown,2016-12-18 17:38:00,Neutered Male,0.8333333333333334,0.0,13,N,Y
+A799106,Y,2019-07-05 11:45:00,Austin (TX),Stray,Normal,Dog,Intact Male,2.0,Other,Black/White,2019-07-09 17:20:00,Neutered Male,2.0,0.0,4,N,N
+A692050,Y,2014-11-13 17:30:00,Austin (TX),Public Assist,Normal,Dog,Spayed Female,2.0,Other,Black/White,2014-11-24 14:08:00,Spayed Female,2.0,0.0,10,N,N
+A805102,Y,2019-09-22 14:16:00,Austin (TX),Stray,Normal,Dog,Neutered Male,3.0,Other,Brown/White,2019-10-15 14:27:00,Neutered Male,3.0,0.0,23,N,N
+A690195,N,2014-10-15 18:53:00,Austin (TX),Stray,Normal,Dog,Intact Female,0.08333333333333333,Other,Other,2014-10-16 16:56:00,Intact Female,0.08333333333333333,0.0,0,N,Y
+A785397,Y,2018-12-02 14:35:00,Austin (TX),Stray,Normal,Dog,Intact Male,2.0,Other,White/Tan,2019-02-24 12:48:00,Neutered Male,2.0,0.0,83,N,N
+A706618,N,2015-06-30 22:08:00,Travis (TX),Public Assist,Normal,Bird,Unknown,2.0,Other,White,2015-07-23 16:49:00,Unknown,2.0,0.0,22,N,N
+A759720,N,2017-10-06 13:43:00,Austin (TX),Stray,Normal,Cat,Intact Male,0.08333333333333333,Domestic Shorthair,Black,2017-10-11 17:54:00,Neutered Male,0.16666666666666666,0.0,5,N,Y
+A709858,Y,2015-08-13 17:10:00,Austin (TX),Stray,Normal,Cat,Intact Female,9.0,Domestic Medium Hair,Brown Tabby,2015-09-05 13:08:00,Intact Female,9.0,0.0,22,N,N
+A623164,Y,2016-09-23 09:01:00,Austin (TX),Owner Surrender,Normal,Dog,Spayed Female,9.0,Chihuahua Shorthair Mix,Tricolor,2016-09-26 00:00:00,Spayed Female,9.0,0.0,2,N,N
+A713014,Y,2015-10-01 15:29:00,Austin (TX),Stray,Sick,Cat,Intact Female,1.0,Domestic Shorthair,Orange Tabby,2016-06-21 09:12:00,Spayed Female,1.0,0.0,130,N,N
+A752614,Y,2017-06-25 07:58:00,Austin (TX),Stray,Normal,Cat,Intact Male,0.08333333333333333,Domestic Shorthair,White/Orange Tabby,2017-08-07 18:14:00,Neutered Male,0.16666666666666666,0.0,43,N,Y
+A750701,N,2017-05-30 14:32:00,Austin (TX),Stray,Nursing,Cat,Unknown,0.038461538461538464,Domestic Shorthair,Other,2017-05-30 18:21:00,Unknown,0.038461538461538464,0.0,0,N,Y
+A685556,Y,2014-08-27 16:22:00,Austin (TX),Stray,Normal,Dog,Neutered Male,0.5,Other,Blue/White,2014-09-26 14:54:00,Neutered Male,0.5833333333333334,0.0,29,N,Y
+A796600,Y,2019-06-03 13:11:00,Austin (TX),Stray,Normal,Cat,Intact Female,0.07692307692307693,Domestic Shorthair,Other,2019-06-30 15:07:00,Intact Female,0.08333333333333333,0.0,27,N,Y
+A717754,Y,2015-12-14 12:58:00,Austin (TX),Owner Surrender,Normal,Dog,Intact Female,4.0,Other,Other,2015-12-19 13:10:00,Spayed Female,4.0,0.0,5,N,N
+A706978,Y,2015-07-06 12:44:00,Austin (TX),Stray,Normal,Dog,Intact Male,4.0,Chihuahua Shorthair Mix,Black/White,2015-07-22 12:20:00,Neutered Male,4.0,0.0,15,N,N
+A754889,Y,2017-07-26 11:21:00,Austin (TX),Owner Surrender,Normal,Cat,Spayed Female,10.0,Domestic Shorthair,Other,2017-08-06 13:05:00,Spayed Female,10.0,0.0,11,N,N
+A756470,Y,2017-08-20 12:26:00,Travis (TX),Stray,Normal,Dog,Intact Female,0.08333333333333333,Other,Tan,2017-08-26 18:28:00,Intact Female,0.08333333333333333,0.0,6,N,Y
+A700500,Y,2015-04-14 16:19:00,Austin (TX),Stray,Normal,Dog,Intact Female,2.0,Other,Other,2015-04-25 15:50:00,Spayed Female,2.0,0.0,10,N,N
+A812453,Y,2020-01-22 19:01:00,Austin (TX),Abandoned,Normal,Cat,Spayed Female,0.5,Domestic Shorthair,Black/White,2020-01-25 12:18:00,Spayed Female,0.5,0.0,2,N,Y
+A651257,N,2014-10-15 12:45:00,Austin (TX),Stray,Injured,Cat,Neutered Male,9.0,Domestic Shorthair,Orange Tabby,2014-10-15 15:02:00,Neutered Male,9.0,1.0,0,N,N
+A788629,N,2019-02-06 06:38:00,Austin (TX),Stray,Nursing,Cat,Intact Male,0.0027397260273972607,Domestic Shorthair,Other,2019-05-15 19:11:00,Neutered Male,0.25,0.0,98,N,Y
+A747284,N,2017-04-17 16:42:00,Austin (TX),Stray,Normal,Cat,Intact Female,0.019230769230769232,Domestic Shorthair,Orange Tabby,2017-04-17 17:55:00,Intact Female,0.019230769230769232,0.0,0,N,Y
+A713159,N,2015-10-03 12:30:00,Austin (TX),Stray,Normal,Cat,Intact Female,1.0,Domestic Shorthair,Calico,2015-10-04 09:00:00,Intact Female,1.0,0.0,0,N,N
+A793169,N,2019-04-20 14:10:00,Austin (TX),Stray,Normal,Cat,Unknown,0.0576923076923077,Domestic Shorthair,Black,2019-04-20 14:45:00,Unknown,0.0576923076923077,0.0,0,N,Y
+A698582,N,2015-03-14 08:28:00,Austin (TX),Stray,Injured,Cat,Intact Male,1.0,Domestic Shorthair,Brown Tabby,2015-03-17 10:56:00,Intact Male,1.0,1.0,3,N,N
+A759889,Y,2017-10-09 12:18:00,Travis (TX),Stray,Injured,Dog,Intact Male,3.0,Chihuahua Shorthair Mix,White/Tan,2017-10-28 17:26:00,Neutered Male,3.0,0.0,19,N,N
+A802158,Y,2019-08-14 15:34:00,Austin (TX),Owner Surrender,Normal,Cat,Neutered Male,5.0,Domestic Shorthair,Black/White,2019-09-02 14:37:00,Neutered Male,5.0,0.0,18,N,N
+A699280,N,2015-03-25 09:59:00,Austin (TX),Wildlife,Injured,Rabbit Sh,Unknown,1.0,Other,Brown,2015-03-25 10:13:00,Unknown,1.0,1.0,0,Y,N
+A746927,Y,2017-05-13 17:17:00,Austin (TX),Stray,Normal,Cat,Spayed Female,0.25,Domestic Shorthair,Brown Tabby,2017-05-29 13:15:00,Spayed Female,0.3333333333333333,0.0,15,N,Y
+A774880,Y,2018-06-21 13:39:00,Austin (TX),Stray,Normal,Cat,Neutered Male,10.0,Domestic Shorthair,Brown Tabby,2018-08-27 19:42:00,Neutered Male,10.0,0.0,67,N,N
+A775428,N,2018-06-29 17:05:00,Valle (TX),Stray,Normal,Cat,Unknown,0.019230769230769232,Domestic Shorthair,Other,2018-06-29 18:22:00,Unknown,0.019230769230769232,0.0,0,N,Y
+A719326,Y,2016-01-17 14:09:00,Austin (TX),Stray,Normal,Dog,Neutered Male,2.0,Other,Black/Brown,2016-01-21 15:01:00,Neutered Male,2.0,0.0,4,N,N
+A702553,N,2015-05-15 13:21:00,Manor (TX),Stray,Normal,Dog,Intact Female,0.07692307692307693,Other,White/Tan,2015-05-15 15:14:00,Intact Female,0.07692307692307693,1.0,0,N,Y
+A568306,Y,2015-10-26 10:46:00,Austin (TX),Stray,Injured,Cat,Neutered Male,9.0,Domestic Shorthair,Other,2015-10-29 12:48:00,Neutered Male,9.0,1.0,3,N,N
+A682967,N,2014-07-05 12:59:00,Austin (TX),Stray,Normal,Dog,Intact Female,3.0,Dachshund Mix,Black/Tan,2014-07-10 17:17:00,Spayed Female,3.0,0.0,5,N,N
+A692690,Y,2014-11-24 13:23:00,Austin (TX),Stray,Normal,Dog,Intact Male,0.9166666666666666,Other,Other,2014-12-07 14:48:00,Neutered Male,0.9166666666666666,0.0,13,N,Y
+A696275,Y,2015-02-01 17:16:00,Austin (TX),Stray,Normal,Dog,Intact Male,2.0,Other,Tricolor,2015-02-05 16:59:00,Neutered Male,2.0,0.0,3,N,N
+A698024,Y,2015-03-04 18:55:00,Austin (TX),Stray,Normal,Dog,Intact Male,2.0,Pit Bull Mix,Blue/White,2015-03-06 11:34:00,Intact Male,2.0,0.0,1,N,N
+A711095,N,2015-09-01 16:10:00,Austin (TX),Stray,Nursing,Cat,Unknown,0.0054794520547945215,Domestic Shorthair,Orange Tabby,2015-09-01 16:16:00,Unknown,0.0054794520547945215,0.0,0,N,Y
+A687717,Y,2014-09-09 11:33:00,Austin (TX),Stray,Normal,Cat,Intact Female,0.16666666666666666,Siamese Mix,Other,2014-09-15 15:28:00,Intact Female,0.16666666666666666,0.0,6,N,Y
+A741385,Y,2017-01-01 11:52:00,Austin (TX),Stray,Aged,Dog,Neutered Male,12.0,Labrador Retriever Mix,Other,2017-01-01 14:33:00,Neutered Male,12.0,0.0,0,N,N
+A684131,N,2014-07-19 17:22:00,Austin (TX),Stray,Normal,Cat,Intact Male,0.019230769230769232,Domestic Shorthair,Black/White,2014-07-19 18:34:00,Intact Male,0.019230769230769232,0.0,0,N,Y
+A692970,Y,2014-11-29 12:45:00,Austin (TX),Owner Surrender,Normal,Cat,Neutered Male,14.0,Domestic Shorthair,White/Orange Tabby,2015-01-04 15:19:00,Neutered Male,14.0,0.0,36,N,N
+A251095,Y,2016-03-02 11:55:00,Travis (TX),Euthanasia Request,Aged,Dog,Spayed Female,14.0,Other,Tricolor,2016-03-02 13:16:00,Spayed Female,14.0,1.0,0,N,N
+A785865,Y,2018-12-11 15:37:00,Austin (TX),Stray,Injured,Dog,Intact Male,1.0,Australian Cattle Dog Mix,Other,2019-01-03 16:02:00,Neutered Male,1.0,0.0,23,N,N
+A670528,Y,2014-01-09 15:02:00,Austin (TX),Stray,Normal,Dog,Spayed Female,5.0,Dachshund Mix,Black/Brown,2014-01-20 14:26:00,Spayed Female,5.0,0.0,10,N,N
+A688578,Y,2014-09-20 18:26:00,Austin (TX),Stray,Normal,Dog,Intact Male,2.0,Pit Bull Mix,Black/White,2014-09-22 17:29:00,Neutered Male,2.0,0.0,1,N,N
+A679535,N,2014-05-22 13:00:00,Austin (TX),Stray,Nursing,Cat,Intact Male,0.038461538461538464,Domestic Shorthair,Other,2014-05-23 09:14:00,Intact Male,0.038461538461538464,0.0,0,N,Y
+A809891,Y,2019-12-03 12:40:00,Austin (TX),Owner Surrender,Normal,Dog,Neutered Male,2.0,Other,Black/White,2019-12-12 11:47:00,Neutered Male,2.0,0.0,8,N,N
+A801008,N,2019-07-30 08:19:00,Austin (TX),Wildlife,Normal,Bat,Unknown,2.0,Other,Black,2019-07-30 10:13:00,Unknown,2.0,1.0,0,Y,N
+A749806,Y,2017-05-19 16:15:00,Austin (TX),Stray,Normal,Dog,Intact Female,1.0,Chihuahua Shorthair Mix,Black/Brown,2017-05-23 17:49:00,Spayed Female,1.0,0.0,4,N,N
+A740000,Y,2016-12-10 11:31:00,Austin (TX),Stray,Normal,Cat,Intact Female,0.08333333333333333,Domestic Shorthair,Black,2017-01-29 17:59:00,Spayed Female,0.16666666666666666,0.0,50,N,Y
+A718625,Y,2016-01-03 15:22:00,Austin (TX),Stray,Normal,Dog,Intact Male,0.16666666666666666,Other,Tricolor,2016-01-17 12:32:00,Intact Male,0.25,0.0,13,N,Y
+A707028,N,2015-07-06 23:14:00,Austin (TX),Stray,Normal,Cat,Intact Female,2.0,Domestic Medium Hair,Black/White,2015-07-07 09:00:00,Intact Female,3.0,0.0,0,N,N
+A809541,N,2019-11-26 12:12:00,Austin (TX),Stray,Injured,Dog,Intact Male,13.0,Other,Black,2019-11-27 16:49:00,Intact Male,13.0,0.0,1,N,N
+A707529,Y,2015-07-14 13:13:00,Travis (TX),Stray,Injured,Dog,Intact Male,1.0,Chihuahua Shorthair Mix,White/Tan,2015-07-22 13:02:00,Neutered Male,1.0,0.0,7,N,N
+A729497,Y,2016-06-19 12:13:00,Austin (TX),Stray,Normal,Dog,Intact Male,2.0,Chihuahua Shorthair Mix,Brown/White,2016-07-12 00:00:00,Neutered Male,2.0,0.0,22,N,N
+A744359,N,2017-02-27 15:03:00,Austin (TX),Wildlife,Normal,Bat,Unknown,3.0,Other,Brown,2017-03-01 08:18:00,Unknown,3.0,1.0,1,Y,N
+A773600,N,2018-06-03 12:12:00,Austin (TX),Stray,Normal,Cat,Unknown,0.4166666666666667,American Shorthair Mix,Black,2018-06-06 19:22:00,Unknown,0.5,0.0,3,N,Y
+A700811,N,2015-04-20 08:52:00,Austin (TX),Stray,Injured,Dog,Neutered Male,4.0,Labrador Retriever Mix,Other,2015-04-20 15:39:00,Neutered Male,4.0,0.0,0,N,N
+A711909,Y,2015-09-13 15:31:00,Austin (TX),Stray,Normal,Dog,Spayed Female,5.0,Other,Other,2015-09-13 16:42:00,Spayed Female,5.0,0.0,0,N,N
+A607459,Y,2015-05-21 10:17:00,Austin (TX),Stray,Normal,Dog,Intact Male,4.0,Pit Bull Mix,Blue/White,2015-05-22 18:46:00,Intact Male,4.0,0.0,1,N,N
+A711419,Y,2015-09-06 15:13:00,Austin (TX),Stray,Normal,Cat,Intact Male,0.08333333333333333,Domestic Shorthair,Orange Tabby,2015-09-11 13:56:00,Intact Male,0.08333333333333333,0.0,4,N,Y
+A727191,Y,2016-05-19 13:50:00,Austin (TX),Stray,Normal,Cat,Intact Female,0.08333333333333333,Domestic Shorthair,Other,2016-06-04 15:56:00,Intact Female,0.08333333333333333,0.0,16,N,Y
+A687170,N,2014-09-01 15:14:00,Austin (TX),Stray,Injured,Cat,Intact Male,1.0,Other,Blue,2014-09-01 15:41:00,Intact Male,1.0,1.0,0,N,N
+A723069,Y,2016-03-26 09:27:00,Travis (TX),Stray,Normal,Dog,Intact Male,3.0,Labrador Retriever,Black,2016-04-02 16:50:00,Neutered Male,3.0,0.0,7,N,N
+A736342,Y,2016-11-26 18:32:00,Austin (TX),Owner Surrender,Normal,Cat,Neutered Male,0.16666666666666666,Domestic Shorthair,Black/White,2016-11-27 18:35:00,Neutered Male,0.16666666666666666,0.0,1,N,Y
+A329968,Y,2013-10-21 15:06:00,Austin (TX),Stray,Normal,Dog,Neutered Male,14.0,Labrador Retriever,Other,2013-10-21 18:43:00,Neutered Male,14.0,0.0,0,N,N
+A749810,Y,2017-05-19 18:22:00,Austin (TX),Stray,Normal,Cat,Neutered Male,1.0,Other,Brown Tabby,2017-05-20 11:51:00,Neutered Male,1.0,0.0,0,N,N
+A669175,N,2013-12-16 14:30:00,Austin (TX),Wildlife,Normal,Bat,Unknown,2.0,Other,Brown,2013-12-16 14:43:00,Unknown,2.0,1.0,0,Y,N
+A774021,N,2018-06-09 11:03:00,Travis (TX),Stray,Normal,Dog,Intact Female,0.08333333333333333,Other,Other,2018-06-25 19:13:00,Spayed Female,0.16666666666666666,0.0,16,N,Y
+A796332,Y,2019-05-31 13:13:00,Austin (TX),Owner Surrender,Normal,Cat,Intact Female,0.07692307692307693,Domestic Shorthair,Brown Tabby,2019-06-04 12:55:00,Intact Female,0.07692307692307693,0.0,3,N,Y
+A771880,N,2018-05-11 13:56:00,Travis (TX),Wildlife,Normal,Bat,Unknown,1.0,Other,Brown,2018-05-13 09:05:00,Unknown,1.0,1.0,1,Y,N
+A730649,N,2016-07-08 06:59:00,Austin (TX),Stray,Injured,Cat,Unknown,0.019230769230769232,Domestic Medium Hair,Other,2016-07-08 13:27:00,Unknown,0.019230769230769232,0.0,0,N,Y
+A677076,Y,2014-04-19 11:37:00,Austin (TX),Stray,Normal,Cat,Intact Female,0.25,Domestic Shorthair,Torbie,2014-04-23 18:40:00,Spayed Female,0.25,0.0,4,N,Y
+A718125,Y,2015-12-21 16:02:00,Austin (TX),Owner Surrender,Normal,Dog,Intact Male,2.0,Pit Bull Mix,White/Tan,2015-12-29 18:08:00,Neutered Male,2.0,0.0,8,N,N
+A785601,N,2018-12-05 17:31:00,Austin (TX),Stray,Normal,Cat,Intact Male,2.0,Domestic Shorthair,Orange Tabby,2018-12-13 11:10:00,Intact Male,2.0,0.0,7,N,N
+A711122,N,2015-09-02 12:29:00,Austin (TX),Stray,Normal,Cat,Unknown,0.019230769230769232,Domestic Shorthair,Orange Tabby,2015-09-21 15:55:00,Unknown,0.0576923076923077,0.0,19,N,Y
+A785625,N,2018-12-06 11:21:00,Pflugerville (TX),Stray,Normal,Dog,Intact Female,0.4166666666666667,Other,Tan,2018-12-12 11:55:00,Intact Female,0.4166666666666667,0.0,6,N,Y
+A731579,N,2016-07-23 12:20:00,Austin (TX),Stray,Nursing,Dog,Intact Female,0.0,Other,Black,2016-08-25 00:00:00,Intact Female,0.07692307692307693,0.0,32,N,Y
+A673004,Y,2014-02-19 07:22:00,Austin (TX),Stray,Injured,Cat,Intact Male,5.0,Domestic Shorthair,Black/White,2014-04-04 13:14:00,Neutered Male,5.0,0.0,44,N,N
+A774750,Y,2018-06-19 15:58:00,Austin (TX),Stray,Normal,Dog,Intact Female,0.6666666666666666,Great Pyrenees Mix,White,2018-06-19 18:18:00,Intact Female,0.6666666666666666,0.0,0,N,Y
+A489503,Y,2014-09-21 14:44:00,Austin (TX),Euthanasia Request,Sick,Cat,Spayed Female,7.0,Domestic Shorthair,Brown Tabby/White,2014-09-21 16:26:00,Spayed Female,7.0,1.0,0,N,N
+A689350,Y,2014-10-02 14:09:00,Travis (TX),Stray,Normal,Dog,Intact Male,0.3333333333333333,Other,Other,2014-10-12 12:55:00,Neutered Male,0.4166666666666667,0.0,9,N,Y
+A751293,Y,2017-06-06 12:10:00,Austin (TX),Stray,Normal,Cat,Intact Female,0.08333333333333333,Domestic Medium Hair,Blue,2017-07-19 17:47:00,Spayed Female,0.25,0.0,43,N,Y
+A782823,N,2018-10-21 14:28:00,Austin (TX),Stray,Normal,Dog,Intact Female,0.25,Pit Bull Mix,Blue/White,2018-10-25 16:18:00,Spayed Female,0.25,0.0,4,N,Y
+A811428,Y,2020-01-03 12:58:00,Austin (TX),Stray,Normal,Dog,Intact Female,3.0,Pit Bull,Brown/White,2020-01-15 12:53:00,Intact Female,3.0,0.0,11,N,N
+A775540,Y,2018-07-01 16:08:00,Austin (TX),Owner Surrender,Normal,Dog,Intact Female,2.0,Yorkshire Terrier Mix,Tan,2018-07-02 12:35:00,Intact Female,2.0,0.0,0,N,N
+A754261,N,2017-07-18 11:23:00,Travis (TX),Stray,Normal,Dog,Intact Female,1.0,Other,Brown/White,2017-07-22 17:16:00,Spayed Female,1.0,0.0,4,N,N
+A684576,Y,2014-07-25 16:38:00,Austin (TX),Stray,Normal,Dog,Intact Female,3.0,Other,White,2014-07-28 11:33:00,Spayed Female,3.0,0.0,2,N,N
+A770897,Y,2018-04-26 18:23:00,Austin (TX),Owner Surrender,Normal,Dog,Neutered Male,1.0,Jack Russell Terrier Mix,Brown/White,2018-04-27 14:51:00,Neutered Male,1.0,0.0,0,N,N
+A804352,Y,2019-09-13 14:52:00,Austin (TX),Owner Surrender,Normal,Cat,Intact Female,0.08333333333333333,Domestic Medium Hair,Blue/White,2019-10-16 12:47:00,Spayed Female,0.16666666666666666,0.0,32,N,Y
+A791480,Y,2019-03-26 12:45:00,Austin (TX),Stray,Injured,Cat,Neutered Male,2.0,Domestic Shorthair,Other,2019-04-11 15:29:00,Neutered Male,2.0,0.0,16,N,N
+A775817,N,2018-07-05 11:20:00,Manor (TX),Stray,Normal,Dog,Intact Male,0.07692307692307693,Labrador Retriever Mix,Black/White,2018-07-05 14:59:00,Intact Male,0.07692307692307693,0.0,0,N,Y
+A739257,Y,2016-11-29 16:54:00,Austin (TX),Stray,Normal,Cat,Spayed Female,1.0,Domestic Shorthair,Tortie,2016-11-29 18:26:00,Spayed Female,1.0,0.0,0,N,N
+A738445,Y,2016-11-15 12:19:00,Austin (TX),Stray,Normal,Dog,Intact Male,1.0,Other,White,2016-11-19 18:08:00,Neutered Male,1.0,0.0,4,N,N
+A712427,Y,2015-09-27 17:04:00,Rock (TX),Owner Surrender,Normal,Dog,Neutered Male,0.25,Australian Cattle Dog Mix,Black/Brown,2017-12-01 12:04:00,Neutered Male,2.0,0.0,130,N,Y
+A669430,Y,2014-12-06 14:02:00,Austin (TX),Stray,Normal,Dog,Spayed Female,1.0,Pit Bull Mix,White/Tan,2016-07-05 15:09:00,Spayed Female,3.0,0.0,130,N,N
+A701782,Y,2015-05-04 16:56:00,Valle (TX),Stray,Normal,Cat,Intact Female,2.0,Domestic Shorthair,Brown Tabby,2016-05-26 09:09:00,Spayed Female,3.0,0.0,130,N,N
+A750529,N,2017-05-28 13:22:00,Austin (TX),Stray,Normal,Dog,Intact Female,0.4166666666666667,Other,Other,2017-06-01 16:42:00,Spayed Female,0.4166666666666667,0.0,4,N,Y
+A677098,Y,2014-04-19 13:21:00,Austin (TX),Stray,Normal,Cat,Intact Female,0.0576923076923077,Domestic Shorthair,Black,2014-09-11 14:22:00,Intact Female,0.4166666666666667,0.0,130,N,Y
+A701009,Y,2015-04-22 14:25:00,Pflugerville (TX),Stray,Normal,Dog,Intact Female,2.0,Labrador Retriever Mix,Black,2015-05-27 17:49:00,Intact Female,2.0,0.0,35,N,N
+A715303,Y,2015-11-03 14:41:00,Park (TX),Stray,Normal,Dog,Spayed Female,6.0,Other,Other,2015-11-04 11:33:00,Spayed Female,6.0,0.0,0,N,N
+A680774,Y,2014-06-07 15:46:00,Austin (TX),Stray,Normal,Dog,Intact Female,0.25,Cairn Terrier Mix,Brown,2014-06-14 12:46:00,Spayed Female,0.3333333333333333,0.0,6,N,Y
+A734813,Y,2016-09-13 13:01:00,Austin (TX),Stray,Normal,Cat,Intact Female,2.0,Domestic Longhair,Torbie,2016-09-17 12:17:00,Intact Female,2.0,0.0,3,N,N
+A634843,Y,2015-07-16 16:50:00,Austin (TX),Owner Surrender,Normal,Dog,Neutered Male,3.0,Pit Bull Mix,Other,2015-07-16 18:20:00,Neutered Male,3.0,0.0,0,N,N
+A810983,Y,2019-12-26 07:32:00,Austin (TX),Owner Surrender,Sick,Cat,Intact Female,0.16666666666666666,Domestic Shorthair,Tortie,2019-12-30 13:33:00,Intact Female,0.16666666666666666,0.0,4,N,Y
+A744384,Y,2017-03-06 08:39:00,Austin (TX),Public Assist,Normal,Dog,Spayed Female,1.0,Other,Black/White,2017-03-16 11:54:00,Spayed Female,1.0,0.0,10,N,N
+A773187,Y,2018-05-29 10:56:00,Austin (TX),Stray,Normal,Dog,Spayed Female,3.0,Other,White/Tan,2018-05-29 18:39:00,Spayed Female,3.0,0.0,0,N,N
+A715223,Y,2015-11-02 11:54:00,Travis (TX),Stray,Normal,Dog,Intact Male,0.3333333333333333,Labrador Retriever Mix,Black,2015-11-07 17:56:00,Intact Male,0.3333333333333333,0.0,5,N,Y
+A703481,N,2015-05-25 11:18:00,Austin (TX),Stray,Normal,Dog,Intact Female,2.0,Chihuahua Shorthair Mix,Tan,2015-05-30 18:32:00,Spayed Female,2.0,0.0,5,N,N
+A721330,Y,2016-02-24 17:40:00,Austin (TX),Owner Surrender,Normal,Dog,Intact Male,0.08333333333333333,German Shepherd Mix,Tan,2016-03-05 17:40:00,Neutered Male,0.08333333333333333,0.0,10,N,Y
+A571229,Y,2014-03-14 23:04:00,Travis (TX),Stray,Normal,Dog,Intact Male,7.0,Pit Bull Mix,Other,2014-03-27 08:11:00,Neutered Male,7.0,0.0,12,N,N
+A681905,Y,2014-06-21 15:10:00,Austin (TX),Stray,Normal,Cat,Intact Female,0.08333333333333333,Domestic Medium Hair,Black/White,2014-07-11 17:43:00,Intact Female,0.16666666666666666,0.0,20,N,Y
+A795208,Y,2019-05-17 16:06:00,Austin (TX),Stray,Normal,Cat,Intact Female,1.0,Other,Tortie,2019-09-13 12:39:00,Spayed Female,1.0,0.0,118,N,N
+A665244,Y,2013-10-15 14:56:00,Austin (TX),Euthanasia Request,Aged,Dog,Neutered Male,13.0,Miniature Poodle Mix,Brown,2013-10-15 17:23:00,Neutered Male,13.0,1.0,0,N,N
+A768896,N,2018-03-26 21:47:00,Austin (TX),Wildlife,Normal,Bat,Unknown,1.0,Other,Brown,2018-03-27 08:01:00,Unknown,1.0,1.0,0,Y,N
+A749046,Y,2017-05-10 14:08:00,Ridge (TX),Stray,Normal,Dog,Intact Female,4.0,Other,Black/Tan,2017-05-29 16:59:00,Spayed Female,4.0,0.0,19,N,N
+A704477,N,2015-06-05 12:46:00,Leander (TX),Stray,Normal,Cat,Intact Female,1.0,Domestic Longhair,Tortie,2015-06-06 09:00:00,Intact Female,1.0,0.0,0,N,N
+A694721,Y,2015-01-03 07:50:00,Travis (TX),Stray,Injured,Dog,Intact Male,3.0,Other,Black,2015-01-12 14:40:00,Neutered Male,3.0,0.0,9,N,N
+A744336,Y,2017-02-27 12:03:00,Austin (TX),Stray,Normal,Dog,Neutered Male,2.0,Pit Bull Mix,Brown Brindle/White,2017-03-04 17:38:00,Neutered Male,2.0,0.0,5,N,N
+A809085,Y,2019-11-18 17:37:00,Austin (TX),Stray,Normal,Cat,Intact Male,0.16666666666666666,Domestic Medium Hair,Orange Tabby,2019-11-25 16:59:00,Neutered Male,0.16666666666666666,0.0,6,N,Y
+A782216,N,2018-10-11 18:55:00,Austin (TX),Stray,Normal,Cat,Intact Female,2.0,Domestic Medium Hair,Calico,2018-10-15 16:53:00,Intact Female,2.0,0.0,3,N,N
+A798070,Y,2019-06-21 11:36:00,Creedmoor (TX),Owner Surrender,Normal,Dog,Intact Male,0.08333333333333333,Pit Bull,Black/White,2019-07-07 15:17:00,Intact Male,0.16666666666666666,0.0,16,N,Y
+A789428,N,2019-02-21 14:42:00,Austin (TX),Owner Surrender,Normal,Mouse,Unknown,0.07692307692307693,Other,Other,2019-02-22 16:07:00,Unknown,0.07692307692307693,0.0,1,N,Y
+A810384,N,2019-12-12 13:31:00,Austin (TX),Stray,Normal,Cat,Neutered Male,8.0,Domestic Shorthair,Brown Tabby,2019-12-16 08:27:00,Neutered Male,8.0,1.0,3,N,N
+A754263,Y,2017-08-14 15:53:00,Austin (TX),Stray,Normal,Dog,Spayed Female,3.0,Other,Blue/White,2017-08-18 12:22:00,Spayed Female,3.0,0.0,3,N,N
+A798206,N,2019-06-23 11:03:00,Austin (TX),Stray,Normal,Cat,Intact Female,0.08333333333333333,Domestic Shorthair,Brown Tabby,2019-06-26 13:57:00,Intact Female,0.08333333333333333,0.0,3,N,Y
+A709973,Y,2015-08-15 12:13:00,Austin (TX),Stray,Normal,Cat,Intact Female,0.08333333333333333,Domestic Shorthair,Black,2015-10-20 09:39:00,Spayed Female,0.25,0.0,65,N,Y
+A781858,Y,2018-10-06 16:56:00,Austin (TX),Stray,Normal,Cat,Neutered Male,1.0,Domestic Medium Hair,Other,2018-10-21 17:24:00,Neutered Male,1.0,0.0,15,N,N
+A801577,Y,2019-08-06 10:50:00,Manor (TX),Stray,Normal,Dog,Intact Male,3.0,Labrador Retriever,Other,2019-08-22 16:15:00,Neutered Male,3.0,0.0,16,N,N
+A672149,N,2014-02-05 13:11:00,Travis (TX),Wildlife,Normal,Raccoon,Unknown,1.0,Other,Black,2014-02-05 14:10:00,Unknown,1.0,1.0,0,Y,N
+A747659,N,2017-04-23 10:59:00,Austin (TX),Stray,Normal,Cat,Neutered Male,2.0,Domestic Shorthair,Orange Tabby,2017-05-04 18:54:00,Neutered Male,2.0,0.0,11,N,N
+A790970,N,2019-03-19 14:52:00,Austin (TX),Stray,Normal,Dog,Spayed Female,3.0,Chihuahua Shorthair Mix,Brown/White,2019-03-20 15:53:00,Spayed Female,3.0,0.0,1,N,N
+A688988,Y,2014-10-10 16:27:00,Austin (TX),Owner Surrender,Normal,Cat,Spayed Female,9.0,Other,Other,2014-10-12 17:54:00,Spayed Female,9.0,0.0,2,N,N
+A775232,N,2018-06-26 16:25:00,Austin (TX),Stray,Injured,Cat,Intact Male,2.0,Domestic Shorthair,Other,2018-06-28 08:10:00,Intact Male,2.0,0.0,1,N,N
+A728725,N,2016-06-07 15:08:00,Austin (TX),Wildlife,Normal,Bat,Unknown,0.07692307692307693,Other,Other,2016-06-08 08:28:00,Unknown,0.07692307692307693,1.0,0,Y,Y
+A723499,Y,2016-04-02 11:23:00,Austin (TX),Stray,Normal,Cat,Intact Female,1.0,Domestic Shorthair,Other,2016-04-06 07:59:00,Intact Female,1.0,0.0,3,N,N
+A671882,Y,2014-01-31 17:57:00,Austin (TX),Stray,Normal,Dog,Intact Female,0.5,Pit Bull Mix,Black/White,2014-02-15 12:34:00,Spayed Female,0.5,0.0,14,N,Y
+A783974,Y,2018-11-09 15:21:00,Austin (TX),Stray,Normal,Dog,Intact Female,0.3333333333333333,Great Pyrenees Mix,White,2019-03-07 18:15:00,Spayed Female,0.6666666666666666,0.0,118,N,Y
+A592923,Y,2014-01-05 15:43:00,Austin (TX),Stray,Normal,Dog,Neutered Male,11.0,Other,Black,2014-01-07 13:11:00,Neutered Male,11.0,0.0,1,N,N
+A706492,Y,2015-06-29 15:11:00,Austin (TX),Stray,Normal,Dog,Intact Female,0.08333333333333333,Dachshund Mix,Black/White,2015-07-05 16:44:00,Spayed Female,0.16666666666666666,0.0,6,N,Y
+A684253,Y,2014-07-21 12:45:00,Austin (TX),Stray,Normal,Dog,Spayed Female,10.0,Other,White/Chocolate,2014-09-08 13:28:00,Spayed Female,10.0,0.0,49,N,N
+A693481,N,2014-12-08 18:45:00,Austin (TX),Stray,Injured,Cat,Intact Male,2.0,Domestic Medium Hair,White/Orange Tabby,2014-12-09 15:19:00,Intact Male,2.0,1.0,0,N,N
+A775534,N,2018-07-01 13:39:00,Austin (TX),Stray,Normal,Cat,Intact Male,0.25,Domestic Shorthair,White/Orange Tabby,2018-07-05 18:02:00,Neutered Male,0.25,0.0,4,N,Y
+A757158,Y,2017-08-30 18:44:00,Austin (TX),Stray,Normal,Dog,Intact Female,0.3333333333333333,Labrador Retriever Mix,Black/White,2017-08-31 14:12:00,Intact Female,0.3333333333333333,0.0,0,N,Y
+A664275,Y,2013-10-01 14:12:00,Austin (TX),Stray,Normal,Dog,Intact Male,2.0,Chihuahua Shorthair Mix,Tricolor,2013-10-13 17:04:00,Neutered Male,2.0,0.0,12,N,N
+A809276,Y,2019-11-22 11:13:00,Austin (TX),Stray,Normal,Dog,Intact Male,0.75,Labrador Retriever Mix,Black/White,2019-12-03 17:20:00,Neutered Male,0.8333333333333334,0.0,11,N,Y
+A669102,Y,2013-12-14 13:54:00,Austin (TX),Stray,Normal,Dog,Intact Male,4.0,Jack Russell Terrier Mix,Other,2013-12-18 18:54:00,Neutered Male,4.0,0.0,4,N,N
+A698665,Y,2015-03-15 18:36:00,Austin (TX),Stray,Normal,Dog,Spayed Female,4.0,Other,Other,2015-03-16 11:07:00,Spayed Female,4.0,0.0,0,N,N
+A758574,Y,2017-10-27 10:12:00,Austin (TX),Public Assist,Normal,Dog,Intact Female,0.4166666666666667,Chihuahua Shorthair Mix,Brown Brindle/White,2017-11-02 13:50:00,Intact Female,0.4166666666666667,0.0,6,N,Y
+A729242,N,2016-06-15 09:56:00,Austin (TX),Stray,Normal,Dog,Intact Female,1.0,Dachshund Mix,Other,2016-06-19 17:40:00,Spayed Female,1.0,0.0,4,N,N
+A678811,Y,2014-05-13 10:59:00,Austin (TX),Owner Surrender,Normal,Cat,Spayed Female,6.0,Domestic Shorthair,Black,2014-05-26 18:04:00,Spayed Female,6.0,0.0,13,N,N
+A714330,Y,2015-10-29 11:06:00,Austin (TX),Stray,Normal,Dog,Neutered Male,1.0,Labrador Retriever Mix,Other,2015-11-14 15:10:00,Neutered Male,1.0,0.0,16,N,N
+A689692,N,2014-10-08 10:39:00,Austin (TX),Stray,Normal,Cat,Intact Female,0.0576923076923077,Domestic Shorthair,Black,2014-10-08 13:08:00,Intact Female,0.0576923076923077,0.0,0,N,Y
+A688576,Y,2014-09-20 18:12:00,Travis (TX),Stray,Normal,Dog,Intact Male,1.0,German Shepherd Mix,White/Tan,2014-10-18 13:24:00,Neutered Male,1.0,0.0,27,N,N
+A800899,Y,2019-07-28 15:13:00,Austin (TX),Stray,Normal,Dog,Spayed Female,13.0,Other,Black,2019-07-28 17:13:00,Spayed Female,13.0,0.0,0,N,N
+A793749,Y,2019-04-29 13:40:00,Austin (TX),Owner Surrender,Normal,Dog,Intact Male,0.9166666666666666,Australian Cattle Dog Mix,Black/White,2019-05-04 12:22:00,Neutered Male,0.9166666666666666,0.0,4,N,Y
+A758289,Y,2017-09-13 15:42:00,Austin (TX),Stray,Normal,Cat,Intact Male,0.08333333333333333,American Shorthair Mix,Black,2017-10-12 06:20:00,Neutered Male,0.16666666666666666,0.0,28,N,Y
+A793441,Y,2019-04-25 11:50:00,Austin (TX),Stray,Normal,Dog,Intact Female,1.0,Jack Russell Terrier Mix,Tricolor,2019-04-26 15:24:00,Intact Female,1.0,0.0,1,N,N
+A664931,Y,2014-12-04 13:52:00,Austin (TX),Stray,Normal,Dog,Neutered Male,2.0,Rat Terrier Mix,Brown/White,2014-12-04 15:43:00,Neutered Male,2.0,0.0,0,N,N
+A684463,Y,2014-12-19 16:37:00,Austin (TX),Owner Surrender,Normal,Dog,Neutered Male,1.0,Australian Cattle Dog Mix,Black/White,2014-12-21 11:24:00,Neutered Male,1.0,0.0,1,N,N
+A778432,N,2018-08-14 16:32:00,Austin (TX),Stray,Normal,Livestock,Intact Female,0.25,Other,Black/White,2019-04-02 11:35:00,Intact Female,0.8333333333333334,0.0,130,N,Y
+A695288,Y,2015-01-13 11:25:00,Austin (TX),Owner Surrender,Normal,Cat,Spayed Female,2.0,Domestic Shorthair,Blue/White,2015-01-17 15:05:00,Spayed Female,2.0,0.0,4,N,N
+A787843,Y,2019-01-21 10:50:00,Austin (TX),Stray,Normal,Dog,Intact Male,9.0,Miniature Poodle Mix,White,2019-01-28 16:30:00,Intact Male,9.0,0.0,7,N,N
+A767530,Y,2018-03-02 18:46:00,Austin (TX),Stray,Normal,Dog,Intact Male,2.0,Staffordshire Mix,White/Tan,2018-05-16 00:00:00,Neutered Male,2.0,0.0,74,N,N
+A757689,Y,2017-09-05 09:59:00,Austin (TX),Stray,Normal,Dog,Intact Male,3.0,German Shepherd Mix,Other,2017-09-05 11:54:00,Intact Male,3.0,0.0,0,N,N
+A777881,Y,2018-08-04 17:01:00,Austin (TX),Stray,Normal,Dog,Intact Male,0.16666666666666666,Other,Brown/White,2018-08-08 17:09:00,Intact Male,0.16666666666666666,0.0,4,N,Y
+A704039,Y,2015-05-31 17:18:00,Manor (TX),Stray,Normal,Cat,Intact Male,0.08333333333333333,Domestic Shorthair,Black/White,2015-07-14 18:49:00,Neutered Male,0.16666666666666666,0.0,44,N,Y
+A801135,N,2019-07-31 15:18:00,Austin (TX),Stray,Normal,Cat,Unknown,0.019230769230769232,Domestic Shorthair,Other,2019-07-31 18:09:00,Unknown,0.019230769230769232,0.0,0,N,Y
+A792461,Y,2019-09-18 19:12:00,Travis (TX),Owner Surrender,Normal,Dog,Spayed Female,0.75,Australian Cattle Dog Mix,Black/White,2019-09-20 19:06:00,Spayed Female,0.75,0.0,1,N,Y
+A733719,N,2016-08-26 13:09:00,Austin (TX),Owner Surrender,Normal,Cat,Intact Male,0.0576923076923077,Domestic Shorthair,Brown Tabby,2016-08-26 14:58:00,Intact Male,0.0576923076923077,0.0,0,N,Y
+A809392,N,2019-11-23 15:28:00,Manor (TX),Stray,Normal,Dog,Intact Male,1.0,Other,Brown/White,2019-11-29 10:36:00,Neutered Male,1.0,0.0,5,N,N
+A778605,N,2018-08-17 15:10:00,Austin (TX),Wildlife,Sick,Skunk,Unknown,1.0,Other,Black/White,2018-08-17 15:38:00,Unknown,1.0,1.0,0,Y,N
+A810615,N,2019-12-16 17:02:00,Austin (TX),Stray,Normal,Cat,Intact Female,0.08333333333333333,Domestic Shorthair,Other,2019-12-24 16:50:00,Intact Female,0.08333333333333333,0.0,7,N,Y
+A662933,Y,2013-10-12 12:43:00,Valle (TX),Stray,Normal,Dog,Neutered Male,7.0,Other,Black/Brown,2013-10-12 17:13:00,Neutered Male,7.0,0.0,0,N,N
+A742516,N,2017-01-23 09:23:00,Travis (TX),Wildlife,Injured,Raccoon,Unknown,2.0,Other,Other,2017-01-24 08:07:00,Unknown,2.0,1.0,0,Y,N
+A779486,Y,2018-09-01 16:41:00,Outside Jurisdiction,Stray,Normal,Cat,Intact Female,0.08333333333333333,Domestic Longhair,Black,2019-09-06 11:35:00,Spayed Female,1.0,0.0,130,N,Y
+A703654,Y,2015-05-27 16:11:00,Austin (TX),Owner Surrender,Normal,Dog,Intact Female,2.0,Pit Bull Mix,Other,2015-05-31 13:21:00,Intact Female,2.0,0.0,3,N,N
+A701836,N,2015-05-05 11:09:00,Pflugerville (TX),Stray,Normal,Cat,Unknown,0.01643835616438356,Domestic Shorthair,Black/White,2015-05-05 13:26:00,Unknown,0.01643835616438356,0.0,0,N,Y
+A729191,Y,2016-06-14 14:42:00,Austin (TX),Stray,Normal,Cat,Intact Male,0.07692307692307693,Domestic Shorthair,Brown Tabby,2016-07-17 17:13:00,Neutered Male,0.16666666666666666,0.0,33,N,Y
+A749639,Y,2017-05-17 13:34:00,Austin (TX),Stray,Normal,Cat,Intact Male,0.08333333333333333,Domestic Shorthair,Black,2017-07-15 10:16:00,Neutered Male,0.25,0.0,58,N,Y
+A692122,N,2014-11-14 18:13:00,Austin (TX),Stray,Normal,Dog,Unknown,0.07692307692307693,Other,Tan,2014-11-14 18:36:00,Unknown,0.07692307692307693,1.0,0,N,Y
+A710371,N,2015-08-22 12:00:00,Austin (TX),Stray,Normal,Cat,Unknown,0.019230769230769232,Domestic Shorthair,White/Orange Tabby,2015-08-22 15:43:00,Unknown,0.019230769230769232,0.0,0,N,Y
+A789364,Y,2019-02-20 12:53:00,Austin (TX),Stray,Normal,Dog,Intact Female,1.0,German Shepherd Mix,Black/Brown,2019-02-25 18:19:00,Spayed Female,1.0,0.0,5,N,N
+A727600,Y,2016-05-23 15:08:00,Austin (TX),Owner Surrender,Normal,Cat,Spayed Female,10.0,Siamese Mix,Other,2017-12-07 10:05:00,Spayed Female,11.0,0.0,130,N,N
+A805741,N,2019-10-01 14:09:00,Austin (TX),Stray,Normal,Cat,Intact Male,0.08333333333333333,Domestic Shorthair,Black/White,2019-11-12 12:07:00,Neutered Male,0.16666666666666666,0.0,41,N,Y
+A685671,N,2014-08-11 07:06:00,Austin (TX),Stray,Normal,Cat,Intact Female,0.08333333333333333,Domestic Shorthair,Other,2014-08-13 11:35:00,Intact Female,0.08333333333333333,0.0,2,N,Y
+A734823,N,2016-09-13 15:40:00,Austin (TX),Stray,Normal,Cat,Intact Female,0.07692307692307693,Domestic Shorthair,Orange Tabby,2016-09-16 11:39:00,Intact Female,0.08333333333333333,1.0,2,N,Y
+A699568,N,2015-03-29 16:53:00,Austin (TX),Wildlife,Normal,Bat,Unknown,1.0,Other,Black/Brown,2015-03-29 17:06:00,Unknown,1.0,1.0,0,Y,N
+A783618,Y,2018-11-03 00:42:00,Austin (TX),Public Assist,Normal,Dog,Neutered Male,19.0,Other,Brown/White,2018-11-04 19:15:00,Neutered Male,19.0,0.0,1,N,N
+A750148,Y,2017-05-23 15:49:00,Austin (TX),Owner Surrender,Normal,Cat,Intact Female,4.0,Domestic Shorthair,Black/White,2017-09-04 13:51:00,Spayed Female,4.0,0.0,103,N,N
+A675549,Y,2014-03-29 07:32:00,Austin (TX),Stray,Normal,Dog,Intact Male,4.0,Chihuahua Shorthair Mix,Brown/White,2014-04-08 15:29:00,Neutered Male,4.0,0.0,10,N,N
+A698366,Y,2015-09-19 16:28:00,Pflugerville (TX),Stray,Normal,Dog,Intact Female,7.0,Other,Brown/White,2015-09-21 15:29:00,Intact Female,7.0,0.0,1,N,N
+A791484,N,2019-03-26 11:57:00,Travis (TX),Stray,Normal,Cat,Intact Male,0.038461538461538464,Domestic Shorthair,Black,2019-03-26 13:49:00,Intact Male,0.038461538461538464,0.0,0,N,Y
+A748291,Y,2017-05-01 14:26:00,Austin (TX),Stray,Normal,Dog,Intact Female,0.8333333333333334,Pit Bull Mix,Black,2017-09-04 00:00:00,Spayed Female,1.0,0.0,125,N,Y
+A696802,N,2015-02-12 15:43:00,Austin (TX),Stray,Normal,Dog,Intact Male,0.16666666666666666,Other,Other,2015-02-16 17:36:00,Neutered Male,0.16666666666666666,0.0,4,N,Y
+A671554,Y,2014-01-27 10:55:00,Austin (TX),Owner Surrender,Normal,Dog,Intact Male,0.8333333333333334,Other,Brown/White,2014-02-01 15:34:00,Neutered Male,0.9166666666666666,0.0,5,N,Y
+A743665,Y,2017-02-14 13:03:00,Austin (TX),Owner Surrender,Normal,Dog,Intact Male,1.0,Labrador Retriever Mix,Other,2017-03-03 13:02:00,Intact Male,1.0,0.0,16,N,N
+A726746,N,2016-05-14 00:00:00,Austin (TX),Stray,Normal,Cat,Intact Male,0.038461538461538464,Domestic Shorthair,Orange Tabby,2016-05-14 11:49:00,Intact Male,0.038461538461538464,0.0,0,N,Y
+A756627,N,2017-08-23 11:13:00,Austin (TX),Public Assist,Normal,Cat,Intact Male,0.4166666666666667,Domestic Shorthair,Brown Tabby/White,2017-08-23 11:54:00,Intact Male,0.4166666666666667,1.0,0,N,Y
+A593109,Y,2015-12-21 16:01:00,Austin (TX),Stray,Normal,Dog,Spayed Female,6.0,Pit Bull Mix,Black/White,2015-12-21 18:17:00,Spayed Female,6.0,0.0,0,N,N
+A732538,Y,2016-08-09 14:43:00,Austin (TX),Public Assist,Normal,Dog,Neutered Male,10.0,Other,Other,2016-08-17 15:58:00,Neutered Male,10.0,0.0,8,N,N
+A744106,N,2017-02-23 11:05:00,Austin (TX),Stray,Normal,Dog,Intact Female,0.16666666666666666,Other,White,2017-02-28 18:49:00,Spayed Female,0.16666666666666666,0.0,5,N,Y
+A666473,Y,2013-11-01 17:42:00,Austin (TX),Stray,Normal,Dog,Intact Female,3.0,Other,Black/White,2013-11-07 12:45:00,Spayed Female,3.0,0.0,5,N,N
+A773985,Y,2018-06-08 13:46:00,Austin (TX),Stray,Normal,Dog,Intact Male,2.0,German Shepherd Mix,Black/Tan,2018-06-09 11:55:00,Intact Male,2.0,0.0,0,N,N
+A734427,Y,2016-09-17 13:34:00,Austin (TX),Stray,Injured,Dog,Neutered Male,7.0,Australian Cattle Dog Mix,Other,2016-09-17 14:24:00,Neutered Male,7.0,0.0,0,N,N
+A748187,Y,2017-04-30 14:28:00,Austin (TX),Owner Surrender,Normal,Lionhead,Neutered Male,0.75,Other,Black,2017-05-05 15:01:00,Neutered Male,0.8333333333333334,0.0,5,N,Y
+A692833,Y,2014-11-26 11:57:00,Austin (TX),Stray,Normal,Dog,Intact Male,2.0,Pit Bull Mix,Blue/White,2014-11-26 14:32:00,Intact Male,2.0,0.0,0,N,N
+A706952,N,2015-07-06 00:37:00,Austin (TX),Stray,Normal,Dog,Intact Male,0.16666666666666666,Other,Tan,2019-07-18 14:02:00,Neutered Male,4.0,0.0,130,N,Y
+A760661,N,2017-10-22 12:05:00,Austin (TX),Stray,Normal,Cat,Intact Male,0.038461538461538464,Domestic Shorthair,Black,2017-12-12 09:40:00,Neutered Male,0.16666666666666666,0.0,50,N,Y
+A796116,Y,2019-07-17 11:57:00,Outside Jurisdiction,Owner Surrender,Normal,Dog,Neutered Male,5.0,Labrador Retriever,Other,2019-07-23 12:51:00,Neutered Male,5.0,0.0,6,N,N
+A743422,Y,2017-03-14 19:07:00,Austin (TX),Stray,Normal,Dog,Intact Female,1.0,German Shepherd Mix,Other,2017-03-24 12:03:00,Intact Female,1.0,0.0,9,N,N
+A707131,Y,2015-07-08 13:49:00,Travis (TX),Stray,Sick,Dog,Intact Female,0.8333333333333334,Pit Bull Mix,Black,2015-07-12 12:09:00,Intact Female,0.9166666666666666,0.0,3,N,Y
+A709945,N,2015-08-14 16:50:00,Austin (TX),Stray,Sick,Dog,Intact Male,0.08333333333333333,Chihuahua Shorthair Mix,Other,2015-08-14 18:09:00,Intact Male,0.08333333333333333,0.0,0,N,Y
+A736263,N,2016-10-08 07:32:00,Austin (TX),Stray,Normal,Dog,Intact Male,0.07692307692307693,Chihuahua Shorthair Mix,Black/Tan,2016-11-01 18:58:00,Neutered Male,0.08333333333333333,0.0,24,N,Y
+A679749,N,2014-05-25 12:39:00,Austin (TX),Stray,Normal,Dog,Intact Female,0.09615384615384616,German Shepherd Mix,Black/Tan,2014-06-17 13:23:00,Spayed Female,0.159,0.0,23,N,Y
+A698528,Y,2015-03-13 12:32:00,Austin (TX),Stray,Normal,Cat,Intact Male,0.07692307692307693,Domestic Shorthair,Black,2015-04-13 12:17:00,Neutered Male,0.16666666666666666,0.0,30,N,Y
+A796865,N,2019-06-06 13:45:00,Austin (TX),Stray,Nursing,Cat,Intact Male,0.0576923076923077,Other,Blue/White,2019-06-07 17:06:00,Intact Male,0.0576923076923077,0.0,1,N,Y
+A764462,Y,2017-12-30 14:14:00,Austin (TX),Stray,Normal,Dog,Intact Female,0.08333333333333333,Rat Terrier Mix,Black/White,2018-01-13 17:13:00,Spayed Female,0.08333333333333333,0.0,14,N,Y
+A744639,Y,2017-03-04 15:14:00,Austin (TX),Public Assist,Other,Dog,Spayed Female,5.0,Other,Black/Tan,2017-03-07 18:01:00,Spayed Female,5.0,0.0,3,N,N
+A726299,Y,2016-05-09 13:35:00,Austin (TX),Euthanasia Request,Sick,Cat,Neutered Male,12.0,Domestic Medium Hair,Black/White,2016-05-10 16:27:00,Neutered Male,12.0,1.0,1,N,N
+A724785,N,2016-04-21 18:34:00,Austin (TX),Stray,Normal,Cat,Unknown,0.038461538461538464,Domestic Shorthair,White/Orange Tabby,2016-04-22 16:19:00,Unknown,0.038461538461538464,0.0,0,N,Y
+A715421,N,2015-11-04 16:25:00,Austin (TX),Stray,Normal,Dog,Intact Male,0.3333333333333333,Chihuahua Shorthair Mix,White/Tan,2015-11-09 17:47:00,Neutered Male,0.4166666666666667,0.0,5,N,Y
+A759385,N,2017-10-01 12:23:00,Austin (TX),Owner Surrender,Normal,Cat,Intact Female,0.16666666666666666,Domestic Shorthair,Blue,2017-10-06 14:21:00,Intact Female,0.16666666666666666,0.0,5,N,Y
+A705299,Y,2015-11-19 11:26:00,Austin (TX),Owner Surrender,Normal,Dog,Neutered Male,2.0,Pit Bull Mix,Blue/White,2015-11-26 09:33:00,Neutered Male,2.0,1.0,6,N,N
+A726526,Y,2016-05-11 17:37:00,Austin (TX),Owner Surrender,Normal,Dog,Spayed Female,11.0,Pit Bull Mix,Brown Brindle/White,2016-11-27 17:13:00,Spayed Female,11.0,0.0,130,N,N
+A748770,N,2017-05-06 16:05:00,Austin (TX),Owner Surrender,Normal,Dog,Intact Female,0.08333333333333333,Pit Bull Mix,Brown Brindle/White,2017-05-08 16:26:00,Spayed Female,0.16666666666666666,0.0,2,N,Y
+A669513,Y,2013-12-21 18:52:00,Austin (TX),Stray,Normal,Dog,Intact Male,2.0,Pit Bull Mix,Brown Brindle/White,2013-12-23 17:47:00,Neutered Male,2.0,0.0,1,N,N
+A754726,Y,2017-07-23 16:01:00,Austin (TX),Stray,Normal,Dog,Intact Female,5.0,Chihuahua Shorthair Mix,Calico,2017-07-29 17:04:00,Spayed Female,6.0,0.0,6,N,N
+A719705,Y,2016-01-29 18:22:00,Travis (TX),Public Assist,Normal,Dog,Intact Male,2.0,Labrador Retriever Mix,Black/White,2016-02-06 16:41:00,Neutered Male,2.0,0.0,7,N,N
+A665123,Y,2013-10-14 08:10:00,Austin (TX),Stray,Sick,Dog,Intact Female,5.0,Other,Other,2014-02-09 16:25:00,Spayed Female,5.0,0.0,118,N,N
+A744385,Y,2017-03-06 08:39:00,Austin (TX),Public Assist,Normal,Dog,Intact Male,1.0,Other,White,2017-03-16 11:54:00,Intact Male,1.0,0.0,10,N,N
+A776670,Y,2018-07-17 12:54:00,Austin (TX),Stray,Normal,Cat,Intact Male,0.16666666666666666,Domestic Medium Hair,Black,2018-10-15 13:37:00,Neutered Male,0.4166666666666667,0.0,90,N,Y
+A776863,Y,2018-07-20 12:09:00,Austin (TX),Stray,Normal,Cat,Intact Female,0.08333333333333333,Domestic Shorthair,Black/White,2018-08-24 16:37:00,Spayed Female,0.16666666666666666,0.0,35,N,Y
+A742889,Y,2017-01-30 12:51:00,Austin (TX),Owner Surrender,Normal,Dog,Spayed Female,3.0,Chihuahua Shorthair Mix,Black/White,2017-01-31 15:46:00,Spayed Female,3.0,0.0,1,N,N
+A738459,Y,2016-11-15 14:35:00,Pflugerville (TX),Owner Surrender,Normal,Cat,Neutered Male,8.0,Domestic Longhair,Black/White,2017-01-26 15:09:00,Neutered Male,8.0,0.0,72,N,N
+A733412,Y,2016-08-21 14:31:00,Austin (TX),Stray,Normal,Cat,Intact Male,0.07692307692307693,Domestic Shorthair,Blue,2016-09-11 17:04:00,Neutered Male,0.08333333333333333,0.0,21,N,Y
+A707372,N,2015-07-11 16:27:00,Pflugerville (TX),Stray,Normal,Cat,Intact Male,1.0,Domestic Shorthair,Blue Tabby,2015-07-12 09:00:00,Intact Male,1.0,0.0,0,N,N
+A789813,Y,2019-02-28 11:18:00,Austin (TX),Stray,Normal,Dog,Intact Male,2.0,Beagle Mix,Tricolor,2019-03-06 17:42:00,Neutered Male,2.0,0.0,6,N,N
+A770925,Y,2018-04-27 12:03:00,Creedmoor (TX),Stray,Normal,Cat,Intact Female,0.0576923076923077,Domestic Shorthair,Torbie,2018-08-12 19:12:00,Spayed Female,0.3333333333333333,0.0,107,N,Y
+A740530,N,2016-12-18 21:23:00,Austin (TX),Wildlife,Sick,Bat,Unknown,1.0,Other,Brown,2016-12-19 09:00:00,Unknown,1.0,1.0,0,Y,N
+A778165,N,2018-08-09 13:34:00,Austin (TX),Stray,Nursing,Cat,Unknown,0.038461538461538464,Domestic Medium Hair,Other,2018-08-09 17:38:00,Unknown,0.038461538461538464,0.0,0,N,Y
+A723907,Y,2016-04-08 16:37:00,Austin (TX),Stray,Normal,Cat,Spayed Female,4.0,Domestic Shorthair,Torbie,2016-06-10 12:57:00,Spayed Female,4.0,0.0,62,N,N
+A806720,Y,2019-10-14 16:29:00,Austin (TX),Owner Surrender,Normal,Dog,Spayed Female,2.0,Pit Bull,Other,2019-10-22 15:12:00,Spayed Female,2.0,0.0,7,N,N
+A673515,Y,2014-02-25 14:06:00,Manor (TX),Stray,Normal,Dog,Intact Male,2.0,Cairn Terrier Mix,Brown Brindle/White,2014-03-03 16:07:00,Neutered Male,2.0,0.0,6,N,N
+A668728,Y,2013-12-08 11:55:00,Austin (TX),Owner Surrender,Normal,Dog,Intact Male,1.0,Other,White,2013-12-10 12:25:00,Neutered Male,1.0,0.0,2,N,N
+A691944,Y,2014-11-12 14:54:00,Cave (TX),Stray,Normal,Dog,Spayed Female,4.0,Australian Cattle Dog Mix,Other,2014-11-14 15:37:00,Spayed Female,4.0,0.0,2,N,N
+A716131,Y,2015-11-15 11:25:00,Pflugerville (TX),Owner Surrender,Normal,Dog,Neutered Male,1.0,Chihuahua Shorthair Mix,Other,2015-11-17 00:00:00,Neutered Male,1.0,0.0,1,N,N
+A812623,N,2020-01-25 15:42:00,Austin (TX),Stray,Sick,Dog,Intact Female,0.8333333333333334,Pit Bull,Blue/White,2020-01-26 13:16:00,Intact Female,0.8333333333333334,0.0,0,N,Y
+A758066,N,2017-09-11 10:23:00,Austin (TX),Stray,Normal,Dog,Intact Female,0.4166666666666667,Yorkshire Terrier Mix,Black/Tan,2017-09-17 17:16:00,Spayed Female,0.4166666666666667,0.0,6,N,Y
+A808723,N,2019-11-12 00:00:00,Austin (TX),Stray,Injured,Dog,Unknown,10.0,Australian Cattle Dog Mix,Black/White,2019-11-12 08:04:00,Unknown,10.0,1.0,0,N,N
+A737107,N,2016-10-22 12:32:00,Travis (TX),Stray,Normal,Cat,Unknown,0.038461538461538464,Domestic Shorthair,Other,2016-10-22 15:08:00,Unknown,0.038461538461538464,0.0,0,N,Y
+A687560,Y,2014-09-06 13:40:00,Manor (TX),Stray,Normal,Dog,Intact Male,2.0,Other,Black/White,2014-09-29 15:36:00,Neutered Male,2.0,0.0,23,N,N
+A800688,N,2019-07-25 08:38:00,Austin (TX),Stray,Sick,Dog,Intact Male,5.0,Labrador Retriever Mix,Black/Brown,2019-07-25 08:40:00,Intact Male,5.0,0.0,0,N,N
+A621534,Y,2014-12-04 09:17:00,Austin (TX),Stray,Normal,Dog,Spayed Female,4.0,Staffordshire Mix,Blue/White,2014-12-04 14:14:00,Spayed Female,4.0,0.0,0,N,N
+A684437,Y,2014-08-08 13:26:00,Austin (TX),Owner Surrender,Normal,Dog,Neutered Male,0.16666666666666666,Other,Other,2014-08-10 11:42:00,Neutered Male,0.16666666666666666,0.0,1,N,Y
+A701553,Y,2015-05-19 13:57:00,Austin (TX),Owner Surrender,Normal,Dog,Spayed Female,0.16666666666666666,Pit Bull Mix,Black/White,2015-05-25 14:33:00,Spayed Female,0.25,0.0,6,N,Y
+A765593,Y,2018-01-23 10:51:00,Austin (TX),Owner Surrender,Normal,Dog,Intact Female,0.08333333333333333,Chihuahua Shorthair Mix,Black/Brown,2018-01-24 00:00:00,Intact Female,0.08333333333333333,0.0,0,N,Y
+A736738,Y,2016-10-16 13:32:00,Austin (TX),Stray,Normal,Cat,Intact Female,0.08333333333333333,Domestic Shorthair,Brown Tabby/White,2016-11-02 13:08:00,Spayed Female,0.16666666666666666,0.0,16,N,Y
+A748231,N,2017-05-01 09:40:00,Austin (TX),Stray,Normal,Cat,Intact Male,0.0576923076923077,Domestic Shorthair,Other,2017-08-15 07:08:00,Neutered Male,0.3333333333333333,0.0,105,N,Y
+A684912,Y,2014-07-30 12:21:00,Austin (TX),Stray,Normal,Dog,Intact Male,0.25,Labrador Retriever Mix,Black/White,2014-08-03 18:15:00,Neutered Male,0.25,0.0,4,N,Y
+A724043,N,2016-04-11 09:34:00,Austin (TX),Wildlife,Injured,Raccoon,Unknown,1.0,Other,Other,2016-04-12 08:45:00,Unknown,1.0,1.0,0,Y,N
+A719729,N,2016-01-26 14:00:00,Austin (TX),Stray,Normal,Dog,Intact Female,0.08333333333333333,Labrador Retriever Mix,Other,2016-01-31 18:57:00,Spayed Female,0.16666666666666666,0.0,5,N,Y
+A671877,Y,2014-01-31 16:10:00,Austin (TX),Owner Surrender,Sick,Dog,Intact Female,6.0,Other,Other,2014-01-31 16:33:00,Intact Female,6.0,1.0,0,N,N
+A725725,N,2016-05-02 13:47:00,Austin (TX),Stray,Normal,Cat,Unknown,0.0027397260273972607,Domestic Shorthair,Blue Tabby,2016-05-06 12:18:00,Unknown,0.0136986301369863,0.0,3,N,Y
+A744516,Y,2017-03-02 12:42:00,Austin (TX),Owner Surrender,Normal,Cat,Intact Female,0.0576923076923077,Siamese Mix,Other,2017-04-29 15:10:00,Spayed Female,0.16666666666666666,0.0,58,N,Y
+A742432,Y,2017-04-05 09:08:00,Austin (TX),Public Assist,Normal,Dog,Intact Male,1.0,Pit Bull,Black,2017-04-11 18:24:00,Neutered Male,1.0,0.0,6,N,N
+A681339,N,2014-06-15 10:35:00,Austin (TX),Stray,Normal,Cat,Intact Male,0.019230769230769232,Domestic Shorthair,Black/White,2014-07-09 08:28:00,Intact Male,0.07692307692307693,1.0,23,N,Y
+A795427,Y,2019-05-20 14:19:00,Austin (TX),Stray,Normal,Dog,Intact Male,2.0,Other,Other,2019-05-28 14:04:00,Intact Male,2.0,0.0,7,N,N
+A689283,Y,2014-10-01 16:18:00,Austin (TX),Stray,Normal,Dog,Intact Male,1.0,Other,Black/Tan,2014-10-05 13:09:00,Intact Male,1.0,0.0,3,N,N
+A670492,Y,2014-01-09 11:31:00,Austin (TX),Stray,Normal,Dog,Neutered Male,6.0,Other,Other,2014-01-09 12:03:00,Neutered Male,6.0,0.0,0,N,N
+A666626,N,2013-11-04 17:54:00,Austin (TX),Stray,Normal,Cat,Intact Female,0.08333333333333333,Domestic Shorthair,Calico,2013-11-09 16:56:00,Spayed Female,0.16666666666666666,0.0,4,N,Y
+A670661,Y,2014-01-11 16:36:00,Austin (TX),Stray,Normal,Dog,Intact Female,3.0,Other,Black/White,2014-12-07 16:16:00,Spayed Female,3.0,0.0,130,N,N
+A664882,Y,2013-10-10 12:32:00,Austin (TX),Stray,Normal,Dog,Neutered Male,1.0,Great Pyrenees Mix,White,2013-10-15 19:03:00,Neutered Male,1.0,0.0,5,N,N
+A764055,Y,2017-12-23 11:07:00,Austin (TX),Public Assist,Normal,Dog,Spayed Female,3.0,Labrador Retriever Mix,Brown,2017-12-30 11:49:00,Spayed Female,3.0,0.0,7,N,N
+A742398,Y,2017-01-21 11:01:00,Travis (TX),Stray,Normal,Dog,Intact Female,0.08333333333333333,Other,Tan,2017-02-24 16:47:00,Spayed Female,0.16666666666666666,0.0,34,N,Y
+A707497,Y,2015-07-13 22:35:00,Austin (TX),Stray,Normal,Cat,Intact Female,0.08333333333333333,Domestic Shorthair,Other,2015-08-06 14:44:00,Intact Female,0.08333333333333333,0.0,23,N,Y
+A719699,Y,2016-01-25 16:35:00,Austin (TX),Stray,Sick,Cat,Spayed Female,5.0,Domestic Shorthair,Blue Tabby,2016-03-30 10:14:00,Spayed Female,5.0,1.0,64,N,N
+A333781,Y,2016-05-16 14:09:00,Austin (TX),Stray,Normal,Dog,Neutered Male,12.0,Chihuahua Shorthair Mix,White/Tan,2016-05-16 17:19:00,Neutered Male,12.0,0.0,0,N,N
+A766665,Y,2018-02-13 23:30:00,Austin (TX),Stray,Normal,Dog,Intact Male,0.9166666666666666,Pit Bull Mix,Blue/White,2018-03-17 18:01:00,Neutered Male,1.0,0.0,31,N,Y
+A694223,N,2014-12-22 17:15:00,Austin (TX),Stray,Injured,Cat,Spayed Female,2.0,Domestic Shorthair,Brown Tabby/White,2014-12-24 09:03:00,Spayed Female,2.0,1.0,1,N,N
+A758243,N,2017-09-13 10:18:00,Austin (TX),Stray,Normal,Cat,Intact Female,0.038461538461538464,American Shorthair Mix,Black,2017-09-16 12:24:00,Intact Female,0.038461538461538464,0.0,3,N,Y
+A632004,Y,2014-03-07 19:20:00,Austin (TX),Stray,Normal,Dog,Neutered Male,4.0,Boxer Mix,White/Tan,2014-03-15 13:17:00,Neutered Male,4.0,0.0,7,N,N
+A777148,N,2018-07-24 11:52:00,Travis (TX),Stray,Normal,Cat,Intact Female,0.3333333333333333,Domestic Shorthair,Torbie,2018-07-29 17:32:00,Intact Female,0.3333333333333333,0.0,5,N,Y
+A808739,Y,2019-12-12 15:50:00,Outside Jurisdiction,Stray,Normal,Dog,Spayed Female,2.0,Other,Tan,2019-12-31 17:29:00,Spayed Female,2.0,0.0,19,N,N
+A735372,Y,2016-09-23 12:00:00,Austin (TX),Owner Surrender,Normal,Cat,Intact Female,0.08333333333333333,Domestic Shorthair,Black,2016-11-10 13:04:00,Spayed Female,0.25,0.0,48,N,Y
+A650205,Y,2017-11-24 14:54:00,Austin (TX),Public Assist,Normal,Dog,Neutered Male,5.0,Other,Tricolor,2017-12-20 14:06:00,Neutered Male,5.0,0.0,25,N,N
+A701656,N,2015-05-02 16:50:00,Austin (TX),Stray,Normal,Cat,Intact Male,0.0576923076923077,Domestic Shorthair,Brown Tabby/White,2015-05-02 18:16:00,Intact Male,0.0576923076923077,0.0,0,N,Y
+A686405,N,2014-08-21 12:33:00,Austin (TX),Stray,Normal,Cat,Unknown,0.038461538461538464,Domestic Shorthair,White/Orange Tabby,2014-08-21 14:15:00,Unknown,0.038461538461538464,0.0,0,N,Y
+A734608,Y,2016-09-09 16:16:00,Austin (TX),Stray,Normal,Dog,Intact Female,1.0,Chihuahua Shorthair Mix,Brown/White,2016-09-15 17:43:00,Spayed Female,1.0,0.0,6,N,N
+A694655,Y,2016-05-14 11:04:00,Austin (TX),Owner Surrender,Normal,Dog,Neutered Male,3.0,Other,Blue/White,2016-11-19 16:06:00,Neutered Male,3.0,0.0,130,N,N
+A756299,Y,2017-08-17 12:22:00,Austin (TX),Owner Surrender,Normal,Cat,Intact Male,0.16666666666666666,Domestic Shorthair,Other,2017-08-19 10:14:00,Neutered Male,0.16666666666666666,0.0,1,N,Y
+A704598,Y,2015-06-11 13:35:00,Austin (TX),Public Assist,Normal,Dog,Neutered Male,2.0,Other,Black/White,2015-06-15 15:58:00,Neutered Male,2.0,0.0,4,N,N
+A756198,N,2017-08-15 15:23:00,Austin (TX),Stray,Normal,Cat,Unknown,0.038461538461538464,Domestic Shorthair,Black,2017-08-15 17:24:00,Unknown,0.038461538461538464,0.0,0,N,Y
+A722849,N,2016-03-23 10:37:00,Travis (TX),Public Assist,Normal,Bat,Unknown,1.0,Other,Black,2016-03-23 10:44:00,Unknown,1.0,1.0,0,Y,N
+A716161,Y,2015-11-15 16:48:00,Austin (TX),Stray,Normal,Dog,Neutered Male,8.0,Other,Brown/White,2015-11-15 17:56:00,Neutered Male,8.0,0.0,0,N,N
+A739876,N,2016-12-08 12:44:00,Austin (TX),Stray,Normal,Dog,Intact Female,2.0,Other,White/Tan,2016-12-12 17:55:00,Spayed Female,2.0,0.0,4,N,N
+A809743,Y,2019-11-30 13:56:00,Austin (TX),Stray,Normal,Dog,Intact Male,1.0,Cairn Terrier Mix,White/Tan,2019-12-12 13:24:00,Neutered Male,1.0,0.0,11,N,N
+A780127,N,2018-09-10 11:10:00,Austin (TX),Stray,Normal,Dog,Intact Female,0.16666666666666666,Other,Other,2018-09-11 14:45:00,Intact Female,0.16666666666666666,0.0,1,N,Y
+A775402,Y,2018-06-29 18:43:00,Austin (TX),Stray,Normal,Cat,Intact Female,0.0,Domestic Shorthair,Tortie,2018-07-16 18:43:00,Intact Female,0.038461538461538464,0.0,17,N,Y
+A807554,N,2019-10-26 12:06:00,Austin (TX),Stray,Normal,Cat,Intact Male,0.08333333333333333,Domestic Shorthair,Black/White,2019-12-29 18:17:00,Neutered Male,0.25,0.0,64,N,Y
+A718015,Y,2015-12-19 14:42:00,Austin (TX),Stray,Normal,Dog,Intact Male,1.0,Chihuahua Shorthair Mix,Other,2015-12-28 18:12:00,Neutered Male,1.0,0.0,9,N,N
+A778400,Y,2018-08-20 17:07:00,Austin (TX),Public Assist,Normal,Dog,Intact Female,2.0,Other,Other,2018-08-25 17:39:00,Spayed Female,2.0,0.0,5,N,N
+A795736,Y,2019-05-24 06:57:00,Austin (TX),Stray,Sick,Cat,Intact Male,0.038461538461538464,Domestic Shorthair,Orange Tabby,2019-08-03 14:46:00,Intact Male,0.16666666666666666,0.0,71,N,Y
+A751602,N,2017-06-23 13:13:00,Austin (TX),Owner Surrender,Normal,Cat,Intact Male,0.08333333333333333,Siamese Mix,Other,2017-06-25 15:50:00,Intact Male,0.08333333333333333,0.0,2,N,Y
+A753832,N,2017-07-11 17:54:00,Austin (TX),Stray,Injured,Dog,Intact Female,7.0,Other,Black/Brown,2017-07-15 17:33:00,Intact Female,7.0,1.0,3,N,N
+A732148,Y,2016-08-03 11:03:00,Austin (TX),Stray,Normal,Dog,Neutered Male,5.0,Chihuahua Shorthair Mix,Brown,2016-09-23 14:57:00,Neutered Male,5.0,0.0,51,N,N
+A711824,Y,2015-09-12 14:35:00,Austin (TX),Stray,Normal,Cat,Intact Female,0.09615384615384616,Domestic Shorthair,Torbie,2015-11-28 13:09:00,Spayed Female,0.25,0.0,76,N,Y
+A737451,N,2016-10-28 12:56:00,Travis (TX),Stray,Normal,Dog,Intact Female,0.5833333333333334,Other,Brown/White,2016-11-02 14:24:00,Spayed Female,0.6666666666666666,0.0,5,N,Y
+A691836,Y,2014-11-10 14:20:00,Austin (TX),Public Assist,Normal,Dog,Intact Female,3.0,Chihuahua Shorthair Mix,White/Tan,2014-11-20 17:10:00,Spayed Female,3.0,0.0,10,N,N
+A742665,Y,2017-01-25 18:00:00,Austin (TX),Stray,Normal,Dog,Neutered Male,8.0,Beagle Mix,Tricolor,2017-01-30 11:40:00,Neutered Male,8.0,0.0,4,N,N
+A742699,Y,2017-01-26 12:32:00,Austin (TX),Stray,Normal,Dog,Intact Male,1.0,Chihuahua Shorthair Mix,White/Tan,2017-01-30 17:03:00,Neutered Male,1.0,0.0,4,N,N
+A705614,Y,2015-06-19 16:31:00,Austin (TX),Stray,Normal,Cat,Intact Male,0.08333333333333333,Domestic Longhair,Blue Tabby,2015-06-23 18:05:00,Neutered Male,0.16666666666666666,0.0,4,N,Y
+A708640,N,2015-07-29 22:10:00,Austin (TX),Stray,Normal,Dog,Intact Male,1.0,Labrador Retriever Mix,Black/White,2015-08-02 18:18:00,Neutered Male,1.0,0.0,3,N,N
+A754361,Y,2017-07-19 14:12:00,Travis (TX),Stray,Normal,Dog,Intact Female,2.0,Other,Black/Tan,2017-08-15 11:00:00,Intact Female,2.0,0.0,26,N,N
+A761288,N,2017-11-02 12:22:00,Austin (TX),Stray,Normal,Dog,Intact Female,0.08333333333333333,Labrador Retriever Mix,Brown/White,2017-11-03 00:00:00,Intact Female,0.16666666666666666,0.0,0,N,Y
+A788436,Y,2019-02-02 13:20:00,Manor (TX),Stray,Normal,Dog,Intact Male,0.08333333333333333,Labrador Retriever Mix,Black/White,2019-02-21 18:09:00,Neutered Male,0.16666666666666666,0.0,19,N,Y
+A688174,N,2014-09-15 16:28:00,Austin (TX),Euthanasia Request,Sick,Cat,Intact Female,10.0,Domestic Shorthair,Calico,2014-09-15 18:58:00,Intact Female,10.0,1.0,0,N,N
+A757648,Y,2017-09-04 16:09:00,Outside Jurisdiction,Public Assist,Normal,Dog,Intact Female,2.0,Australian Cattle Dog Mix,Black/Brown,2017-09-15 14:26:00,Intact Female,2.0,0.0,10,N,N
+A683662,N,2014-07-13 13:52:00,Austin (TX),Stray,Normal,Cat,Intact Female,0.3333333333333333,Domestic Shorthair,Torbie,2014-07-15 09:00:00,Intact Female,0.3333333333333333,0.0,1,N,Y
+A761155,Y,2017-10-30 13:02:00,Austin (TX),Stray,Normal,Dog,Intact Male,2.0,Other,Other,2017-11-19 16:19:00,Neutered Male,2.0,0.0,20,N,N
+A746698,Y,2017-04-07 13:40:00,Austin (TX),Stray,Normal,Dog,Intact Male,0.3333333333333333,Other,Brown/White,2017-04-10 14:11:00,Intact Male,0.3333333333333333,0.0,3,N,Y
+A734796,Y,2016-09-13 11:08:00,Austin (TX),Stray,Normal,Dog,Intact Male,0.8333333333333334,Pit Bull Mix,Blue/White,2016-09-20 18:06:00,Neutered Male,0.8333333333333334,0.0,7,N,Y
+A728774,N,2016-06-08 13:51:00,Austin (TX),Stray,Normal,Dog,Intact Male,0.019230769230769232,Other,Black/White,2016-07-27 15:19:00,Neutered Male,0.08333333333333333,0.0,49,N,Y
+A676872,Y,2014-04-16 12:22:00,Austin (TX),Stray,Normal,Cat,Intact Male,0.08333333333333333,Domestic Shorthair,Orange Tabby,2014-04-20 18:18:00,Neutered Male,0.16666666666666666,0.0,4,N,Y
+A736980,N,2016-10-20 13:45:00,Austin (TX),Owner Surrender,Normal,Cat,Intact Male,0.08333333333333333,Domestic Shorthair,Blue,2016-11-25 10:37:00,Neutered Male,0.16666666666666666,0.0,35,N,Y
+A746114,N,2017-03-28 22:55:00,Travis (TX),Wildlife,Normal,Bat,Unknown,1.0,Other,Brown,2017-03-29 07:50:00,Unknown,1.0,1.0,0,Y,N
+A785765,Y,2018-12-09 13:25:00,Austin (TX),Stray,Normal,Dog,Intact Female,1.0,German Shepherd Mix,Tricolor,2018-12-16 17:09:00,Spayed Female,1.0,0.0,7,N,N
+A711584,Y,2015-09-09 12:11:00,Austin (TX),Stray,Normal,Cat,Intact Male,0.07692307692307693,Domestic Shorthair,Black/White,2015-10-18 00:00:00,Intact Male,0.16666666666666666,0.0,38,N,Y
+A765526,N,2018-01-22 10:40:00,Austin (TX),Wildlife,Sick,Raccoon,Unknown,1.0,Other,Other,2018-01-22 11:53:00,Unknown,1.0,1.0,0,Y,N
+A756611,Y,2017-08-23 08:50:00,Austin (TX),Stray,Normal,Dog,Intact Male,1.0,Pit Bull Mix,Black/White,2017-08-23 17:13:00,Intact Male,1.0,0.0,0,N,N
+A776181,N,2018-07-10 07:29:00,Austin (TX),Stray,Sick,Cat,Intact Female,10.0,Domestic Shorthair,Tortie,2018-07-10 13:25:00,Intact Female,10.0,0.0,0,N,N
+A673111,Y,2014-02-19 13:51:00,Travis (TX),Public Assist,Normal,Dog,Intact Female,5.0,Other,Other,2014-03-07 19:24:00,Spayed Female,5.0,0.0,16,N,N
+A786221,Y,2018-12-19 15:08:00,Austin (TX),Stray,Normal,Dog,Spayed Female,1.0,Other,Other,2018-12-27 18:59:00,Spayed Female,1.0,0.0,8,N,N
+A758536,N,2017-09-18 11:53:00,Austin (TX),Stray,Normal,Cat,Intact Female,0.5,Domestic Shorthair,Brown Tabby,2017-09-23 11:09:00,Intact Female,0.5,0.0,4,N,Y
+A730880,N,2016-07-12 11:34:00,Austin (TX),Stray,Normal,Cat,Intact Female,0.3333333333333333,Domestic Medium Hair,Brown Tabby,2016-08-07 18:23:00,Spayed Female,0.4166666666666667,0.0,26,N,Y
+A749789,N,2017-05-19 14:31:00,Austin (TX),Stray,Normal,Dog,Intact Male,0.0576923076923077,Labrador Retriever Mix,Brown Brindle/White,2017-05-26 00:00:00,Intact Male,0.07692307692307693,0.0,6,N,Y
+A759020,N,2017-09-25 14:11:00,Austin (TX),Stray,Normal,Dog,Intact Female,3.0,Chihuahua Shorthair Mix,Black/Brown,2017-10-02 16:38:00,Intact Female,3.0,0.0,7,N,N
+A789714,Y,2019-02-26 12:51:00,Austin (TX),Owner Surrender,Normal,Dog,Neutered Male,4.0,Labrador Retriever Mix,White/Tan,2019-03-09 15:40:00,Neutered Male,4.0,0.0,11,N,N
+A736349,Y,2016-10-09 11:00:00,Austin (TX),Stray,Normal,Cat,Intact Female,0.08333333333333333,Domestic Shorthair,Black,2016-10-13 15:58:00,Intact Female,0.08333333333333333,0.0,4,N,Y
+A778018,Y,2018-08-07 12:45:00,Austin (TX),Owner Surrender,Normal,Dog,Neutered Male,11.0,Other,Black/White,2018-08-08 16:37:00,Neutered Male,11.0,0.0,1,N,N
+A709400,Y,2015-08-08 14:15:00,Austin (TX),Stray,Normal,Dog,Intact Male,2.0,Labrador Retriever Mix,Brown,2015-08-13 18:31:00,Neutered Male,2.0,0.0,5,N,N
+A740259,Y,2016-12-13 18:01:00,Bastrop (TX),Stray,Normal,Dog,Neutered Male,2.0,Great Pyrenees Mix,White,2016-12-14 17:27:00,Neutered Male,2.0,0.0,0,N,N
+A805714,Y,2019-10-01 11:17:00,Manor (TX),Owner Surrender,Normal,Dog,Intact Female,1.0,Labrador Retriever,Other,2019-10-04 18:18:00,Spayed Female,1.0,0.0,3,N,N
+A702002,Y,2015-11-01 12:47:00,Austin (TX),Owner Surrender,Normal,Dog,Spayed Female,1.0,Pit Bull Mix,White,2015-11-20 15:50:00,Spayed Female,1.0,0.0,19,N,N
+A683345,Y,2014-07-09 13:27:00,Austin (TX),Owner Surrender,Normal,Dog,Spayed Female,0.6666666666666666,Other,Other,2014-07-10 18:59:00,Spayed Female,0.75,0.0,1,N,Y
+A778544,N,2018-08-16 14:06:00,Austin (TX),Stray,Normal,Dog,Intact Female,0.75,Chihuahua Shorthair Mix,Other,2018-08-20 18:57:00,Spayed Female,0.8333333333333334,0.0,4,N,Y
+A701207,N,2015-04-25 13:25:00,Austin (TX),Stray,Normal,Cat,Unknown,0.038461538461538464,Domestic Shorthair,Orange Tabby,2015-04-25 13:34:00,Unknown,0.038461538461538464,0.0,0,N,Y
+A782266,Y,2018-10-12 16:32:00,Manor (TX),Stray,Injured,Cat,Intact Male,2.0,Domestic Shorthair,Other,2018-10-17 12:57:00,Intact Male,2.0,0.0,4,N,N
+A564767,Y,2015-11-27 12:23:00,Austin (TX),Stray,Normal,Dog,Neutered Male,7.0,Other,White,2015-11-28 12:44:00,Neutered Male,7.0,0.0,1,N,N
+A652433,Y,2014-04-01 12:57:00,Austin (TX),Stray,Normal,Dog,Neutered Male,12.0,Other,Other,2014-04-02 12:31:00,Neutered Male,12.0,0.0,0,N,N
+A669973,Y,2013-12-31 13:13:00,Austin (TX),Stray,Normal,Dog,Intact Male,0.08333333333333333,Jack Russell Terrier Mix,Brown/White,2014-05-23 18:45:00,Neutered Male,0.5,0.0,130,N,Y
+A683859,N,2014-07-16 13:09:00,Austin (TX),Stray,Normal,Cat,Intact Male,2.0,Domestic Shorthair,White,2014-07-17 09:00:00,Intact Male,2.0,0.0,0,N,N
+A801337,Y,2019-08-03 11:38:00,Pflugerville (TX),Stray,Normal,Dog,Intact Female,0.3333333333333333,Other,Brown/White,2019-08-11 17:35:00,Spayed Female,0.4166666666666667,0.0,8,N,Y
+A765130,Y,2018-04-25 12:00:00,Outside Jurisdiction,Owner Surrender,Injured,Dog,Spayed Female,2.0,Staffordshire Mix,Blue/White,2018-05-17 16:33:00,Spayed Female,2.0,0.0,22,N,N
+A687376,Y,2014-09-04 10:50:00,Leander (TX),Stray,Normal,Dog,Intact Male,0.16666666666666666,Australian Cattle Dog Mix,Black/White,2014-09-08 18:26:00,Neutered Male,0.16666666666666666,0.0,4,N,Y
+A736559,N,2016-10-12 18:28:00,Travis (TX),Public Assist,Normal,Dog,Neutered Male,4.0,Chihuahua Shorthair Mix,White/Tan,2016-10-13 09:58:00,Neutered Male,4.0,0.0,0,N,N
+A764577,N,2018-01-02 11:48:00,Austin (TX),Stray,Normal,Bird,Unknown,1.0,Other,Other,2018-01-05 13:23:00,Unknown,1.0,0.0,3,N,N
+A747999,Y,2017-04-27 18:16:00,Austin (TX),Stray,Normal,Cat,Intact Male,0.0576923076923077,Domestic Shorthair,Brown Tabby,2017-06-04 14:54:00,Neutered Male,0.08333333333333333,0.0,37,N,Y
+A666120,Y,2013-10-27 12:06:00,Austin (TX),Stray,Normal,Dog,Intact Male,0.75,Other,Black/White,2013-11-01 17:08:00,Neutered Male,0.8333333333333334,0.0,5,N,Y
+A665918,Y,2013-10-24 14:12:00,Austin (TX),Owner Surrender,Normal,Dog,Intact Male,0.5833333333333334,Other,Black/White,2014-02-23 15:26:00,Neutered Male,0.9166666666666666,0.0,122,N,Y
+A750557,Y,2017-05-28 16:33:00,Austin (TX),Stray,Normal,Cat,Intact Male,0.08333333333333333,Domestic Shorthair,Brown Tabby/White,2017-07-01 14:57:00,Neutered Male,0.16666666666666666,0.0,33,N,Y
+A707499,Y,2015-07-13 23:30:00,Austin (TX),Public Assist,Normal,Cat,Neutered Male,10.0,Other,White,2015-07-22 15:30:00,Neutered Male,10.0,0.0,8,N,N
+A599671,Y,2015-03-31 14:35:00,Austin (TX),Stray,Normal,Dog,Neutered Male,4.0,Other,White,2015-03-31 16:12:00,Neutered Male,4.0,0.0,0,N,N
+A743467,Y,2017-03-06 11:39:00,Outside Jurisdiction,Owner Surrender,Normal,Dog,Spayed Female,2.0,Pit Bull Mix,Black/White,2017-05-05 14:44:00,Spayed Female,2.0,0.0,60,N,N
+A788596,Y,2019-02-05 12:21:00,Austin (TX),Stray,Normal,Cat,Intact Male,0.25,Domestic Shorthair,White/Orange Tabby,2019-03-09 13:04:00,Neutered Male,0.3333333333333333,0.0,32,N,Y
+A723960,Y,2016-04-09 14:11:00,Austin (TX),Stray,Normal,Dog,Intact Female,2.0,Chihuahua Shorthair Mix,White/Tan,2016-04-15 00:00:00,Spayed Female,2.0,0.0,5,N,N
+A699650,N,2015-03-31 11:21:00,Travis (TX),Stray,Normal,Dog,Intact Male,2.0,Pit Bull Mix,Brown/White,2015-04-06 17:46:00,Neutered Male,2.0,0.0,6,N,N
+A694195,Y,2014-12-22 12:07:00,Austin (TX),Owner Surrender,Normal,Dog,Neutered Male,0.75,Chihuahua Shorthair Mix,Black/White,2014-12-22 17:35:00,Neutered Male,0.75,0.0,0,N,Y
+A790771,N,2019-03-16 11:50:00,Austin (TX),Stray,Normal,Cat,Intact Female,1.0,Domestic Shorthair,Brown Tabby,2019-03-19 13:15:00,Intact Female,1.0,0.0,3,N,N
+A740108,Y,2016-12-11 12:12:00,Austin (TX),Owner Surrender,Sick,Cat,Spayed Female,9.0,Domestic Shorthair,Calico,2016-12-12 14:58:00,Spayed Female,9.0,0.0,1,N,N
+A678503,Y,2014-05-09 15:44:00,Austin (TX),Stray,Normal,Cat,Intact Female,0.08333333333333333,Domestic Shorthair,Brown Tabby/White,2014-05-14 15:09:00,Intact Female,0.08333333333333333,0.0,4,N,Y
+A797907,Y,2019-06-19 12:28:00,Austin (TX),Stray,Normal,Dog,Intact Female,2.0,Labrador Retriever Mix,Other,2019-06-27 18:46:00,Intact Female,2.0,0.0,8,N,N
+A776290,Y,2018-07-11 12:30:00,Austin (TX),Stray,Normal,Dog,Intact Female,1.0,Other,Blue,2018-08-14 13:16:00,Intact Female,1.0,0.0,34,N,N
+A759314,N,2017-09-30 13:22:00,Austin (TX),Stray,Normal,Dog,Intact Female,0.3333333333333333,Chihuahua Shorthair Mix,Black/Brown,2017-10-05 18:25:00,Spayed Female,0.3333333333333333,0.0,5,N,Y
+A625823,Y,2014-10-03 09:55:00,Austin (TX),Stray,Normal,Dog,Intact Female,3.0,Other,White,2014-10-15 17:47:00,Spayed Female,3.0,0.0,12,N,N
+A789639,Y,2019-12-04 16:34:00,Austin (TX),Stray,Normal,Dog,Spayed Female,6.0,Labrador Retriever Mix,Other,2019-12-12 19:07:00,Spayed Female,6.0,0.0,8,N,N
+A680856,Y,2014-06-09 11:31:00,Austin (TX),Stray,Normal,Dog,Intact Male,2.0,Great Pyrenees Mix,Other,2014-06-10 18:26:00,Neutered Male,2.0,0.0,1,N,N
+A736100,Y,2016-10-04 10:32:00,Austin (TX),Owner Surrender,Normal,Cat,Spayed Female,6.0,Domestic Shorthair,Black/White,2016-11-03 22:42:00,Spayed Female,6.0,0.0,30,N,N
+A778373,N,2018-08-13 14:51:00,Austin (TX),Stray,Normal,Cat,Intact Male,0.25,Domestic Shorthair,Blue/White,2018-08-16 16:55:00,Intact Male,0.25,0.0,3,N,Y
+A722413,Y,2016-03-16 12:12:00,Austin (TX),Stray,Normal,Dog,Intact Female,3.0,Chihuahua Shorthair Mix,Other,2016-03-21 19:10:00,Intact Female,3.0,0.0,5,N,N
+A802587,Y,2019-08-20 12:04:00,Austin (TX),Owner Surrender,Normal,Cat,Spayed Female,9.0,Domestic Shorthair,Tortie,2019-09-13 19:21:00,Spayed Female,9.0,0.0,24,N,N
+A749090,N,2017-05-10 18:51:00,Austin (TX),Stray,Normal,Cat,Intact Female,1.0,Domestic Medium Hair,Blue,2017-05-14 16:59:00,Spayed Female,1.0,0.0,3,N,N
+A785845,Y,2018-12-13 13:55:00,Austin (TX),Public Assist,Normal,Dog,Intact Female,10.0,Pit Bull Mix,Other,2018-12-21 12:41:00,Intact Female,10.0,0.0,7,N,N
+A788093,N,2019-01-26 11:45:00,Pflugerville (TX),Stray,Normal,Cat,Unknown,1.0,Domestic Longhair,Brown Tabby/White,2019-01-30 10:50:00,Unknown,1.0,0.0,3,N,N
+A698676,N,2015-03-16 10:47:00,Austin (TX),Stray,Normal,Dog,Intact Female,4.0,Yorkshire Terrier Mix,Other,2015-03-24 14:30:00,Spayed Female,4.0,0.0,8,N,N
+A666161,Y,2013-10-28 11:04:00,Austin (TX),Owner Surrender,Normal,Cat,Neutered Male,9.0,Domestic Shorthair,Blue Tabby,2013-12-05 19:16:00,Neutered Male,9.0,0.0,38,N,N
+A751971,Y,2017-12-26 11:38:00,Travis (TX),Owner Surrender,Normal,Dog,Neutered Male,1.0,German Shepherd Mix,Tan,2018-07-30 00:00:00,Neutered Male,1.0,0.0,130,N,N
+A685386,Y,2014-08-06 13:54:00,Austin (TX),Stray,Normal,Dog,Intact Female,0.16666666666666666,Labrador Retriever Mix,Black,2014-08-24 15:13:00,Spayed Female,0.16666666666666666,0.0,18,N,Y
+A710322,Y,2015-08-21 15:01:00,Austin (TX),Owner Surrender,Normal,Cat,Spayed Female,7.0,Domestic Shorthair,Brown Tabby,2015-10-09 15:26:00,Spayed Female,7.0,0.0,49,N,N
+A697281,N,2015-02-23 12:07:00,Austin (TX),Stray,Normal,Dog,Intact Male,0.25,Other,Tricolor,2015-03-03 13:14:00,Neutered Male,0.25,0.0,8,N,Y
+A807573,N,2019-10-26 15:58:00,Pflugerville (TX),Stray,Normal,Cat,Intact Male,2.0,Domestic Shorthair,Brown Tabby,2019-11-02 13:44:00,Intact Male,2.0,0.0,6,N,N
+A680709,Y,2014-06-06 14:13:00,Austin (TX),Stray,Normal,Cat,Intact Female,0.08333333333333333,Domestic Shorthair,Brown Tabby/White,2014-11-07 14:16:00,Spayed Female,0.5,0.0,130,N,Y
+A681512,Y,2015-10-01 13:16:00,Austin (TX),Stray,Normal,Dog,Neutered Male,2.0,Chihuahua Shorthair Mix,Tan,2015-10-06 12:46:00,Neutered Male,2.0,0.0,4,N,N
+A769283,Y,2018-09-21 15:14:00,Austin (TX),Owner Surrender,Normal,Dog,Spayed Female,1.0,German Shepherd Mix,Black/Brown,2018-09-25 15:48:00,Spayed Female,1.0,0.0,4,N,N
+A730240,N,2016-06-30 15:21:00,Travis (TX),Stray,Sick,Cat,Neutered Male,10.0,Domestic Shorthair,Black/White,2016-06-30 17:44:00,Neutered Male,10.0,0.0,0,N,N
+A722850,N,2016-03-23 11:12:00,Austin (TX),Wildlife,Normal,Bat,Unknown,1.0,Other,Brown,2016-03-23 16:21:00,Unknown,1.0,1.0,0,Y,N
+A702215,Y,2015-05-10 18:43:00,Austin (TX),Stray,Normal,Cat,Intact Female,0.0576923076923077,Domestic Shorthair,Calico,2015-06-15 13:40:00,Spayed Female,0.16666666666666666,0.0,35,N,Y
+A710686,Y,2015-08-26 11:43:00,Austin (TX),Stray,Normal,Cat,Intact Male,0.07692307692307693,Domestic Shorthair,Brown Tabby,2015-08-29 14:15:00,Intact Male,0.07692307692307693,0.0,3,N,Y
+A714584,Y,2015-10-25 15:03:00,Manor (TX),Public Assist,Normal,Dog,Intact Female,2.0,Other,Other,2015-11-02 17:26:00,Spayed Female,2.0,0.0,8,N,N
+A700602,Y,2015-04-16 15:35:00,Austin (TX),Owner Surrender,Normal,Cat,Spayed Female,3.0,Domestic Shorthair,Black/White,2015-05-03 14:49:00,Spayed Female,3.0,0.0,16,N,N
+A773822,N,2018-06-06 07:48:00,Austin (TX),Stray,Sick,Dog,Intact Male,0.25,Other,Brown/White,2018-06-13 12:14:00,Intact Male,0.3333333333333333,0.0,7,N,Y
+A678865,Y,2014-12-07 17:42:00,Austin (TX),Owner Surrender,Normal,Dog,Spayed Female,3.0,Chihuahua Shorthair Mix,Black/White,2014-12-09 15:56:00,Spayed Female,3.0,0.0,1,N,N
+A790876,Y,2019-03-18 11:30:00,Austin (TX),Owner Surrender,Normal,Dog,Intact Female,6.0,Labrador Retriever Mix,Black,2019-07-14 14:17:00,Spayed Female,6.0,0.0,118,N,N
+A666562,Y,2019-01-19 12:52:00,Austin (TX),Stray,Normal,Dog,Intact Male,8.0,Chihuahua Shorthair Mix,Black/Brown,2019-01-19 13:52:00,Intact Male,8.0,0.0,0,N,N
+A761780,Y,2017-11-09 13:09:00,Austin (TX),Stray,Normal,Dog,Intact Male,1.0,German Shepherd Mix,Black/Brown,2017-11-14 13:41:00,Intact Male,1.0,0.0,5,N,N
+A780264,Y,2018-09-12 11:42:00,Austin (TX),Owner Surrender,Normal,Dog,Neutered Male,10.0,Other,Black/Tan,2018-09-18 19:12:00,Neutered Male,10.0,0.0,6,N,N
+A691272,Y,2014-11-02 11:14:00,Austin (TX),Stray,Normal,Cat,Intact Female,1.0,Domestic Shorthair,Black,2014-11-03 09:00:00,Intact Female,1.0,0.0,0,N,N
+A799708,N,2019-07-11 11:31:00,Austin (TX),Wildlife,Sick,Bat,Unknown,2.0,Other,Brown/White,2019-07-11 15:10:00,Unknown,2.0,1.0,0,Y,N
+A758906,N,2017-09-23 15:57:00,Austin (TX),Stray,Normal,Cat,Intact Male,0.16666666666666666,Domestic Shorthair,Other,2017-09-27 16:01:00,Intact Male,0.16666666666666666,0.0,4,N,Y
+A767739,Y,2018-03-06 08:59:00,Austin (TX),Stray,Normal,Dog,Intact Male,0.00821917808219178,Pit Bull Mix,Tricolor,2018-05-30 07:02:00,Neutered Male,0.16666666666666666,0.0,84,N,Y
+A794143,Y,2019-05-04 12:27:00,Austin (TX),Stray,Normal,Cat,Intact Female,0.07692307692307693,Domestic Longhair,Black/White,2019-07-12 17:03:00,Spayed Female,0.25,0.0,69,N,Y
+A721610,N,2016-03-01 11:54:00,Austin (TX),Stray,Normal,Dog,Intact Male,2.0,Other,Black,2016-03-05 17:24:00,Neutered Male,2.0,0.0,4,N,N
+A775653,Y,2018-07-03 11:33:00,Austin (TX),Stray,Normal,Bird,Unknown,1.0,Other,Tricolor,2018-07-03 16:10:00,Unknown,1.0,0.0,0,N,N
+A789342,Y,2019-02-19 18:46:00,Austin (TX),Stray,Normal,Dog,Intact Female,0.8333333333333334,Other,Brown/White,2019-03-03 18:44:00,Spayed Female,0.8333333333333334,0.0,11,N,Y
+A712278,Y,2015-09-20 12:20:00,Austin (TX),Stray,Normal,Dog,Neutered Male,1.0,Chihuahua Shorthair Mix,Black/Tan,2015-09-25 14:31:00,Neutered Male,1.0,0.0,5,N,N
+A796522,Y,2019-06-02 15:17:00,Austin (TX),Stray,Normal,Dog,Neutered Male,6.0,Other,Other,2019-06-04 18:00:00,Neutered Male,6.0,0.0,2,N,N
+A714723,N,2015-10-27 11:23:00,Austin (TX),Stray,Normal,Cat,Unknown,0.0576923076923077,Domestic Shorthair,Black,2015-10-27 12:35:00,Unknown,0.0576923076923077,0.0,0,N,Y
+A704914,Y,2015-06-10 18:08:00,Austin (TX),Stray,Normal,Cat,Intact Female,0.08333333333333333,Domestic Shorthair,Brown Tabby/White,2015-06-19 14:31:00,Spayed Female,0.16666666666666666,0.0,8,N,Y
+A790424,Y,2019-03-10 11:16:00,Austin (TX),Stray,Normal,Dog,Intact Female,1.0,Staffordshire Mix,Black,2019-03-16 11:57:00,Spayed Female,1.0,0.0,6,N,N
+A750532,Y,2017-05-28 14:05:00,Austin (TX),Stray,Normal,Cat,Intact Female,0.08333333333333333,Domestic Shorthair,Brown Tabby,2017-06-18 12:50:00,Intact Female,0.16666666666666666,0.0,20,N,Y
+A751564,N,2017-06-09 14:48:00,Austin (TX),Stray,Normal,Cat,Intact Female,0.08333333333333333,Other,Other,2017-06-11 17:09:00,Intact Female,0.08333333333333333,0.0,2,N,Y
+A716701,Y,2015-11-23 12:38:00,Austin (TX),Stray,Normal,Dog,Intact Female,0.75,Australian Cattle Dog Mix,White/Tan,2015-12-19 16:48:00,Spayed Female,0.8333333333333334,0.0,26,N,Y
+A807558,Y,2019-10-26 13:18:00,Austin (TX),Stray,Normal,Cat,Spayed Female,3.0,Other,Torbie,2019-10-26 18:31:00,Spayed Female,3.0,0.0,0,N,N
+A717906,Y,2015-12-17 14:20:00,Travis (TX),Stray,Normal,Dog,Intact Female,0.08333333333333333,Other,Black/White,2015-12-23 12:27:00,Spayed Female,0.16666666666666666,0.0,5,N,Y
+A691184,Y,2015-04-27 16:46:00,Austin (TX),Stray,Normal,Dog,Neutered Male,3.0,Other,Other,2015-05-03 13:00:00,Neutered Male,3.0,0.0,5,N,N
+A808700,Y,2019-11-12 14:55:00,Austin (TX),Stray,Normal,Dog,Intact Male,1.0,Pit Bull,White/Chocolate,2019-12-29 17:03:00,Neutered Male,1.0,0.0,47,N,N
+A684601,Y,2016-07-28 15:10:00,Austin (TX),Public Assist,Normal,Dog,Neutered Male,5.0,Pit Bull Mix,Brown,2016-08-04 11:03:00,Neutered Male,5.0,0.0,6,N,N
+A767142,Y,2018-11-03 13:30:00,Austin (TX),Owner Surrender,Sick,Dog,Neutered Male,4.0,Chihuahua Shorthair Mix,White/Tan,2019-03-26 07:39:00,Neutered Male,5.0,0.0,130,N,N
+A730154,N,2016-06-29 14:07:00,Austin (TX),Stray,Sick,Cat,Neutered Male,3.0,Domestic Longhair,Black/White,2016-06-29 15:11:00,Neutered Male,3.0,1.0,0,N,N
+A666768,Y,2013-11-06 21:37:00,Travis (TX),Stray,Normal,Dog,Spayed Female,0.3333333333333333,Miniature Poodle Mix,Other,2013-11-07 14:09:00,Spayed Female,0.3333333333333333,0.0,0,N,Y
+A801036,Y,2019-07-30 12:15:00,Pflugerville (TX),Stray,Normal,Cat,Intact Male,0.07692307692307693,Domestic Shorthair,Brown Tabby/White,2019-07-30 15:27:00,Intact Male,0.07692307692307693,0.0,0,N,Y
+A811486,Y,2020-01-04 13:45:00,Austin (TX),Stray,Normal,Dog,Intact Male,1.0,Other,Brown Brindle/White,2020-01-04 18:58:00,Intact Male,1.0,0.0,0,N,N
+A800134,Y,2019-07-16 17:16:00,Austin (TX),Stray,Normal,Dog,Spayed Female,7.0,Other,Brown,2019-07-30 15:50:00,Spayed Female,7.0,0.0,13,N,N
+A785849,N,2018-12-11 11:30:00,Austin (TX),Stray,Normal,Cat,Spayed Female,1.0,Domestic Shorthair,Torbie,2018-12-15 18:39:00,Spayed Female,1.0,0.0,4,N,N
+A794762,Y,2019-05-11 17:38:00,Austin (TX),Stray,Normal,Dog,Neutered Male,5.0,Labrador Retriever,Other,2019-08-12 14:54:00,Neutered Male,5.0,0.0,92,N,N
+A758307,Y,2017-09-14 07:04:00,Austin (TX),Stray,Injured,Cat,Intact Male,0.3333333333333333,Domestic Shorthair,Brown Tabby/White,2017-09-20 18:08:00,Intact Male,0.3333333333333333,0.0,6,N,Y
+A769712,Y,2018-04-09 11:13:00,Austin (TX),Stray,Normal,Cat,Intact Male,9.0,Siamese Mix,Other,2018-05-03 08:16:00,Neutered Male,9.0,0.0,23,N,N
+A809262,N,2019-11-21 20:07:00,Pflugerville (TX),Stray,Injured,Cat,Intact Male,2.0,Domestic Shorthair,Blue,2019-12-03 11:45:00,Neutered Male,2.0,0.0,11,N,N
+A710541,Y,2015-08-24 13:25:00,Austin (TX),Stray,Normal,Cat,Intact Male,0.019230769230769232,Domestic Shorthair,Blue/White,2015-10-17 14:43:00,Neutered Male,0.16666666666666666,0.0,54,N,Y
+A782744,Y,2018-10-20 14:33:00,Austin (TX),Public Assist,Normal,Dog,Intact Female,2.0,Boxer Mix,Black,2018-11-01 16:31:00,Intact Female,2.0,0.0,12,N,N
