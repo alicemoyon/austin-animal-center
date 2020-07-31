@@ -89,7 +89,7 @@ patsy=0.5.1=py37_0
 pcre=8.43=h0a44026_0
 pexpect=4.7.0=py37_0
 pickleshare=0.7.5=py37_0
-pillow=7.0.0=py37h4655f20_0
+pillow=7.1.0=py37h4655f20_0
 pip=19.3.1=py37_0
 pixman=0.38.0=h1de35cc_0
 prometheus_client=0.7.1=py_0
